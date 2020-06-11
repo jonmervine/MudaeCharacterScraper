@@ -1,0 +1,18 @@
+SCP   0/11
+(bundle)
+*SCP Series*
+
+SCP Foundation - 0/38
+SCP-035
+SCP-049
+SCP-066
+SCP-079
+SCP-096
+SCP-1048
+SCP-106
+SCP-173
+SCP-682
+
+SCP: Secret Laboratory - 0/2
+Jan Kalous
+Mr. Janusz

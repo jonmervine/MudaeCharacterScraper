@@ -1,0 +1,452 @@
+MMORPG   0/358
+(bundle)
+*Massively Multiplayer Online Role-Playing Games*
+
+Aion - 0/11
+Sheba (Aion)
+Tiamat (Aion)
+
+ARK: Survival Evolved - 0/1
+Helena Walker
+
+Aura Kingdom - 0/16
+Ayako
+Diao Chan (AK)
+Endora
+Harmonia
+Justicia
+Muramasa (AK)
+Nidhogg (AK)
+Serena (AK)
+Zephyrine
+
+Black Desert Online - 0/1
+Black Spirit
+Blade & Soul - 0/4
+Poharan
+
+Blue Protocol - 0/1
+Ain Rein
+
+City of Heroes - 0/2
+Ghost Widow
+
+Closers - 0/22
+Bai Winchester
+Harpy
+Jisu Black
+Kim Yujung
+Levia
+Luna Aegis
+Mirae
+Ran Sunwoo
+Seth (Closers)
+Soma (Closers)
+Sylvi Lee
+Tina
+Violet
+Yuri Seo
+
+Cosmic Break - 0/2
+Crimrose
+Lily Rain
+
+Destiny 2 - 0/11
+Ada-1
+Ana Bray
+Failsafe
+Riven of a Thousand Voices
+Sloane
+Suraya Hawthorne
+TR3-VR
+
+Dofus - 0/21
+Hecate (Dofus)
+Jiva
+Julith
+Lilotte
+Missiz Freezz
+Queen of Thieves
+Sacrier
+
+Dragon Nest - 0/2
+Argenta
+
+Dungeon Fighter Online - 0/5
+Female Mage
+Female Priest
+Knight
+
+Elsword - 0/43
+Aisha Landar
+Anduran
+Anna Testarossa
+Ara Haan
+Artea
+Chloe (Elsword)
+Darkmoon
+Drabaki
+Elesis
+Eltrion
+Eve (Elsword)
+Gloria (Elsword)
+Harnier Solace
+Ignia
+Laby
+Lincy
+Lu (Elsword)
+Nichel
+Nisha Labyrinth
+Rena Erindel
+Sasha (Elsword)
+
+Final Fantasy XI - 0/3
+Lilisette
+Prishe
+Shantotto
+
+Final Fantasy XIV - 0/77
+2P
+Alisaie Leveilleur
+Cirina Mol
+Dorgono Qerel
+Feo Ul
+Gaia
+Garuda
+Giott
+Hilda Ware
+Hydaelyn
+Julyan Manderville
+Kan E Senna
+Krile Mayer Baldesion (FF14)
+Kurenai Shisui
+Lamitt
+Leveva Byrde
+Lyna (FF14)
+Lyse Hext
+Merlwyb Bloefhiswyn
+Minfilia (First)
+Minfilia Warde
+Moenbryda Wilfsunnwyn
+Nanamo Ul Namo
+Nashu Mhakaracca
+Omega-F
+Penthesilea (FF)
+Raya O Senna
+Renda-Rae
+Rowena
+Sadu Dotharl
+Suzaku (FF)
+Tataru Taru
+Tesleen
+Tista-Bie
+Titania (FF)
+Y'shtola Rhul
+Yotsuyu goe Brutus
+Ysayle Dangoulain
+Yugiri Mistwalker
+Zhloe Aliapoh
+
+Flyff - 0/3
+Acrobat
+Magician
+
+Grand Chase - 0/48
+Amenias
+Amy Plie
+Arme Glenstid
+Cindy (GC)
+Decanee
+Edel Frost
+Elesis Sieghart
+Ernasis
+Esnar Din Kanavan
+Io Jupiter
+Kalissa
+Kaze'aze
+Ley von Crimson River
+Lime Serenity
+Lire Eryuell
+Lisnar
+Lothos Isolet
+Mari Ming Onette
+Nana (GC)
+Nelia Ironwood
+Olivia (GC)
+Rasel Coriander
+Rin (GC)
+Sachi (GC)
+Sage (GC)
+Scarde Vi Serdin
+Sofia (GC)
+Tacoel
+Guild Wars - 0/4
+Gwen Thackeray
+
+Gunz 2 - 0/1
+Shadow Dancer
+
+Kritika Online - 0/5
+Psion
+Reaper (KO)
+Rogue
+
+KurtzPel - 0/7
+Crim Plie
+Ensher Renhart
+Lire Eryuell (KP)
+Marian Vendor
+
+Lost Saga - 0/9
+Dark Knight
+Devil
+Indian
+Maid
+Monk
+Puppeteer
+Rock Star (F)
+Rudolph (LS)
+Succubus
+
+Mabinogi - 0/14
+Avelin
+Eiren
+Endelyon
+Jennifer (Mabinogi)
+Kristell
+Lorna
+Mari (Mabinogi)
+Nao
+Pihne
+Rua
+MapleStory - 0/31
+Angelic Buster
+Aran
+Aria (MS)
+Athena Pierce
+Beryl
+Beta (MS)
+Cadena
+Claudine
+Cygnus
+Hilla
+Lucid
+Mercedes (MS)
+Orchid (MS)
+Oz (MS)
+Pathfinder (MS)
+Tana (MS)
+Yuna (MS)
+
+MapleStory 2 - 0/26
+Archer (MS)
+Berserker (MS)
+Ereve
+Eupheria
+Kaitlyn
+Mika Wades
+Mint
+Nairin
+Ophelia (MS)
+Peachy
+Priest (MS)
+Queen Bean
+Runeblade
+Soul Binder
+Thief
+Vanilla (MS)
+Wizard (MS)
+
+NosTale - 0/3
+The Destroyer
+The Holy Mage
+The Wild Keeper
+
+Onigiri - 0/7
+Amaterasu (Onigiri)
+Gawain (Onigiri)
+Ibaraki Douji (Onigiri)
+Lancelot (Onigiri)
+Shizuka Gozen
+Yoshitsune (Onigiri)
+
+PangYa - 0/2
+Arin
+Kooh
+
+Path of Exile - 0/13
+Atziri
+Piety of Theopolis
+The Ranger
+The Witch
+Zana
+
+Phantasy Star Online 2 - 0/32
+[Apprentice]
+[Persona]
+Aika (PSO2)
+Akhtar
+Alma (PSO2)
+Annette (PSO2)
+Bluesy Requiem
+Gene (PSO2)
+Harriet
+Io (PSO2)
+Katori
+Klariskrays
+Kohri Washinomiya
+Maria (PSO2)
+Matoi
+Mother (PSO2)
+Patty (PSO2)
+Phaleg Ives
+Quna
+Risa (PSO2)
+Sarah (PSO2)
+Shiva (PSO2)
+Stratos (PSO2)
+Sukunahime
+Xion (PSO2)
+Yasaka Hitsugi
+
+Ragnarok Online - 0/34
+Alice (RO)
+Angry Student Pyuriel
+Cecil Damon
+Celia Alde
+Egnigem Cenia
+Ellyja
+Gioia
+Gloom Under Night
+Kathryne Keyron
+Leak
+Margaretha Sorin
+Maya (RO)
+Mistress (RO)
+Moonlight Flower
+Piamette
+Pope
+Randgris
+Trentini
+White Lady (RO)
+Zealotus
+
+RuneScape - 0/23
+Alice the Camel
+Ariane
+Commander Zilyana
+Gertrude (RS)
+Konar quo Maten
+Krystilia
+Merethiel
+Nieve (RS)
+Sandwich Lady
+Vanescula Drakan
+
+Rusty Hearts - 0/1
+Angela Strraughend
+
+S4 League - 0/2
+Lilith (S4L)
+Ophelia (S4L)
+
+SoulWorker - 0/18
+Ava (SW)
+Catherine (SW)
+Chii Aruel
+Ephnel
+Haru Estia
+Iris Yuma
+Lex (SW)
+Lily Bloomerchen
+Naran
+Nita
+Poison (SW)
+Shiho (SW)
+Stella Unibell
+Suzie
+
+Star Stable Online - 0/2
+Linda Chanda
+Lisa Peterson
+
+Star Wars: The Old Republic - 0/18
+Kira Carsen
+Lana Beniko
+Nadia Grell
+Satele Shan
+Shae Vizla
+Vette
+
+Temtem - 0/3
+Max (TT)
+Sophia (TT)
+
+TERA - 0/4
+Zolyn
+
+The Elder Scrolls Online - 0/2
+Naryu Virian
+
+Tower Unite - 0/1
+Kalleira
+
+Tree of Savior - 0/4
+Gabija
+Hitomiko
+Kupole Lhuta
+Owynia Dilben
+
+Vindictus - 0/9
+Claire (Vindictus)
+Delia (Vindictus)
+Gwynn
+Seanna
+Tieve
+Vella
+
+Wakfu - 0/14
+Ombrage
+
+Warcraft Series - 0/106
+Aegwynn
+Alexstrasza
+Alleria Windrunner
+Blood-Queen Lana'thel
+Brightwing
+C'Thun
+Calia Menethil
+Chromie
+Fiona (WoW)
+First Arcanist Thalyssra
+Garona Halforcen
+Jaina Proudmoore
+Lady Liadrin
+Lady Vashj
+Li Li Stormstout
+Lilian Voss
+Lunara
+Maiev Shadowsong
+Moira Thaurissan
+N'Zoth
+Queen Azshara
+Sally Whitemane
+Scrollsage Nola
+Shandris Feathermoon
+Sindragosa
+Sylvanas Windrunner
+Taelia Fordragon
+Tess Greymane
+Tyrande Whisperwind
+Valeera Sanguinar
+Vereesa Windrunner
+Y'Shaarj
+Yogg-Saron
+Yrel
+Ysera
+
+Wizard101 - 0/8
+Dalia Falmea
+Lydia Greyrose
+Moolinda Wu
+Selena Gomez

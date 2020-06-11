@@ -1,0 +1,374 @@
+Side-scrolling Games   0/257
+(bundle)
+​
+1bitHeart - 0/51
+Aira Tachibana
+Azusa Kujoh
+Chino Nasuki
+Eruno Kyouka
+Hakuhi Iogi
+Hiyu Mekami
+Kaori Asahina
+Kirara Akanagi
+Mary Seno
+Meru Myoujou
+Meu Kanou
+Misane Mikoto
+Misato Kusunose
+Miumi Miclairno Mizuki
+Momori Ono
+Potete
+Rocca Rion
+Saaya Yukisuzu
+Sagara Sakuse
+Sakuma Suoh
+Sekiyu Hiiragi
+Shiren Kurusu
+Shiroro Yakumo
+Shitara Yakumo
+Tobari Hikagari
+Yasune Nemochi
+
+Azure Striker Gunvolt - 0/28
+Blade (ASG)
+Desna
+Elise (ASG)
+Gibril
+Isola
+Joule
+Kohaku (ASG)
+Lola (ASG)
+Lumen
+Maria (ASG)
+Mytyl
+Stella (ASG)
+Zonda
+
+Castle Crashers - 0/9
+Blacksmith
+Blue Knight
+Gray Knight
+Green Knight
+Orange Knight
+Pink Knight
+Red Knight
+
+Castlevania III: Dracula's Curse - 0/2
+Sypha Belnades
+
+Castlevania: Aria of Sorrow - 0/6
+Mina Hakuba
+Yoko Belnades
+
+Castlevania: Order of Ecclesia - 0/2
+Shanoa
+
+Castlevania: Portrait of Ruin - 0/4
+Charlotte Aulin
+Loretta (CV)
+Stella (CV)
+
+Castlevania: Rondo of Blood - 0/2
+Maria Renard
+
+Castlevania: Symphony of the Night - 0/2
+Lisa Tepes
+
+Cave Story - 0/7
+Curly Brace
+Misery (CS)
+Sue Sakamoto
+
+Celeste - 0/5
+Badeline
+Madeline
+Old Woman
+
+Cuphead - 0/9
+Cala Maria
+Ms. Chalice
+
+Donkey Kong Country 2: Diddy's Kong Quest - 0/1
+Dixie Kong
+
+Double Dragon - 0/3
+Marian Kelly
+
+Dust: An Elysian Tail - 0/3
+Fidget
+Haley
+
+Elsword - 0/43
+Aisha Landar
+Anduran
+Anna Testarossa
+Ara Haan
+Artea
+Chloe (Elsword)
+Darkmoon
+Drabaki
+Elesis
+Eltrion
+Eve (Elsword)
+Gloria (Elsword)
+Harnier Solace
+Ignia
+Laby
+Lincy
+Lu (Elsword)
+Nichel
+Nisha Labyrinth
+Rena Erindel
+Sasha (Elsword)
+Flappy Bird - 0/1
+Flappy Bird
+
+GRIS - 0/1
+GRIS
+
+Hollow Knight - 0/26
+Bretta
+Broken Vessel
+Cloth
+God Tamer
+Grimmchild
+Hornet
+Myla
+Nosk
+Seer
+The Hollow Knight
+The Knight
+The Radiance
+White Lady
+Willoh
+
+Iji - 0/3
+Iji Kataiser
+
+Katana ZERO - 0/6
+SNOW (KZ)
+The Little Girl
+
+Kid Icarus - 0/12
+Medusa (KI)
+Palutena
+Pandora (KI)
+Phosphora
+Viridi
+
+Kirby - 0/38
+0²
+Adeleine
+Chuchu (Kirby)
+Dark Matter
+Dyna Blade
+Flamberge
+Francisca
+Green Kirby
+Kirby
+Queen Sectonia
+Red Kirby
+Susie Haltmann
+Yellow Kirby
+Zan Partizanne
+
+La-Mulana - 0/1
+Mulbruk
+
+LISA: The First - 0/2
+Lisa Armstrong
+
+LISA: The Painful - 0/8
+Buddy
+MapleStory - 0/31
+Angelic Buster
+Aran
+Aria (MS)
+Athena Pierce
+Beryl
+Beta (MS)
+Cadena
+Claudine
+Cygnus
+Hilla
+Lucid
+Mercedes (MS)
+Orchid (MS)
+Oz (MS)
+Pathfinder (MS)
+Tana (MS)
+Yuna (MS)
+Mega Man (Classic) - 0/33
+Plum (MM)
+Roll
+Splash Woman
+
+Mega Man Legends - 0/7
+Denise Marmalade
+Roll Caskett
+Tron Bonne
+Yuna (MML)
+
+Mega Man X - 0/19
+Alia
+Iris (MMX)
+RiCO (MMX)
+
+Mega Man Zero - 0/8
+Ciel (MMZ)
+Fairy Leviathan
+Mega Man ZX - 0/5
+Aile
+Pandora (MMZX)
+Prairie
+
+Mega Man ZX Advent - 0/6
+Ashe (MMZXA)
+Atlas (MMZXA)
+
+Metal Slug - 0/9
+Abigail (MS)
+Dragunov (MS)
+Eri Kasamoto
+Fiolina Germi
+Madoka Aikawa
+Rootmars
+
+Metroid - 0/13
+Baby Metroid
+Dark Samus
+Diggernaut
+Gandrayda
+Mother Brain
+Nightmare (MR)
+SA-X
+Samus Aran
+
+Mighty No.9 - 0/3
+Call
+Dynatron
+
+Momodora: Reverie Under the Moonlight - 0/3
+Kaho Reinol
+Lubella Dim
+Pardoner Fennel
+
+Ori and the Blind Forest - 0/4
+Kuro (Ori)
+Naru
+Ori
+Ori and the Will of the Wisps - 0/1
+Ku
+
+Prinny: Can I Really Be the Hero? - 0/1
+Hero Prinny
+
+Rabi-Ribi - 0/22
+Aruraune
+Ashuri
+Chocolate (RR)
+Cicini
+Cocoa
+Erina
+Irisu
+Keke Bunny
+Kotri
+Lilith (RR)
+Miriam (RR)
+Miru
+Nieve
+Nixie
+Noah (RR)
+Ribbon
+Rita (RR)
+Rumi
+Saya (RR)
+Seana
+Syaro
+Vanilla (RR)
+
+Rayman - 0/7
+Barbara (Rayman)
+Betilla
+Ly
+
+Shantae - 0/12
+Giga Mermaid
+Holly Lingerbean
+Nega-Shantae
+Risky Boots
+Rottytops
+Shantae
+Sky
+Tuki
+Twitch (Shantae)
+Vinegar
+
+Shovel Knight - 0/12
+King Knight's Mother
+Mona (SK)
+Shield Knight
+
+Sonic Advance 2 - 0/3
+Cream the Rabbit
+Vanilla the Rabbit
+
+Sonic Advance 3 - 0/1
+Gemerl
+Sonic Rush - 0/1
+Blaze the Cat
+
+Sonic Rush Adventure - 0/1
+Marine the Raccoon
+
+SteamWorld Dig - 0/2
+Dorothy McCrank
+
+SteamWorld Dig 2 - 0/1
+Fen
+
+Streets of Rage - 0/3
+Blaze Fielding
+
+Super Mario Bros. - 0/4
+Peach
+
+Super Mario Bros. 2 - 0/3
+Birdo
+Super Mario Bros. 3 - 0/7
+Wendy O. Koopa
+
+Super Mario Land - 0/1
+Daisy
+
+Super Meat Boy - 0/4
+Bandage Girl
+Nugget (SMB)
+
+Super Neptunia RPG - 0/3
+Artisan
+Chrome (HDN)
+Firin
+
+Super Paper Mario - 0/13
+Luvbi
+Mimi (SPM)
+Nastasia
+Tippi
+
+Terraria - 0/13
+Eater of Worlds
+Eye of Cthulhu
+Plantera
+Queen Bee
+Retinazer
+Skeletron Prime
+Spazmatism
+The Dryad
+Wall of Flesh
+
+Wario Land 4 - 0/1
+Princess Shokora
+
+Wario Land: Super Mario Land 3 - 0/1
+Captain Syrup

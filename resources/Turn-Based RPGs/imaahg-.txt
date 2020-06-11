@@ -1,0 +1,366 @@
+Turn-Based RPGs   0/281
+(bundle)
+*Turn Based RPGs*
+*TBRPGs*
+
+Atelier Escha & Logy: Alchemists of the Dusk Sky - 0/5
+Awin Sidelet
+Logix Ficsario
+
+Atelier Rorona: The Alchemist of Arland - 0/5
+Sterkenburg Cranach
+
+Breath of Fire IV - 0/2
+Fou-Lu
+Ryu (BoF4)
+
+Conception - 0/11
+Itsuki Yuge
+
+Devil Survivor - 0/13
+Atsuro Kihara
+Beldr
+Eiji Kamiya
+Kazuya Minegishi
+Keisuke Takagi
+Naoya
+
+Devil Survivor 2 - 0/15
+Daichi Shijima
+Hibiki Kuze
+Jungo Torii
+Keita Wakui
+Ronaldo Kuriki
+The Anguished One
+Yamato Hotsuin
+Yuzuru Akie
+
+Digimon Story Cyber Sleuth - 0/24
+Duftmon
+Dukemon
+Dynasmon
+Jesmon
+Lord Knightmon
+Magnamon
+Omegamon
+Sleipmon
+Takumi Aiba
+Ulforce V-dramon
+
+Digital Devil Story: Megami Tensei - 0/9
+Akemi Nakajima
+Beelzebub (SMT)
+Loki (SMT)
+Lucifer (SMT)
+Thor (SMT)
+
+Digital Devil Story: Megami Tensei II - 0/16
+Jack Frost
+Pyro Jack
+Satan (SMT)
+Shiva (SMT)
+
+Disgaea: Hour of Darkness - 0/12
+Gordon
+Laharl
+Thursday
+Vyers
+
+Dofus - 0/21
+Joris
+Kerubim Crépin
+
+Fate/EXTRA - 0/21
+Dan Blackmore
+Gawain
+Julius B. Harwey
+Leonardo B. Harwey
+Li Shuwen
+Robin Hood (F/EX)
+Shinji Matou (F/EX)
+Twice H. Pieceman
+
+Fate/Grand Order - 0/178
+Fou
+Gudao
+King Hassan
+King Solomon
+Kingu
+Leonardo da Vinci
+Leonidas I
+Merlin (F/GO)
+Musashibou Benkei
+Romani Archaman
+
+Final Fantasy VII - 0/35
+Kadaj
+Loz
+Yazoo
+
+Granblue Fantasy - 0/219
+Aletheia
+Drang
+Eugen
+Feather
+Furias
+Gran
+Noa
+Pommern
+Rackam
+Vyrn
+
+Hyperdimension Neptunia mk2 - 0/14
+Warechu
+
+Hyperdimension Neptunia Victory - 0/14
+Anonydeath
+
+Mega Man Battle Network - 0/29
+AirMan.EXE
+AquaMan.EXE
+Bass.EXE
+BeastMan.EXE
+BlizzardMan.EXE
+ElecMan.EXE
+Eugene Chaud
+FireMan.EXE
+GutsMan.EXE
+HeatMan.EXE
+KnightMan.EXE
+Lan Hikari
+MegaMan.EXE
+Mr. Match
+NumberMan.EXE
+ProtoMan.EXE
+Raika
+ShadeMan.EXE
+
+Only You - 0/5
+Yuuji Magami
+
+Persona 3 - 0/33
+Akihiko Sanada
+Eiichiro Takeba
+Jin Shirato
+Junpei Iori
+Keisuke Hiraga
+Ken Amada
+Koromaru
+Minato Arisato
+Orpheus
+Pharos
+Ryoji Mochizuki
+Shinjiro Aragaki
+Shuuji Ikutsuki
+Takaya Sakaki
+Takeharu Kirijo
+
+Persona 4 - 0/27
+Daisuke Nagase
+Funky Student
+Izanagi
+Kanji Tatsumi
+Kou Ichijou
+Ryotaro Dojima
+Teddie
+Tohru Adachi
+Yosuke Hanamura
+Yu Narukami
+
+Persona 5 - 0/35
+Akira Kurusu
+Arsène
+Goro Akechi
+Morgana
+Munehisa Iwai
+Ryuji Sakamoto
+Satanael
+Sojiro Sakura
+Suguru Kamoshida
+Yusuke Kitagawa
+Yuuki Mishima
+
+Pokémon Black 2/White 2 - 0/9
+Colress
+Hugh
+Marlon
+
+Pokémon Black/White - 0/29
+Alder
+Cheren
+Chili
+Cilan
+Cress
+Drayden
+Ghetsis
+Keldeo
+Kyurem
+Meloetta
+N
+Reshiram
+Victini
+Zekrom
+
+Pokémon Diamond/Pearl/Platinum - 0/35
+Arceus
+Azelf
+Barry
+Byron
+Crasher Wake
+Cyrus (PKMN)
+Dialga
+Flint (PKMN)
+Giratina
+Looker
+Mesprit
+Palkia
+Professor Rowan
+Riley
+Roark
+Saturn
+Uxie
+Volkner
+
+Pokémon Gold/Silver/Crystal - 0/25
+Bugsy
+Chuck
+Eusine
+Falkner
+Ho-Oh
+Lugia
+Morty (PKMN)
+Professor Elm
+Proton
+Pryce
+Raikou
+Suicune
+Will (PKMN)
+Youngster Joey
+
+Pokémon Omega Ruby/Alpha Sapphire - 0/4
+Zinnia's Salamence
+
+Pokémon Red/Green/Blue/Yellow - 0/23
+Abra
+Articuno
+Blaine
+Blue Oak
+Brock
+Bruno (PKMN)
+Giovanni
+Koga
+Lance (PKMN)
+Lt. Surge
+Mew
+Mewtwo
+Moltres
+Professor Oak
+Raichu
+Red
+Red's Charizard
+Zapdos
+
+Pokémon Ruby/Sapphire/Emerald - 0/31
+Archie
+Brawly
+Drake
+Factory Head Noland
+Groudon
+Kyogre
+Matt (PKMN)
+Maxie
+Milotic
+Norman (PKMN)
+Professor Birch
+Rayquaza
+Steven Stone
+Tabitha
+Tate
+Wallace (PKMN)
+Wattson (PKMN)
+
+Pokémon Sun/Moon - 0/34
+Faba
+Gladion
+Guzma
+Guzma's Golisopod
+Hala
+Hau
+Ilima
+Incineroar
+Kiawe
+Kiawe's Marowak
+Marshadow
+Nanu
+Nebby
+Necrozma
+Professor Kukui
+Smeargle
+Tapu Koko
+
+Pokémon Sword/Shield - 0/28
+Allister
+Chairman Rose
+Hop
+Leon (PKMN)
+Leon's Charizard
+Milo (PKMN)
+
+Pokémon Ultra Sun/Ultra Moon - 0/4
+Dulse
+
+Pokémon X/Y - 0/28
+AZ
+Clemont
+Lysandre
+Professor Sycamore
+Ramos
+Siebold
+Wulfric
+Xerneas
+Yveltal
+
+Rance - 0/76
+Rance
+Revelations: Persona - 0/14
+Igor
+Kei Nanjo
+
+Shin Megami Tensei I - 0/15
+Cait Sith (SMT)
+Cu Chulainn (SMT)
+
+Shin Megami Tensei II - 0/13
+Jiraiya (SMT)
+King Frost
+Mercurius (SMT)
+Metatron (SMT)
+Nebiros (SMT)
+
+Shin Megami Tensei III - 0/8
+Black Frost
+Mot
+
+The Caligula Effect - 0/20
+Ike-P
+Izuru Minezawa
+Kagi-P
+Kotarou Tomoe
+Ritsu Shikishima
+Shadow Knife
+Shonen Doll
+Shougo Satake
+
+The Gray Garden - 0/26
+Ivlis
+
+Wakfu - 0/14
+Adamai
+Bordegann
+Noximilien Coxen
+Qilby
+Rubilax
+Ruel Stroud
+Tristepin de Percedal
+Vampyro
+Yugo

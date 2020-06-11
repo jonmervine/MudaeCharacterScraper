@@ -1,0 +1,716 @@
+Browser Games   15/634
+(bundle)
+*Web Games*
+
+AdventureQuest Worlds - 0/3
+13th Lord of Chaos
+Gravelyn
+
+Anime Music Quiz - 0/7
+Honoka (AMQ)
+Komugi (AMQ)
+Kuriko
+Kyouko (AMQ)
+Miyu (AMQ)
+Noel (AMQ)
+Shiina (AMQ)
+
+Club Penguin - 0/11
+Aunt Arctic
+Cadence (CP)
+Dot
+Paige
+
+Corruption of Champions II - 0/7
+Arona
+Atugia
+Brienne
+Caitriss Zethra
+Etheryn
+Kiyoko
+
+Covert Front - 0/1
+Kara (CF)
+
+Crush Crush - 0/37
+Alpha
+Bearverly
+Blanche (CC)
+Bonnibel
+Caitlin (CC)
+Cassie (CC)
+Catara
+Charlotte (CC)
+Darya
+Elle (CC)
+Francine (CC)
+Fumi (CC)
+Generica
+Honey (CC)
+Iro
+Jelle
+Lotus (CC)
+Marshmallow
+Mio (CC)
+Miss Desirée
+Nina (CC)
+Nova (CC)
+Nutaku
+Odango
+Pamu
+Peanut (CC)
+Q-Pernikiss
+Quill
+Quillzone
+Renée (CC)
+Ruri (CC)
+Sawyer (CC)
+Sofia (CC)
+Sutra
+The Dark One (CC)
+Wendy (CC)
+Willow (CC)
+
+Devilish Hairdresser - 0/2
+Angel (DH)
+Devil (DH)
+
+Epic Battle Fantasy - 0/5
+Anna (EBF)
+Natalie
+
+Flight Rising - 0/13
+Flamecaller
+Gladekeeper
+Lightweaver
+Plaguebringer
+Roundsey
+Shadowbinder
+
+Flower Knight Girl - 0/14
+Anemone (FKG)
+Apple (FKG)
+Daisy (FKG)
+Dayflower
+Dusty Miller
+Flowering Peach
+Green Bristlegrass
+Hypericum
+Morning Glory
+Purslane
+Royal Water Lily
+Saffron
+Sensitive Plant
+Veronica (FKG)
+Fruits Fulcute - 0/7
+Asaii
+Bardock (FF)
+Bergamot
+Blood Orange
+Carrot (FF)
+Gumi (FF)
+Suika (FF)
+
+Granblue Fantasy - 0/219
+Alexiel
+Aliza
+Andira
+Anila
+Anna (GBF)
+Anthuria
+Arulumaya
+Aster (GBF)
+Athena (GBF)
+Azrael (GBF)
+Beatrix
+Black Knight (GBF)
+Cagliostro
+Cailana
+Camieux
+Canna
+Carmelina
+Carren
+Catherine (GBF)
+Cecile
+Charlotta (GBF)
+Chloe (GBF)
+Clarisse
+Cucouroux
+Danua
+De La Fille
+Death (GBF)
+Diantha (GBF)
+Diola
+Djeeta
+Dorothy (GBF)
+Echidna (GBF)
+Ejaeli
+Erin (GBF)
+Europa
+Euryale (GBF)
+Ferry
+Fif
+Fraux
+Freesia
+Friday
+Gabriel (GBF)
+Golden Knight (GBF)
+Haaselia
+Hallessena
+Halluel
+Harie
+Helel ben Shalem
+Heles
+Herja
+Ilsa
+Io
+Israfel (GBF)
+Izmir
+Jeanne d'Arc (GBF)
+Jessica
+Joy (GBF)
+Judgement (GBF)
+Katalina
+Kolulu
+Korwa
+Kumbhira
+La Coiffe
+Ladiva
+Lady Grey (GBF)
+Lamretta
+Lecia
+Lennah
+Leona (GBF)
+Leviathan
+Lily (GBF)
+Linaria
+Lunalu
+Lyria
+Macula Marius
+Magisa
+Mahira
+Malluel
+Maria Theresa
+Mary (GBF)
+Medusa
+Melissabelle
+Melleau
+Metera
+Michael (GBF)
+Mika (GBF)
+Mirin
+Monika (GBF)
+Narmaya
+Nemone
+Nier
+Niyon
+Novei
+Orchid
+Pengy
+Petra (GBF)
+Pholia
+Queen Orchis
+Razia
+Robomi
+Rosamia
+Rosetta
+Sara (GBF)
+Sarya
+Satyr
+Scathacha
+Selfira
+Sen
+Shitori
+Sierokarte
+Silva
+Societte
+Sophia (GBF)
+Sturm
+Sutera
+Tabina
+Tanya (GBF)
+Teena
+Therese
+Threo
+Tiamat (GBF)
+Tien
+Tweyen
+Vajra
+Varuna
+Vikala
+Vira
+Volenna
+Wulf and Renie
+Yaia
+Yatima
+Yggdrasil
+You
+Yuel
+Yuisis
+Zahlhamelina
+Zeta
+Zooey
+
+Kantai Collection - 15/262
+Abukuma (KC)
+Abyssal Crane Princess
+Abyssal Jellyfish Princess
+Abyssal Mediterranean Princess
+Abyssal Nimbus Princess
+Abyssal Pacific Princess
+Abyssal Sun Princess
+Abyssal Twin Princesses
+Agano (KC)
+Air Defense Princess
+Aircraft Carrier Princess
+Aircraft Carrier Water Demon
+Airfield Princess
+Akagi (KC)
+Akashi (KC)
+Akatsuki (KC)
+Akebono
+Akigumo
+Akishimo
+Akitsumaru
+Akitsushima
+Akizuki
+Amagi (KC)
+Amagiri
+Amatsukaze  
+Anchorage Demon
+Anchorage Water Demon
+Ancient Destroyer Princess
+Anti-Air Cruiser Princess
+Anzio Princess
+Aoba (KC)
+Aquila (KC)
+Arashi
+Arashio (KC)
+Ark Royal (KC)
+Asagumo
+Asakaze
+Asashimo
+Asashio (KC)
+Ashigara (KC)
+Atago (KC)
+Atlanta (KC)
+Ayanami (KC)
+Batavia Princess
+Battleship Princess
+Battleship Re-Class
+Battleship Ru-class
+Battleship Ta-Class
+Battleship Water Demon
+Bismarck (KC)
+Central Princess
+Chikuma (KC)
+Chitose
+Chiyoda
+Choukai (KC)
+Colorado (KC)
+Commandant Teste
+Daitou
+De Ruyter
+Destroyer Princess
+Destroyer Water Demon
+Duca degli Abruzzi
+Entombed Anti-Air Guardian Princess
+Escort Water Princess
+European Princess
+European Water Princess
+Fletcher (KC)
+French Battleship Princess
+Fubuki (KC)  
+Fujinami
+Fumizuki (KC)  
+Furutaka (KC)
+Fusou (KC)
+Gambier Bay
+Gangut
+Giuseppe Garibaldi
+Gotland
+Graf Zeppelin (KC)
+Grecale
+Hagikaze
+Haguro
+Hamakaze (KC)
+Hamanami (KC)
+Harbour Princess
+Harukaze
+Haruna (KC)
+Harusame
+Hatakaze
+Hatsuharu (KC)
+Hatsushimo
+Hatsuzuki
+Hayanami
+Hayashimo
+Hayasui
+Heavy Cruiser Ne-Class
+Heavy Cruiser Princess
+Hibiki (KC)
+Hiburi
+Hiei (KC)  
+Hiryuu (KC)  
+Hiyou (KC)
+Houshou (KC)
+Houston (KC)
+Hyuuga (KC)
+I-13 (KC)
+I-14
+I-168 (KC)
+I-19 (KC)
+I-26 (KC)
+I-400
+I-401
+I-58 (KC)
+I-8
+Ikazuchi (KC)
+Inazuma (KC)
+Intrepid
+Iowa
+Ise (KC)
+Isokaze
+Isolated Island Demon
+Isuzu (KC)
+Janus
+Jervis
+Jintsuu (KC)
+Johnston
+Junyou (KC)
+Kaga (KC)  
+Kagerou (KC)
+Kako (KC)
+Kamikaze (KC)  
+Kamoi
+Kashima
+Kasuga Maru
+Kasumi (KC)
+Katori (KC)
+Katsuragi (KC)
+Kawakaze (KC)
+Kazagumo
+Kikuzuki
+Kinu (KC)
+Kinugasa
+Kirishima (KC)
+Kisaragi (KC)
+Kishinami
+Kiso
+Kitakami
+Kiyoshimo
+Kongou (KC)
+Kuma (KC)
+Kumano
+Kuroshio (KC)
+Libeccio
+Light Cruiser Demon
+Light Cruiser Princess
+Littorio (KC)
+Lycoris Princess
+Maestrale
+Maikaze
+Makigumo
+Matsukaze (KC)
+Matsuwa
+Maya (KC)
+Michishio
+Midway Princess
+Mikazuki (KC)
+Minazuki
+Minegumo
+Mizuho
+Mogami (KC)  
+Murakumo (KC)  
+Murasame (KC)  
+Musashi (KC)
+Mutsu (KC)
+Mutsuki (KC)
+Myoukou (KC)
+Nachi (KC)
+Naganami
+Nagato (KC)  
+Nagatsuki
+Naka (KC)
+Nelson (KC)
+New Submarine Princess
+Night Strait Princesses
+Nisshin
+Northern Little Sister
+Northern Princess
+Noshiro (KC)
+Nowaki (KC)
+Oboro (KC)
+Okinami
+Ooi
+Ooshio (KC)
+Ooyodo
+Oyashio (KC)
+Perth
+Pola (KC)
+Prinz Eugen (KC)
+Richelieu (KC)
+Roma
+Ryuujou (KC)
+Sagiri (KC)
+Sakawa
+Samidare
+Samuel B. Roberts
+Saratoga (KC)
+Satsuki (KC)
+Sazanami
+Seaplane Tender Water Princess
+Sendai (KC)
+Shigure (KC)
+Shikinami
+Shimakaze (KC)
+Shinshuu Maru
+Shiranui (KC)
+Shiratsuyu (KC)
+Shouhou (KC)
+Shoukaku (KC)
+Souryuu (KC)
+Southern War Demon
+Submarine Princess
+Supply Depot Princess
+Suzukaze (KC)
+Suzutsuki
+Suzuya (KC)
+Taigei
+Taihou (KC)
+Takanami
+Takao (KC)
+Tama (KC)
+Tanikaze (KC)
+Tashkent
+Tatsuta
+Tenryuu  
+Teruzuki
+Tokitsukaze  
+Tone (KC)  
+Tsushima
+U-511
+Umikaze
+Unryuu
+Urakaze (KC)
+Ushio
+Uzuki (KC)
+Warspite (KC)
+Wo-Kyuu Kuubo
+Yahagi
+Yamagumo
+Yamakaze
+Yamashiro (KC)
+Yamato (KC)
+Yayoi
+Yukikaze (KC)
+Yura (KC)
+Yuubari (KC)
+Yuudachi (KC)
+Yuugumo
+Z1 (KC)
+Z3
+Zara (KC)
+Zuihou
+Zuikaku (KC)  
+
+Kitty Catsanova - 0/3
+Chloe (KC)
+
+Lioden - 0/4
+Queen Bast
+Wenet
+Mahjong Soul - 0/6
+Chiori Mikami
+Hinata Takanashi
+Ichihime (MS)
+Kana Fujita
+Miki Nikaidou
+Riu Kujou
+
+Millennium War Aigis - 0/17
+Anatolia
+Anya (Aigis)
+Daniela
+Elias
+Erlang Shen
+Hu Ximei
+Hyuuna
+Kibahime
+Kyuubi (Aigis)
+Lapis (Aigis)
+Lily (Aigis)
+Mikoto (Aigis)
+Nataku
+Rita (Aigis)
+Shu-Xian
+Sybilla
+Sylvia (Aigis)
+
+missed messages. - 0/2
+Amy (mm.)
+May (mm.)
+
+Mitsuku - 0/1
+Mitsuku
+
+Momoiro Taisen Pairon - 0/1
+Takaoka Mikoto
+
+Monster Musume no Iru Nichijou Online - 0/8
+Abyss
+Actia
+Aluru
+Haru (MMO)
+Kagachi (MMO)
+Kasuka
+Suzie (MMO)
+Tsen
+
+Neopets - 0/5
+Fyora
+Hannah (Neopets)
+Sophie the Swamp Witch
+
+RPG Shooter: Starwish - 0/2
+Ginny (RSS)
+
+RuneScape - 0/23
+Alice the Camel
+Ariane
+Commander Zilyana
+Gertrude (RS)
+Konar quo Maten
+Krystilia
+Merethiel
+Nieve (RS)
+Sandwich Lady
+Vanescula Drakan
+
+Rusty Lake - 0/2
+Laura Vanderboom
+
+Senran Princess G - 0/1
+Chacha (SPG)
+
+Sort the Court! - 0/3
+Gardener
+Royal Advisor
+
+Super Meat Boy - 0/4
+Bandage Girl
+Nugget (SMB)
+Taimanin Asagi ~Battle Arena~ - 0/26
+Aina Winchester
+Alberta
+Amane Fuuma
+Asatsuki Shiga
+Astaroth (TABA)
+Cecilia Cello
+Cerastes
+Chevalier
+Crakle
+Cyborg Asagi
+Dezel (TABA)
+Dullahan
+Hisui Yuri
+Laetitia Bellmer
+Lark Shasha
+Magical Girl Lilith
+Mai Nanase
+Maika Kamimura
+Mari Shinohara
+Mirabell Bell
+Ooshima Shizuku
+Red Line
+Rina (TABA)
+Saika Fuuma
+Tokiko Fuuma
+Yukina Grace
+
+Taimanin RPGX - 0/1
+Kirara Onizaki
+
+The iDOLM@STER: Shiny Colors - 0/20
+Amana Osaki
+Asahi Serizawa
+Chiyoko Sonoda
+Chiyuki Kuwayama
+Fuyuko Mayuzumi
+Hazuki Nanakusa
+Hiori Kazano
+Juri Saijo
+Kaho Komiya
+Kiriko Yukoku
+Kogane Tsukioka
+Mamimi Tanaka
+Mano Sakuragi
+Meguru Hachimiya
+Mei Izumi
+Natsuha Arisugawa
+Rinze Morino
+Sakuya Shirase
+Tenka Osaki
+Yuika Mitsumine
+
+The Trapped Trilogy - 0/2
+Dialla Reineheart
+
+Touken Ranbu - 0/81
+Konnosuke
+Town of Salem - 0/3
+Poisoner
+Potion Master
+
+Transformice - 0/1
+Elisah
+
+Trials in Tainted Space - 0/1
+Fisianna Luvalle
+
+Ultra Adventure! Go Go - Osawari Island - 0/3
+Aya Morioka
+Charlotte (OI)
+Ichigo (OI)
+
+Umemaro 3D - 0/6
+Ai Koyanagi
+Hanami Ichijo
+Rika Yagyu
+Unlight - 0/4
+Donita
+Sheri
+Stacia
+
+Wasted Youth - 0/25
+Casey (WY)
+Elaine (WY)
+Hammy
+Lilly (WY)
+Ruby (WY)
+Xenia
+Yvette (WY)
+Zena (WY)
+
+Webkinz - 0/14
+Amanda Panda
+Ms. Birdy
+Ms. Cowoline
+Persephone (Webkinz)
+Plumpy Hippo
+Pollie-Jean Collie
+Tabitha Von Meow
+
+Your Turn To Die -Death Game By Majority- - 0/26
+Anzu Kinashi
+Hinako Mishuku
+Kanna Kizuchi
+Kugie Kizuchi
+Mai Tsurugi
+Megumi Sasahara
+Nao Egokoro
+Reko Yabusame
+Sara Chidouin
+Sue Miley
+Tia Safalin
+Touko Rikuno

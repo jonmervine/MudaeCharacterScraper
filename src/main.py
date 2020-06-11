@@ -19,7 +19,10 @@ async def on_message(message):
         mudae.handle_my_message(message)
 
     if message.author.id == 582107046435094531:
-        mudae.handle_message(message.embeds[0])
+        if message.embeds:
+            mudae.handle_message(message.embeds[0])
+        else:
+            mudae.handle_non_embed_message(message)
 
 
 @client.event

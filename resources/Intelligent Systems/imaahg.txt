@@ -1,0 +1,370 @@
+Intelligent Systems   0/322
+(bundle)
+​
+Advance Wars - 0/6
+Andy (AW)
+Colin (AW)
+Jake (AW)
+
+Codename S.T.E.A.M. - 0/1
+Abraham Lincoln
+
+Fire Emblem Echoes: Shadows of Valentia - 0/4
+Berkut
+Masked Knight
+
+Fire Emblem Gaiden - 0/28
+Alm
+Atlas (FE)
+Boey
+Deen
+Duma
+Forsyth
+Gray (FE)
+Kamui (FE)
+Kliff
+Leon
+Lukas
+Luthier
+Mycen
+Python
+Rudolf
+Saber (FE)
+Tobin
+Valbar
+
+Fire Emblem: Awakening - 0/51
+Brady
+Chrom
+Donnel
+Excellus
+Frederick
+Gaius
+Gangrel
+Gerome
+Gregor (FE)
+Grima
+Henry
+Inigo
+Kellam
+Laurent
+Libra
+Lon'qu
+Morgan (M)
+Owain
+Priam
+Ricken
+Robin (M)
+Stahl
+Vaike
+Validar
+Virion
+Walhart
+Yarne
+Yen'fay
+
+Fire Emblem: Fates - 0/69
+Anankos
+Arthur (FE14)
+Asugi
+Azama
+Benny (FE)
+Corrin (M)
+Dwyer
+Forrest
+Garon
+Gunter (FE)
+Hayato (FE)
+Hinata (FE)
+Hisame
+Iago (FE)
+Ignatius
+Izana
+Jakob
+Kaden
+Kana (M)
+Kaze
+Keaton
+Kiragi
+Leo
+Niles
+Ryoma
+Saizo
+Shigure
+Shiro (FE)
+Shura
+Siegbert
+Silas
+Subaki
+Takumi
+Xander
+
+Fire Emblem: Genealogy of the Holy War - 0/40
+Arden
+Ares (FE)
+Arthur (FE4)
+Arvis
+Azelle
+Ced
+Chulainn
+Eldigan
+Febail
+Finn (FE)
+Iuchar
+Jamke
+Julius
+Lewyn
+Lex (FE)
+Manfroy
+Quan
+Seliph
+Shannan
+Sigurd
+Travant
+Fire Emblem: Heroes - 0/27
+Alfonse
+Bruno (FE)
+Fehnix
+Freyr (FE)
+Gustav
+Helbindi
+Hríd
+Kiran
+Líf
+Surtr
+
+Fire Emblem: Mystery of the Emblem - 0/5
+Luke (FE)
+Samuel (FE)
+
+Fire Emblem: New Mystery of the Emblem - 0/5
+Kris (M)
+Legion (FE)
+Fire Emblem: Path of Radiance - 0/55
+Ashnard
+Bastian
+Black Knight
+Boyd
+Brom
+Caineghis
+Devdan
+Gatrie
+Geoffrey
+Greil
+Haar
+Ike
+Janaff
+Kieran (FE)
+Kurthnaga
+Makalov
+Mordecai (FE)
+Muarim
+Naesala
+Nasir
+Oliver (FE)
+Oscar
+Ranulf
+Reyson
+Rhys (FE)
+Rolf (FE)
+Sephiran
+Shiharam
+Shinon
+Soren
+Sothe
+Stefan
+Tibarn
+Tormod
+Ulki
+Volke
+Zihark
+Fire Emblem: Radiant Dawn - 0/17
+Edward (FE)
+Kyza
+Leonardo (FE)
+Nolan
+Pelleas
+Skrimir
+Valtome
+Volug
+
+Fire Emblem: Shadow Dragon - 0/5
+Etzel
+Frey (FE)
+
+Fire Emblem: Shadow Dragon and the Blade of Light - 0/28
+Astram
+Barst
+Beck
+Bord
+Camus (FE)
+Cord (FE)
+Draug
+Gordin
+Hardin
+Marth
+Merric
+Michalis
+Navarre (FE)
+Samson
+Sedgar
+Wolf (FE)
+Xane
+
+Fire Emblem: The Binding Blade - 0/32
+Alen
+Bartre
+Chad (FE)
+Gonzalez
+Hugh (FE)
+Karel
+Klein (FE)
+Lance (FE)
+Lugh (FE)
+Narcian
+Ogier
+Roy
+Rutger
+Saul
+Trec
+Wolt
+Zephiel
+
+Fire Emblem: The Blazing Blade - 0/36
+Canas
+Dorcas
+Eliwood
+Erk
+Hawkeye
+Heath (FE)
+Hector
+Jaffar
+Kent (FE)
+Legault
+Limstella
+Linus Reed
+Lloyd Reed
+Lowen (FE)
+Lucius
+Mark (FE)
+Matthew
+Nils
+Pent (FE)
+Rath
+Raven (FE)
+Sain
+
+Fire Emblem: The Sacred Stones - 0/33
+Artur
+Caellach
+Colm
+Cormag
+Dozla
+Duessel
+Ephraim
+Ewan (FE)
+Forde
+Franz (FE)
+Gerik
+Innes
+Joshua (FE)
+Knoll (FE)
+Lyon
+Orson
+Rennac
+Ross (FE)
+Seth (FE)
+Valter
+
+Fire Emblem: Thracia 776 - 0/12
+Asbel
+August (FE)
+Kempf
+Leif
+Reinhardt
+
+Fire Emblem: Three Houses - 0/60
+Acheron
+Alois
+Ashe (FE)
+Balthus
+Byleth (M)
+Caspar
+Claude
+Cyril (FE)
+Death Knight
+Dedue
+Dimitri
+Dorte
+Felix (FE)
+Ferdinand
+Gatekeeper
+Gilbert
+Hanneman
+Hubert (FE)
+Ignatz
+Jeralt
+Lambert
+Linhardt
+Lonato
+Lorenz
+Nader
+Nemesis (FE)
+Randolph
+Raphael (FE)
+Rodrigue
+Seteth
+Solon
+Sylvain
+Thales
+Tomas
+Yuri (FE)
+
+Fire Emblem: Warriors - 0/2
+Darios
+
+Paper Mario - 0/12
+Goombario
+Kooper
+Lakilester
+Paper Bowser
+Paper Luigi
+Paper Mario
+Parakarry
+
+Paper Mario: The Thousand-Year Door - 0/17
+?????
+Admiral Bobbery
+Atomic Boo
+Cortez
+Flavio
+Koops
+Lord Crump
+Mini-Yoshi
+Rawk Hawk
+
+Super Paper Mario - 0/13
+Count Bleck
+Dimentio
+Flint Cragley
+Francis (SPM)
+Merlon
+Mr. L
+O'Chunks
+Old Man Watchitt
+Super Dimentio
+
+Tokyo Mirage Sessions ♯FE - 0/8
+Barry Goodman
+Itsuki Aoi
+Touma Akagi
+WarioWare - 0/15
+18-Volt
+9-Volt
+Cricket
+Dribble
+Jimmy T.
+Mike (WW)
+Orbulon
+Spitz
+Wario

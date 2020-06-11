@@ -1,0 +1,229 @@
+20th Century Fox   0/188
+(bundle)
+*20th Century Fox Television*
+*20th Century Studios*
+
+Alien vs. Predator - 0/3
+Predator
+Xenomorph
+
+Alvin and the Chipmunks - 0/7
+Alvin Seville
+Dave Seville
+Simon Seville
+Theodore Seville
+
+Buffy the Vampire Slayer - 0/11
+Angel
+Oz (BtVS)
+Rupert Giles
+Spike (BtVS)
+Xander Harris
+
+Disenchantment - 0/6
+Elfo
+King Zog
+Luci
+
+Dragon Ball - 0/29
+Android 8
+Chiaotzu
+Emperor Pilaf
+General Blue
+Grandpa Gohan
+Kami
+King Piccolo
+Korin
+Krillin
+Mr. Popo
+Muten Roshi
+Oolong
+Ox-King
+Piccolo
+Puar
+Scratch
+Shenron
+Shu (DB)
+Son Goku
+Tao Pai Pai
+Tenshinhan
+Turtle
+Yajirobe
+Yamcha
+
+Dragon Ball GT - 0/8
+Baby
+Giru
+Son Goku Jr.
+Super 17
+Syn Shenron
+Vegeta Jr.
+
+Dragon Ball Heroes - 0/16
+Cumber
+Hearts
+Kamioren
+Mechikabura
+Oren
+
+Dragon Ball Super - 0/40
+Basil (DB)
+Beerus
+Belmod
+Bergamo
+Broly (DBS)
+Cabba
+Champa
+Dyspo
+Frost (DB)
+Fused Zamasu
+Future Zeno
+Goku Black
+Gowasu
+Grand Priest
+Hit
+Jiren
+Lavender (DB)
+Liquiir
+Merus
+Moro (DB)
+Pilina
+Saonel
+Toppo
+Whis
+Zamasu
+Zeno-sama
+
+Dragon Ball Z - 0/66
+Android 13
+Android 16
+Android 17
+Android 19
+Babidi
+Bardock
+Bibidi
+Bojack
+Broly (DBZ)
+Burter
+Captain Ginyu
+Cell
+Cell Jr.
+Chilled
+Cooler
+Dabura
+Dende
+Dodoria
+Dr. Gero
+East Supreme Kai
+Evil Buu
+Frieza
+Future Gohan
+Future Trunks
+Gogeta
+Gotenks
+Grand Elder Guru
+Guldo
+Janemba
+Jeice
+Kibito
+Kibito Kai
+Kid Buu
+King Cold
+King Kai
+King Vegeta
+Lord Slug
+Majin Buu
+Mr. Satan
+Nail
+Nappa
+Old Kai
+Pikkon
+Porunga
+Raditz
+Recoome
+Salza
+Son Gohan
+Son Goten
+Super Buu
+Tapion
+Tarble
+Trunks
+Turles
+Uub
+Vegeta
+Vegito
+Zarbon
+
+Futurama - 0/13
+Bender
+Doctor Zoidberg
+Fry
+Hermes Conrad
+Hubert J. Farnsworth
+Kif Kroker
+Lrrr
+Morbo
+Robot Devil
+Zapp Brannigan
+
+Glee - 0/10
+Blaine Anderson
+Finn Hudson
+Kurt Hummel
+
+Ice Age - 0/13
+Buck
+Crash
+Diego
+Eddie (IA)
+Manny
+Scrat
+Sid
+
+Jaco the Galactic Patrolman - 0/2
+Jaco
+James Cameron's Avatar - 0/3
+Jake Sully
+Tsu'tey
+
+Peanuts - 0/4
+Charlie Brown
+Linus van Pelt
+Snoopy
+
+Rio - 0/2
+Blu
+
+Serenity - 0/6
+Derrial Book
+Malcolm Reynolds
+Simon Tam
+
+The Simpsons - 0/29
+Abraham Simpson II
+Apu Nahasapeemapetilon
+Bart Simpson
+Bort (Boy)
+Bort (Man)
+Carl Carlson
+Clancy Wiggum
+Cletus Spuckler
+David Byrne
+Gary Chalmers
+Groundskeeper Willie
+Guy Incognito
+Hans Moleman
+Homer Simpson
+Lenny Leonard
+Milhouse Van Houten
+Moe Szyslak
+Mr. Burns
+Ned Flanders
+Rob Halford
+Seymour Skinner
+Sideshow Bob
+Snake Jailbird
+Waylon Smithers
+
+The X-Files - 0/2
+Fox Mulder

@@ -1,0 +1,319 @@
+RPG Maker Games   0/219
+(bundle)
+*RPG Maker*
+
+.flow - 0/4
+Smile
+
+1BeatHeart - 0/4
+Nomare Mizuchi
+Shinobu Kasuga
+Teruhi Yukisaku
+
+1bitHeart - 0/51
+Akashi Oihara
+Akitaka Kujoh
+Akuta Kamome
+Asuto Aizen
+Enri Kumashiro
+Haruya Nasuki
+Hitohito Kogure
+Izuchi Nasuga
+Jin Chigaya
+Kirai Nasuga
+Kiri Kuruga
+Kotora Yatano
+Kuroku Yakumo
+Mikado Aisaka
+Moroku Hasuya
+Natsukage Suoh
+Nio Amaha
+Nomiya Yosaka
+Ryuuri Kujoh
+Sora Kamui
+Takamiya Kyouri
+Yoh
+Yoshi Nanase
+Yukinaga Asagi
+Yuuto Oui
+
+A Bird Story - 0/2
+Bird (ABS)
+Colin Reeds
+
+Alice Mare - 0/9
+Allen Llewellyn
+Cheshire Cat (AM)
+Joshua Bartlett
+Rick (AM)
+Teacher (AM)
+White Rabbit (AM)
+
+Ao Oni - 0/2
+Hiroshi
+The Oni
+
+BLACKSOULS II - 0/12
+Bill (BS)
+Snake God
+
+Coffin of Ashes - 0/3
+Ian (CoA)
+
+Confess My Love - 0/1
+Willie
+Corpse Party - 0/15
+Kensuke Kurosaki
+Sakutaro Morishige
+Satoshi Mochida
+Yoshikazu Yanagihori
+Yoshiki Kishinuma
+Yuuya Kizami
+
+END ROLL - 0/15
+Dogma Toscarina
+Informant
+Kantera
+Raymond Costa
+Russell Seager
+Tabasa McNeil
+Walter Bartley
+Wisdom Observer (M)
+
+Fantasy Maiden's Odd Hideout - 0/3
+Bernd (FMOH)
+D (FMOH)
+
+Faraway Story - 0/8
+Crowa
+Ellevark Cross-Cryude
+Karnel
+
+Farethere City - 0/7
+Gertrude Jekyll
+Gilbert Lang
+Karakoro
+Michibiki
+Pigula
+
+Finding Paradise - 0/4
+Robert Lin
+
+General Hashasky's Great Adventure - 0/2
+Mogekov Hashasky
+Hello Charlotte - 0/20
+Aiden
+Baldwin
+Bennett
+C
+Charles Eyler
+Felix Honikker
+Frei
+Goodwin
+Henry Huxley
+Magcat
+Seth (HC)
+Umbrella Man
+Vincent Fennell
+Vincent Fennell (HG)
+
+Hylics - 0/4
+Dedusmuln
+Pongorma
+Wayne
+
+Ib - 0/3
+Garry
+
+Kirisame ga Furu Mori - 0/4
+Koutarou Suga
+Mochizuki Yousuke
+
+LiEat - 0/4
+Neil Masefield
+Theobald Leonhart
+
+LISA: The First - 0/2
+Marty Armstrong
+
+LISA: The Painful - 0/8
+Big Lincoln
+Brad Armstrong
+Buzzo
+Fly Minetti
+Garth (LISA)
+Rando
+Terry Hintz
+
+Lonely Wolf Treat Series - 0/6
+Trick
+
+Mad Father - 0/4
+Alfred Drevis
+Dio (MF)
+
+Misao - 0/5
+Hideki Sohta
+Mr. Onigawara
+
+Mogeko Castle - 0/7
+Defect Mogeko
+King mogeko
+Moffuru
+Mogecuckoo
+Shinya Kurai
+
+Nano-Control - 0/13
+Derek (NC)
+Mayor (NC)
+
+Noel the Mortal Fate - 0/11
+Caesar (NtMF)
+Caron
+Fugo Dressel
+Oscar Dressel
+Ribelio Strada
+Russell Burrows
+
+OFF - 0/10
+Dedan
+Enoch
+Hugo (OFF)
+Japhet
+Le Batteur
+Le Juge
+Valérie
+Zacharie
+
+OMORI - 0/1
+OMORI
+
+OneShot - 0/17
+Calamus
+Cedric
+Lamplighter
+Ling
+Magpie (OS)
+Niko
+Prophetbot
+Prototype
+Rowbot
+The Entity
+Pocket Mirror - 0/8
+Strange Boy
+
+Polka - 0/2
+Britt Log
+
+Pom Gets Wi-Fi - 0/3
+Hus
+Shibe
+
+Satsuriku no Tenshi - 0/8
+Abraham Gray
+Daniel Dickens
+Edward Mason
+Isaac Foster
+
+The Boogie Man - 0/7
+Boogie Man
+Brendon Dumont
+Dick Anderson
+Keith Baring
+Lance Kanal
+Tod Baring
+
+The Crooked Man - 0/8
+Crooked Man
+D (TCM)
+David Hoover
+Fluffy
+Paul Martin
+
+The Gray Garden - 0/26
+Emalf
+Etihw
+Ivlis
+Kcalb
+Lost
+Lowrie
+Sherbet
+Wodahs
+Yosaflame
+
+The Hanged Man - 0/5
+Edward Hayes
+Pop (THM)
+Robert Hayes
+William Morton
+
+The Sandman - 0/4
+Richard Grundler
+Sandman (TSM)
+
+To the Moon - 0/4
+Johnathan Wyles
+Neil Watts
+
+Underworld Capital Incident - 0/6
+Hirahara
+Kinoshita
+Kirishima
+Saeki
+Tagami
+Tanizaki
+
+Wadanohara and the Great Blue Sea - 0/33
+Artamos
+Cherryblod
+Fukami
+Meikai
+Old
+Samekichi
+Sheep
+Syake
+Tarako
+The Sea King
+Tsuribari
+Vendetto
+
+Walking on a Star Unknown - 0/6
+Corme
+Eddie
+Giera Toph
+
+Witch's Heart - 0/14
+Ashe Bradley
+Forest Fairy Pippi
+Noel Levine
+Sirius Gibson
+Wilardo Adler
+
+Yanderella - 0/3
+Yatarou
+
+Your Turn To Die -Death Game By Majority- - 0/26
+Gashu
+Gin Ibushi
+Gonbee Yamada
+Joe Tazuna
+Kai Satou
+Kazumi Mishima (YTTD)
+Keiji Shinogi
+Midori (YTTD)
+Naomichi Kurumada
+Q-Taro Burgerberg
+Ranmaru Kageyama
+Rio Ranger
+Shunsuke Hayasaka
+Sou Hiyori
+
+Yume 2kki - 0/6
+Aoshiru
+Gakuran-kun
+Yukata (2kki)
+
+Yume Nikki - 0/9
+KyuuKyuu-kun
+Masada
+UBOA

@@ -1,0 +1,435 @@
+Turn-Based RPGs   6/330
+(bundle)
+*Turn Based RPGs*
+*TBRPGs*
+
+Atelier Ayesha: The Alchemist of Dusk - 0/6
+Ayesha Altugle
+Linca
+Nio Altugle
+Regina Curtis
+Wilbell voll Erslied
+
+Atelier Escha & Logy: Alchemists of the Dusk Sky - 0/5
+Clone
+Escha Malier
+Flameu
+
+Atelier Judie: The Alchemist of Gramnad - 0/1
+Pamela Ibis
+
+Atelier Meruru: The Apprentice of Arland - 0/1
+Merurulince Rede Arls
+
+Atelier Rorona: The Alchemist of Arland - 0/5
+Rorolina Frixell
+Atelier Totori: The Adventurer of Arland - 0/3
+Totooria Helmold
+
+Conception - 0/11
+Alfie
+Collet
+Femiruna
+Lirie
+Liris
+Mahiru Konatsuki
+Ruka (Conception)
+Sue
+Tarua
+Yuzuha
+
+Demikids Light & Dark - 0/1
+Nemesis (SMT)
+
+Devil Children Black Book & Red Book - 0/1
+Kaguya Hime
+
+Devil Survivor - 0/13
+Amane Kuzuryu
+Mari Mochizuki
+Midori Komaki
+Yoshino Harusawa
+Yuzu Tanikawa
+
+Devil Survivor 2 - 0/15
+Airi Ban
+Fumi Kanno
+Hinako Kujou
+Io Nitta
+Makoto Sako
+Otome Yanagiya
+
+Digimon Story Cyber Sleuth - 1/24
+Alphamon  
+Ami Aiba
+Kyouko Kuremi
+Lord Knightmon
+
+Digital Devil Story: Megami Tensei - 0/9
+Yumiko Shirasagi
+
+Digital Devil Story: Megami Tensei II - 0/16
+Pixie
+
+Disgaea: Hour of Darkness - 0/12
+Etna
+Flonne
+Jennifer
+Thursday
+
+Dofus - 0/21
+Bakara Jurgen
+Julith
+
+Eternal Sonata - 0/2
+March (ES)
+Polka (ES)
+
+Fate/EXTRA - 0/21
+Alice (F/EX)
+Francis Drake
+Hakuno Kishinami (F)
+Nero Claudius
+Nursery Rhyme
+Rani VIII
+Rin Tohsaka (F/EX)
+Sakura Matou (F/EX)
+Tamamo no Mae
+
+Fate/EXTRA CCC - 0/8
+Elizabeth Báthory
+
+Fate/Grand Order - 1/178
+Assassin (Riyo)
+Ereshkigal  
+Fou
+Gorgon
+Gudako
+Haydée
+Helena Blavatsky
+Ishtar
+Jaguar Man
+Kingu
+Kiyohime
+Leonardo da Vinci
+Marie Antoinette
+Mash Kyrielight
+Nitocris
+Olga Marie Animusphere
+Paul Bunyan
+Quetzalcoatl
+Saint Martha
+Siduri
+Tiamat
+Ushiwakamaru
+Granblue Fantasy - 0/219
+Cagliostro
+Camieux
+Charlotta (GBF)
+Clarisse
+Cucouroux
+Djeeta
+Ferry
+Io
+Jessica
+Katalina
+Lecia
+Lyria
+Mary (GBF)
+Narmaya
+Rosetta
+Sierokarte
+Silva
+Sturm
+Vira
+Zeta
+
+Hyperdimension Neptunia - 0/18
+5pb.
+Arfoire
+Black Heart
+Blanc
+Compa
+Green Heart
+Histoire
+IF
+Neptune
+Noire
+Purple Heart
+Vert
+White Heart
+
+Hyperdimension Neptunia mk2 - 0/14
+Chika Hakozaki
+Linda
+Nepgear
+Ram (HDN)
+Rom
+Uni
+
+Hyperdimension Neptunia Victory - 0/14
+Abnes
+CyberConnect2
+Iris Heart
+Peashy
+Plutia
+Rei Ryghts
+Yellow Heart
+
+Koudelka - 0/1
+Koudelka Iasant
+
+Magia Record: Puella Magi Madoka Magica Side Story - 0/52
+Felicia Mitsuki
+Iroha Tamaki
+Kaede Akino
+Kuroe
+Mifuyu Azusa
+Mitama Yakumo
+Momoko Togame
+Rena Minami
+Sana Futaba
+Tsukasa Amane
+Tsukuyo Amane
+Tsuruno Yui
+Ui Tamaki
+Yachiyo Nanami
+
+Mega Man Battle Network - 0/29
+Iris.EXE
+Mayl Sakurai
+Meddy.EXE
+Roll.EXE
+Sal (MMBN)
+Yai Ayanokoji
+
+Megadimension Neptunia VII - 0/14
+Adult Neptune
+Nepgya
+
+Monster Hunter Stories - 0/1
+Avinia
+
+Ochi Mono RPG Seikishi Luvilias - 0/4
+Iris (OMRSL)
+Lifulia
+Ruvyrias
+Tia (OMRSL)
+
+Persona 3 - 0/33
+Aegis
+Chidori Yoshino
+Chihiro Fushimi
+Elizabeth
+Fuuka Yamagishi
+Mitsuru Kirijou
+Nyx Avatar
+Orpheus
+Yukari Takeba
+
+Persona 4 - 0/27
+Aika Nakamura
+Ayane Matsunaga
+Chie Satonaka
+Fox
+Margaret
+Marie (P4)
+Nanako Dojima
+Naoto Shirogane
+Rise Kujikawa
+Yukiko Amagi
+
+Persona 5 - 0/35
+Ann Takamaki
+Caroline
+Chihaya Mifune
+Futaba Sakura
+Haru Okumura
+Hifumi Togo
+Ichiko Ohya
+Justine
+Lavenza
+Makoto Niijima
+Sadayo Kawakami
+Sae Niijima
+Shiho Suzui
+Tae Takemi
+
+Pokémon Black 2/White 2 - 0/9
+Roxie
+
+Pokémon Black/White - 0/29
+Bianca
+Elesa
+Fennel
+Fennel's Munna
+Iris (PKMN)
+Keldeo
+Kyurem
+Lenora
+Meloetta
+Professor Juniper
+Reshiram
+Shauntal
+Skyla
+Victini
+Zekrom
+
+Pokémon Diamond/Pearl/Platinum - 0/35
+Arceus
+Azelf
+Bertha (PKMN)
+Caitlin
+Candice
+Cheryl
+Cynthia
+Cynthia's Garchomp
+Dawn
+Dialga
+Fantina
+Gardenia
+Giratina
+Jupiter
+Marley
+Mars (PKMN)
+Maylene
+Mesprit
+Palkia
+Uxie
+
+Pokémon Gold/Silver/Crystal - 0/25
+Ariana
+Clair
+Clefairy
+Ho-Oh
+Janine
+Jasmine (PKMN)
+Karen
+Lugia
+Miltank
+Raikou
+Suicune
+Whitney
+
+Pokémon HeartGold/SoulSilver - 0/1
+Lyra (PKMN)
+
+Pokémon Omega Ruby/Alpha Sapphire - 0/4
+Lisia
+Zinnia
+
+Pokémon Red/Green/Blue/Yellow - 3/23
+Agatha (PKMN)
+Articuno
+Erika  
+Lorelei  
+Mew
+Mewtwo
+Misty
+Moltres
+Sabrina  
+Zapdos
+
+Pokémon Ruby/Sapphire/Emerald - 0/31
+Courtney
+Flannery
+Glacia
+Groudon
+Kyogre
+Liza (PKMN)
+May
+Peeko
+Phoebe (PKMN)
+Pike Queen Lucy
+Rayquaza
+Roxanne (PKMN)
+Salon Maiden Anabel
+Shelly
+Winona
+
+Pokémon Sun/Moon - 1/34
+Acerola
+Hapu  
+Harper
+Kahili
+Lana
+Lana's Mother
+Lillie
+Lusamine
+Mallow
+Marshadow
+Mina (PKMN)
+Nebby
+Necrozma
+Olivia (PKMN)
+Plumeria
+Sarah (PKMN)
+Tapu Koko
+Wicke
+
+Pokémon Sword/Shield - 0/28
+Bea
+Nessa
+Oleana
+Sonia
+
+Pokémon X/Y - 0/28
+Alexa
+Bonnie (PKMN)
+Diantha
+Diantha's Gardevoir
+Korrina
+Malva
+Serena
+Shauna
+Valerie
+Viola (PKMN)
+Xerneas
+Yveltal
+
+Puzzle & Dragons - 0/21
+Myr
+
+Rance - 0/76
+Kanami Kentou
+Lia Parapara Leazas
+Maris Amarilis
+Menad Shisei
+Necai Sys
+Pulptenks Flanders
+Shizuka Masou
+Sill Plain
+Willis Fujisaki
+Yulang Mirage
+Ronde - 0/1
+Medea
+
+Shin Megami Tensei I - 0/15
+Alice (SMT)
+Amaterasu (SMT)
+Lilim (SMT)
+
+Shin Megami Tensei II - 0/13
+Ishtar (SMT)
+
+Shin Megami Tensei III - 0/8
+Mother Harlot
+
+The Caligula Effect - 0/20
+Aria (Caligula)
+Kotono Kashiwaba
+Marie Mizuguchi
+Mifue Shinohara
+Mirei (Caligula)
+Mu
+Naruko Morita
+Suzuna Kagura
+Sweet-P
+Thorn
+
+Wakfu - 0/14
+Amalia Sheran Sharm
+Cléophée
+Elely de Percedal
+Evangelyne
+Ombrage

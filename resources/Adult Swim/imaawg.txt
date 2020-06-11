@@ -1,0 +1,7 @@
+Adult Swim   0/1
+(bundle)
+*[as]*
+*as*
+
+Tokyo Ghoul - 0/63
+Rou (TG)

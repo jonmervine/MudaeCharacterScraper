@@ -19,15 +19,15 @@ checkForCommands:
 				clicks := SubStr(last_line, 8)
 				clicks -= 1
 				Loop %clicks% {
-					Send, {Click 450, 1125}
+					Send, {Click 450, 1216}
 					Sleep, 1500
-					Send, {Click 450, 1125}
+					Send, {Click 450, 1216}
 					Sleep, 3000
 				}
 			}
 			if (InStr(last_line, "_TYPE: ")) {
 				send_msg := SubStr(last_line, 7)
-				Send, %send_msg%`n
+				SendRaw, %send_msg%`n
 			}
 		}
 	return

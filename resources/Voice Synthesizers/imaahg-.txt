@@ -1,0 +1,62 @@
+Voice Synthesizers   0/45
+(bundle)
+*Vocal Synthesis*
+*Voice Synths*
+*Vocal Synths*
+
+CeVIO - 0/4
+Minato Akasaki
+Takahashi (CeVIO)
+
+Fanloid - 0/16
+Gumiya
+Luki Megurine
+Mikuo Hatsune
+ZeeU
+
+Muta - 0/2
+Weiyang
+
+UTAU - 0/26
+Denki Sai
+Eien Seiiki
+Galvan Ize
+Kan Shirane
+Karasu Yuutsukoe
+Kuro Bousuku
+KYE
+Kyoryu
+Mar
+Matsudappoiyo
+Pine Namarine
+Ritsu Namine
+Ruko Yokune
+Zeroai Magene
+
+Vocaloid - 0/67
+ARSLOID
+Big Al
+DEX
+Fukase
+Gakupo Kamui
+Hime MEIKA
+Kaito
+Kiyoteru Hiyama
+KYO
+Len Kagamine
+Longya Yuezheng
+Mikoto MEIKA
+Moke Zhiyu
+Oliver (V)
+Piko Utatane
+Rabbit Yukine
+Ryuto
+WIL
+YOHIOloid
+Yuecheng
+Yuma
+YUU
+
+Voiceroid - 0/7
+Kou Minase
+Yuzuru Iori

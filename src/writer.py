@@ -1,14 +1,15 @@
 import os
+import pathlib
 
 
 class Writer:
     @staticmethod
     def write_scraped_data(filename, text):
-        with open(os.path.join('../resources/', filename), 'a', encoding='utf-8') as outfile:
+        filepath = os.path.join('../resources/', filename)
+
+        if not pathlib.Path(filepath).parent.absolute().exists():
+            os.makedirs(pathlib.Path(filepath).parent.absolute(), exist_ok=True)
+
+        with open(filepath, 'a', encoding='utf-8') as outfile:
             outfile.write(text)
             outfile.write('\n')
-
-    @staticmethod
-    def create_directory(bundle_name):
-        path_to_series = os.path.join('../resources', bundle_name)
-        os.makedirs(path_to_series, exist_ok=True)

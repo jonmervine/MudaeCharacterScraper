@@ -1,0 +1,420 @@
+RPG Maker Games   0/280
+(bundle)
+*RPG Maker*
+
+.flow - 0/4
+Cleaner
+Oreko
+Sabitsuki
+
+1BeatHeart - 0/4
+Arumu Hatanaka
+
+1bitHeart - 0/51
+Aira Tachibana
+Azusa Kujoh
+Chino Nasuki
+Eruno Kyouka
+Hakuhi Iogi
+Hiyu Mekami
+Kaori Asahina
+Kirara Akanagi
+Mary Seno
+Meru Myoujou
+Meu Kanou
+Misane Mikoto
+Misato Kusunose
+Miumi Miclairno Mizuki
+Momori Ono
+Potete
+Rocca Rion
+Saaya Yukisuzu
+Sagara Sakuse
+Sakuma Suoh
+Sekiyu Hiiragi
+Shiren Kurusu
+Shiroro Yakumo
+Shitara Yakumo
+Tobari Hikagari
+Yasune Nemochi
+
+A Bird Story - 0/2
+Bird (ABS)
+
+Alice Mare - 0/9
+Chelsy
+Letty
+Stella (AM)
+
+Answered Prayers - 0/1
+Fluorette
+
+Aria's Story - 0/1
+Aria
+
+BLACKSOULS - 0/10
+Alice (BS)
+Catherine (BS)
+Dorothy (BS)
+Elisabeth (BS)
+Elma (BS)
+Goose (BS)
+Jeanne (BS)
+Leaf
+Miranda (BS)
+Victoria
+
+BLACKSOULS II - 0/12
+Bandersnatch
+Cheshire Cat (BS)
+Kuti
+Lorina
+Mabel
+Modoki
+Node
+Prickett
+Shisha
+The Hatter
+
+Blank Dream - 0/1
+Mishiro Usui
+
+Cage of the Succubi - 0/1
+Kuminu
+Coffin of Ashes - 0/3
+Delilah (CoA)
+Lilith (CoA)
+
+Corpse Party - 0/15
+Ayumi Shinozaki
+Mayu Suzumoto
+Naho Saenoki
+Naomi Nakashima
+Sachiko Shinozaki
+Seiko Shinohara
+Yui Shishido
+Yuka Mochida
+Yuki Kanno
+
+Corpse Party 2: Dead Patient - 0/1
+Ayame Itou
+
+Detective Girl of the Steam City - 0/1
+Sophie (DGotSC)
+Didnapper - 0/1
+Suki (Didnapper)
+
+Dreaming Mary - 0/1
+Mary (DM)
+
+END ROLL - 0/15
+Cody Toscarina
+Gardenia Reitman
+Memory Girl
+Mireille Nif
+Wisdom Observer (F)
+Yue (ER)
+Yumi Bombers
+
+Eternal Senia - 0/2
+Magaleta
+Senia
+Fallen Makina and the City of Ruins - 0/2
+Celia
+Makina
+
+Fantasy Maiden's Odd Hideout - 0/3
+Cynthia (FMOH)
+
+Faraway Story - 0/8
+Erena Franlight
+Marinet
+Mimi (FS)
+Pia (FS)
+Stella (FS)
+
+Farethere City - 0/7
+Helpa
+Sana (FC)
+
+Finding Paradise - 0/4
+Faye
+Roxanne Winters
+Sofia (FP)
+
+Fran and Sinner's Island - 0/1
+Fran (FSI)
+
+General Hashasky's Great Adventure - 0/2
+Moge-kov
+
+Grimm's Hollow - 0/1
+Lavender
+
+Hello Charlotte - 0/20
+Charles Eyler
+Charlotte Wiltshire
+Florence (HC)
+Frei
+Henrietta Warhol
+Magcat
+Q84
+Scarlett Eyler
+V19
+Vincent Fennell
+Vincent Fennell (HG)
+
+Hylics - 0/4
+Somsnosa
+
+Ib - 0/3
+Ib
+Mary
+
+Kirisame ga Furu Mori - 0/4
+Sakuma Miyako
+Shiori Kanzaki
+
+Kunoichi Botan - 0/2
+Botan (KB)
+Yasuzu
+Legend of Queen Opala - 0/5
+Farah
+Gabrielle (LoQO)
+Laquadia
+Osira
+Queen Opala
+
+LiEat - 0/4
+Efina
+Iris Ashbery
+
+LISA: The First - 0/2
+Lisa Armstrong
+
+LISA: The Painful - 0/8
+Buddy
+
+Lonely Wolf Treat Series - 0/6
+Mochi
+Moxie
+Pepper (LWT)
+Salt (LWT)
+Treat
+Trick
+
+Mad Father - 0/4
+Aya Drevis
+Maria (MF)
+
+Me - 0/1
+Me
+
+Meltys Quest - 0/1
+Princess Meltys
+
+Misao - 0/5
+Aki Narukami
+Misao
+Miss Library
+Mix Ore - 0/3
+Ayano Cafeaulait
+Nagisa Ichigaulait
+Rikana Milliefiori
+
+Mogeko Castle - 0/7
+Moge-ko
+Yonaka Kurai
+
+Nano-Control - 0/13
+Alexis (NC)
+Elaine (NC)
+Emma (NC)
+Gwen (NC)
+Jace (NC)
+Kat (NC)
+Kay (NC)
+Lena (NC)
+Lily (NC)
+Rika (NC)
+Sarah (NC)
+
+Night Tail - 0/1
+Yoru (NT)
+
+Noel the Mortal Fate - 0/11
+Cybilla Becker
+Jillian Littner
+Luce Marie
+Noel Cerquetti
+Spica (NtMF)
+
+OFF - 0/10
+La Reine
+Sucre
+
+OneShot - 0/17
+Alula
+George
+Kip Silverpoint
+Maize
+Niko
+Rue
+Silver (OS)
+The Entity
+The Shepherd
+
+Pocket Mirror - 0/8
+Egliette
+Enjel
+Fleta
+Harpae
+Lisette
+Platinum
+Protagonist
+
+Polka - 0/2
+Polka Swilhü
+
+Pom Gets Wi-Fi - 0/3
+Pom
+
+President Yukino - 0/1
+Yukino Makihara
+
+RPG Maker VX - 0/1
+Ylva (VX)
+
+Satsuriku no Tenshi - 0/8
+Catherine Ward
+Girl (SnT)
+Rachel Gardner
+
+The Boogie Man - 0/7
+Helena Baring
+
+The Crooked Man - 0/8
+Marion Martin
+Shirley Webber
+Sissi
+The Dark Side of Red Riding Hood - 0/1
+Little Red Riding Hood (ADS)
+
+The Gray Garden - 0/26
+Alela Grora
+Arbus
+Ater
+Chelan
+Ciel (TGG)
+Cranber
+Dialo
+Etihw
+Froze
+Greif
+Macarona
+Poemi
+Raspbel Preserves
+Rawberry Preserves
+Reficul
+Rieta
+Rigatona
+Yosafire
+
+The Hanged Man - 0/5
+Cindy Morton
+
+The Sandman - 0/4
+Regan Blumberg
+Sophie Grundler
+
+The Witch's House - 0/2
+Ellen
+Viola
+
+Time Traveler - 0/1
+Mai Mizuno
+
+To the Moon - 0/4
+Eva Rosalene
+River
+
+Treasure Hunter Claire - 0/1
+Claire
+
+Violated Heroine - 0/3
+Erika (VH)
+Nanako
+Serena (VH)
+
+Wadanohara and the Great Blue Sea - 0/33
+Aom
+Chlomaki
+Creamil
+Doloz
+Dolphi
+Helica
+Hofuru
+Laurentia
+Lobco
+Memoca
+Minero
+Princess Mikotsu
+Princess Totsusa
+Princess Uomi
+Pulmo
+Rimorimo
+Sheep
+Stella (WatGBS)
+Tarako
+Tatsumiya
+Tomoshibi
+Ver Million
+Wadanohara
+
+Walking on a Star Unknown - 0/6
+Fukuro
+Ophelia Pilet
+Yurika (WoaSU)
+Witch's Heart - 0/14
+Charlotte (WH)
+Claire Elford
+Invective
+Lady Dorothy
+Lilia Bradley
+Lime (WH)
+Rouge
+Sheila
+Zizel
+
+Yanderella - 0/3
+Hinata
+Honoka
+
+Your Turn To Die -Death Game By Majority- - 0/26
+Anzu Kinashi
+Hinako Mishuku
+Kanna Kizuchi
+Kugie Kizuchi
+Mai Tsurugi
+Megumi Sasahara
+Nao Egokoro
+Reko Yabusame
+Sara Chidouin
+Sue Miley
+Tia Safalin
+Touko Rikuno
+
+Yume 2kki - 0/6
+Odorika
+Oni Musume
+Urotsuki
+
+Yume Nikki - 0/9
+Kamakurako
+KyuuKyuu-kun
+Madotsuki
+Mafurako
+Monoe
+Monoko
+Poniko
+UBOA

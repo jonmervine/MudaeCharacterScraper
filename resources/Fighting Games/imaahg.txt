@@ -1,0 +1,463 @@
+Fighting Games   0/330
+(bundle)
+*Fighting*
+*FG*
+
+Akatsuki Blitzkampf - 0/4
+Akatsuki (AB)
+Blitztank
+
+ARMS - 0/10
+Helix
+Master Mummy
+Ninjara
+Spring Man
+
+Art of Fighting - 0/5
+Robert Garcia
+Ryo Sakazaki
+
+BlazBlue - 0/43
+Amane Nishiki
+Arakune
+Azrael
+Bang Shishigami
+Carl Clover
+George XIII
+Ghost Terumi
+Hakumen
+Hazama
+Hibiki Kohaku
+Iron Tager
+Jin Kisaragi
+Jubei
+Kazuma Kval
+Naoto Kurogane
+Pakumen
+Platinum the Trinity
+Ragna the Bloodedge
+Relius Clover
+Susanoo
+Terumen
+Valkenhayn R. Hellsing
+Yuuki Terumi
+
+Brawlhalla - 0/18
+Azoth
+Koji
+Lord Vraxx
+Lucien Degas
+Sentinel
+Sir Roland
+Wu Shang
+
+Darkstalkers - 0/12
+Anakaris
+Demitri Maximoff
+Donovan Baine
+Jedah Dohma
+Lord Raptor
+Rikuo
+
+Dead or Alive - 0/20
+Eliot
+Hayate
+Def Jam: Fight for NY - 0/1
+Snoop Dogg
+
+EA Sports UFC - 0/1
+Conor McGregor
+
+Evil Zone - 0/3
+Danzaiver
+
+Fatal Fury - 0/17
+Andy Bogard
+Billy Kane
+Duck King
+Geese Howard
+Joe Higashi
+Kain R. Heinlein
+Raiden (FF)
+Rock Howard
+Ryuji Yamazaki
+Terry Bogard
+Tizoc
+Wolfgang Krauser
+
+Fight of Animals - 0/1
+Slender Cat
+
+Fire Pro Wrestling World - 0/5
+Juice Robinson
+Kazuchika Okada
+Kenny Omega
+Kota Ibushi
+Will Ospreay
+
+Guilty Gear - 0/36
+Anji Mito
+Answer
+Axl Low
+Bedman
+Bridget
+Chipp Zanuff
+Faust
+Gabriel (GG)
+Johnny Sfondi
+Kliff Undersn
+Ky Kiske
+Leo Whitefang
+Leopaldon
+Potemkin
+Raven (GG)
+Robo-Ky
+Sin Kiske
+Slayer
+Sol Badguy
+Testament
+That Man
+Venom (GG)
+Zappa
+Zato-1
+
+Killer Instinct - 0/4
+Fulgore
+Spinal
+T.J. Combo
+
+Lastman - 0/3
+Richard Aldana
+
+Lethal League - 0/5
+Candyman
+Dice
+Doombox
+Latch
+Switch
+
+Lethal League Blaze - 0/3
+Grid (LLB)
+
+M.U.G.E.N. - 0/2
+Kung Fu Man
+Marvel vs. Capcom - 0/3
+Amingo
+
+Melty Blood - 0/7
+Neco-Arc Chaos
+Night of Wallachia
+
+Mortal Kombat 1 - 0/10
+Goro
+Johnny Cage
+Kano (MK)
+Liu Kang
+Noob Saibot
+Raiden (MK)
+Reptile
+Scorpion
+Shang Tsung
+
+Mortal Kombat 11 - 0/4
+Geras
+Kollector
+
+Mortal Kombat 3 - 0/5
+Cyrax
+Ermac
+Kabal
+Sektor
+
+Mortal Kombat II - 0/9
+Baraka
+Jax Briggs
+Kung Lao
+Shao Kahn
+Smoke
+Sub Zero
+
+Mortal Kombat X - 0/6
+Erron Black
+Kotal Kahn
+Kung Jin
+Takeda Takahashi
+
+Mortal Kombat: Deadly Alliance - 0/3
+Kenshi
+Mokap
+
+Mortal Kombat: Special Forces - 0/1
+Tremor
+
+Pacific Rim - 0/3
+Obsidian Fury
+Trespasser
+
+Persona 4: Arena - 0/3
+Sho Minazuki
+
+Pokkén Tournament - 0/6
+Decidueye
+Gardevoir (PT)
+Gengar (PT)
+Machamp
+Scizor
+Shadow Mewtwo
+
+Power Stone - 0/3
+Edward Fokker
+
+Punch-Out!! - 0/5
+Aran Ryan
+Doc Louis
+Glass Joe
+King Hippo
+Little Mac
+
+Rivals of Aether - 0/2
+Forsburn
+Kragg
+
+Samurai Shodown - 0/27
+Basara
+Earthquake
+Galford D. Weller
+Genjuro Kibagami
+Hanzo Hattori (SamSho)
+Haohmaru
+Jubei Yagyu
+Kazuki Kazama
+Kyoshiro Senryo
+Shizumaru Hisame
+Sogetsu Kazama
+Tam Tam
+Ukyo Tachibana
+Wan-Fu
+Yashamaru Kurama
+Yoshitora Tokugawa
+
+Skullgirls - 0/30
+Beowulf (SG)
+Big Band
+George Bomb
+Taliesin
+
+Slap City - 0/1
+Business Casual Man
+
+SNK vs Capcom: SVC Chaos - 0/1
+Violent Ken
+
+Soul Edge - 0/8
+Mitsurugi Heishiro
+Nightmare
+Rock (SC)
+Siegfried Schtauffen
+Voldo
+
+Soulcalibur I - 0/4
+Kilik
+Lizardman
+
+Soulcalibur II - 0/4
+Raphael Sorel
+
+Soulcalibur V - 0/2
+Patroklos Alexander
+
+Soulcalibur VI - 0/2
+Azwel
+Grøh
+
+Street Fighter Alpha - 0/11
+Charlie Nash
+Dan Hibiki
+Evil Ryu
+Gouken
+Zeku
+
+Street Fighter EX - 0/3
+Cracker Jack
+Garuda (SFEX)
+Skullomania
+Street Fighter I - 0/4
+Birdie
+Ken Masters
+Ryu
+Sagat
+
+Street Fighter II - 0/12
+Akuma
+Balrog
+Blanka
+Dhalsim
+E. Honda
+Fei Long
+Guile
+M. Bison
+Vega
+Zangief
+
+Street Fighter III - 0/17
+Alex
+Dudley
+Gill (SF)
+Necro
+Oro
+Q (SF)
+Remy (SF)
+Sean Matsuda
+Twelve (SF)
+Urien
+Yang (SF)
+Yun (SF)
+
+Street Fighter IV - 0/5
+Ed (SF)
+Rufus (SF)
+Seth (SF)
+
+Street Fighter V - 0/8
+F.A.N.G
+G
+Kage
+Necalli
+Rashid
+
+Super Smash Bros. - 0/3
+Jigglypuff (SSB)
+Master Hand
+Pikachu (SSB)
+
+Super Smash Bros. Brawl - 0/5
+Ivysaur
+Lucario (SSB)
+R.O.B.
+Squirtle (SSB)
+Tabuu
+
+Super Smash Bros. for Nintendo 3DS and Wii U - 0/1
+Mii Gunner
+Super Smash Bros. Melee - 0/6
+Crazy Hand
+Dr. Mario
+Mewtwo (SSB)
+Pichu
+Randall the Cloud
+Sandbag
+
+Super Smash Bros. Ultimate - 0/4
+Dharkon
+Galeem
+Incineroar (SSB)
+Piranha Plant
+
+Tekken 1 - 0/10
+Devil Kazuya
+Ganryu (Tekken)
+Heihachi Mishima
+Kazuya Mishima
+Lee Chaolan
+Paul Phoenix
+Yoshimitsu
+
+Tekken 2 - 0/3
+Lei Wulong
+
+Tekken 3 - 0/9
+Bryan Fury
+Eddy Gordo
+Forest Law
+Hwoarang
+Jin Kazama
+King II
+Kuma II
+
+Tekken 4 - 0/3
+Craig Marduk
+Steve Fox
+
+Tekken 5 - 0/6
+Armor King II
+Devil Jin
+Feng Wei
+Sergei Dragunov
+
+Tekken 6 - 0/6
+Bob (Tekken)
+Lars Alexandersson
+Leo Kliesen
+Miguel Caballero Rojo
+
+Tekken 7 - 0/10
+Claudio Serafino
+Fahkumram
+Harada
+Leroy Smith
+Shaheen
+
+Tekken Tag Tournament - 0/1
+Tetsujin
+The King of Fighters - 0/35
+Antonov
+Ash Crimson
+Benimaru Nikaido
+Chang Koehan
+Chris (KoF)
+Igniz
+Iori Yagami
+K'
+K9999
+Kukri
+Kyo Kusanagi
+Nameless (KoF)
+Orochi
+Ramon
+Rugal Bernstein
+Saiki
+Saisyu Kusanagi
+Shingo Yabuki
+Yashiro Nanakase
+
+The Last Blade - 0/2
+Kaede (TLB)
+
+Under Night In-Birth - 0/20
+Byakuya (UNIB)
+Carmine
+Chaos (UNIB)
+Enkidu (UNIB)
+Gordeau
+Hyde Kido
+Londrekia Light
+Merkava
+Seth (UNIB)
+Waldstein
+
+WWE 2K - 0/30
+AJ Styles
+CM Punk
+Dean Ambrose
+Dolph Ziggler
+Fred Durst
+Hulk Hogan
+John Cena
+Johnny Gargano
+Lex Luger
+Matt Hardy
+Mick Foley
+Randy Savage
+Roman Reigns
+Seth Rollins
+Shawn Michaels
+Sheamus
+Sin Cara
+Steve Austin
+The Miz
+The Rock
+The Undertaker
+Triple H
+Velveteen Dream
+Vince McMahon
+Zack Ryder

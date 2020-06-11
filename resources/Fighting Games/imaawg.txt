@@ -1,0 +1,414 @@
+Fighting Games   1/284
+(bundle)
+*Fighting*
+*FG*
+
+Akatsuki Blitzkampf - 0/4
+Blitztank
+Marilyn Sue
+Perfecti
+
+Arcana Heart - 0/19
+Akane Inuwaka
+Angelia Avallone
+Catherine Kyoubashi
+Clarice di Lanza
+Dorothy Albright
+Eko
+Fiona Mayfield
+Heart Aino
+Kira Daidouji
+Konoha (AH)
+Lilica Felchenerow
+Maori Kasuga
+Nazuna Inuwaka
+Petra Johanna Lagerkvist
+Saki Tsuzura
+Scharlachrot
+Weiss
+Yoriko Yasuzumi
+Zenia Valov
+
+ARMS - 0/10
+Dr. Coyle
+Lola Pop
+Mechanica
+Min Min
+Ribbon Girl
+Twintelle
+
+Art of Fighting - 0/5
+Kasumi Todoh
+King (AoF)
+Yuri Sakazaki
+
+BlazBlue - 1/43
+Bullet
+Celica A. Mercury  
+Hades: Izanami
+Kajun Faycott
+Kokonoe
+Linhua
+Litchi Faye Ling
+Mai Natsume
+Makoto Nanaya
+Mu-12
+Nine the Phantom
+Noel Vermillion
+Nu-13
+Platinum the Trinity
+Rachel Alucard
+Raquel Alucard
+Taokaka
+Trinity Glassfille
+Tsubaki Yayoi
+Brawlhalla - 0/18
+Ada
+Artemis (BH)
+Brynn
+Cassidy (BH)
+Ember (BH)
+Hattori
+Kaya (BH)
+Nix (BH)
+Scarlet (BH)
+Sidra
+Yumiko
+
+Darkstalkers - 0/12
+Baby Bonnie Hood
+Felicia
+Hsien-Ko
+Lilith Aensland
+Morrigan Aensland
+Q-Bee
+Dead or Alive - 0/20
+Ayane
+Christie
+Helena Douglas
+Hitomi
+Honoka (DoA)
+Kanna (DoA)
+Kasumi
+Kokoro (DoA)
+Leifang
+Lisa Hamilton
+Marie Rose
+Mila (DoA)
+Monica (DoA)
+NiCO (DoA)
+Nyotengu
+Phase 4
+Tamaki
+Tina Armstrong
+Dragon Ball FighterZ - 0/2
+Android 21 (Evil)
+Android 21 (Good)
+
+Evil Zone - 0/3
+Ihadulca Il Imella
+Setsuna Saizuki
+
+Fatal Fury - 0/17
+Alice Garnet Nakata
+B. Jenet
+Blue Mary
+Hotaru Futaba
+Mai Shiranui
+
+Fight of Animals - 0/1
+Slender Cat
+
+Guilty Gear - 0/36
+A.B.A
+Aria Hale
+Baiken
+Dizzy
+Elphelt Valentine
+I-no
+Jack-O' Valentine
+Jam Kuradoberi
+Kum Haehyun
+Leopaldon
+May (GG)
+Millia Rage
+Ramlethal Valentine
+
+Killer Instinct - 0/4
+Black Orchid
+
+Lastman - 0/3
+Tomie Katana
+Lethal League Blaze - 0/3
+Jet (LLB)
+Toxic
+
+M.U.G.E.N. - 0/2
+Kung Fu Girl
+
+Marvel vs. Capcom - 0/3
+Ruby Heart
+SonSon
+
+Melty Blood - 0/7
+Mech-Hisui
+Miyako Arima
+Riesbyfe Stridberg
+Sion Eltnam Atlasia
+White Len
+
+Mortal Kombat (2011) - 0/1
+Skarlet
+Mortal Kombat 1 - 0/10
+Sonya Blade
+
+Mortal Kombat 11 - 0/4
+Cetrion
+Kronika
+
+Mortal Kombat 3 - 0/5
+Sheeva
+
+Mortal Kombat 4 - 0/1
+Tanya (MK)
+
+Mortal Kombat II - 0/9
+Jade (MK)
+Kitana
+Mileena
+
+Mortal Kombat X - 0/6
+Cassie Cage
+D'vorah
+
+Mortal Kombat: Deadly Alliance - 0/3
+Frost (MK)
+
+Pacific Rim - 0/3
+Obsidian Fury
+Otachi
+Trespasser
+
+Persona 4: Arena - 0/3
+Labrys
+
+Pokkén Tournament - 0/6
+Decidueye
+Gardevoir (PT)
+Gengar (PT)
+Machamp
+Shadow Mewtwo
+Power Rangers Legacy Wars - 0/1
+Kat Manx
+
+Power Stone - 0/3
+Ayame (PS)
+Rouge (PS)
+
+Rival Schools - 0/2
+Akira Kazama
+Hinata Wakaba
+
+Samurai Shodown - 0/27
+Cham Cham
+Charlotte Christine de Colde
+Darli Dagger
+Iroha
+Mina Majikina
+Nakoruru
+Rera
+Rimururu
+Shiki (SamSho)
+Suzuhime
+Wu-Ruixiang
+
+Skullgirls - 0/30
+Aeon
+Annie (SG)
+Cerebella
+Christmas
+Double
+Eliza (SG)
+Feng
+Filia
+Fukua
+Hallow
+Marie Korbel
+Minette
+Mother
+Mrs. Victoria
+Ms. Fortune
+Nancy Renoir
+Painwheel
+Parasoul Renoir
+Patty (SG)
+Peacock
+Regina (SG)
+Robo-Fortune
+Squigly
+Umbrella Renoir
+Valentine
+Venus Lovelace
+
+Sonic the Fighters - 0/1
+Honey the Cat
+
+Soul Edge - 0/8
+Seong Mi-na
+Sophitia Alexandra
+Taki
+Soulcalibur I - 0/4
+Ivy
+Xianghua
+
+Soulcalibur II - 0/4
+Amy Sorel
+Cassandra Alexandra
+Talim
+
+Soulcalibur III - 0/1
+Tira
+
+Soulcalibur IV - 0/2
+Angol Fear
+Hildegard von Krone
+
+Soulcalibur V - 0/2
+Pyrrha Alexandra
+Street Fighter Alpha - 0/11
+Decapre
+Ingrid (SF)
+Karin Kanzuki
+Rainbow Mika
+Rose (SF)
+Sakura Kasugano
+
+Street Fighter II - 0/12
+Cammy White
+Chun-Li
+
+Street Fighter III - 0/17
+Effie (SF)
+Elena
+Ibuki
+Kolin
+Makoto
+
+Street Fighter IV - 0/5
+Crimson Viper
+Juri Han
+Seth (SF)
+
+Street Fighter V - 0/8
+Falke
+Laura Matsuda
+Menat
+
+Super Smash Bros. - 0/3
+Jigglypuff (SSB)
+Pikachu (SSB)
+
+Super Smash Bros. Brawl - 0/5
+Ivysaur
+Lucario (SSB)
+Squirtle (SSB)
+
+Super Smash Bros. for Nintendo 3DS and Wii U - 0/1
+Mii Gunner
+Super Smash Bros. Melee - 0/6
+Mewtwo (SSB)
+Pichu
+Sandbag
+
+Super Smash Bros. Ultimate - 0/4
+Dharkon
+Galeem
+Incineroar (SSB)
+Piranha Plant
+
+Tekken 1 - 0/10
+Anna Williams
+Kunimitsu
+Nina Williams
+
+Tekken 2 - 0/3
+Angel (Tekken)
+Jun Kazama
+Tekken 3 - 0/9
+Julia Chang
+Ling Xiaoyu
+
+Tekken 4 - 0/3
+Christie Monteiro
+
+Tekken 5 - 0/6
+Asuka Kazama
+Emilie De Rochefort
+
+Tekken 6 - 0/6
+Alisa Bosconovitch
+Leo Kliesen
+Zafina
+
+Tekken 7 - 0/10
+Josie Rizal
+Katarina Alves
+Kazumi Mishima
+Lucky Chloe
+Master Raven
+
+Tekken Revolution - 0/1
+Eliza
+
+The King of Fighters - 0/35
+Angel (KoF)
+Chizuru Kagura
+Elisabeth Blanctorche
+Goeniko
+Hinako Shijou
+Kula Diamond
+Leona
+Luong
+Mature
+Mian (KoF)
+Momoko
+Orochi
+Shermie
+Sylvie Paula Paula
+Vanessa (KoF)
+Vice
+Whip
+
+The Last Blade - 0/2
+Hibiki Takane
+
+Ultra Fight Da Kyanta 2 - 0/1
+Kinoko
+
+Under Night In-Birth - 0/20
+Erika Wagner
+Hilda (UNIB)
+Linne
+Mika Returna
+Nanase
+Orie Ballardiae
+Phonon
+Strix (UNIB)
+Vatista
+Yuzuriha
+
+Vanguard Princess - 0/1
+Eri Hasumi
+
+Virtua Fighter - 0/1
+Sarah Bryant
+
+World Heroes - 0/1
+Jeanne D'Arc (WH)
+
+WWE 2K - 0/30
+Alexa Bliss
+Asuka (WWE)
+Kairi Sane
+Maryse
+Stacy Keibler

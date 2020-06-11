@@ -1,0 +1,656 @@
+Shoot 'em Ups   2/583
+(bundle)
+*Shmups*
+*Shmup*
+*Shoot em ups*
+*Gun go brrr*
+
+Assault Android Cactus - 0/1
+Cactus
+
+Azur Lane - 1/344
+Abercrombie
+Abukuma (AL)
+Acasta
+Achilles (AL)
+Admiral Graf Spee
+Admiral Hipper
+Agano (AL)
+Ajax
+Akagi (AL)
+Akagi-chan
+Akashi (AL)
+Akatsuki (AL)
+Alabama
+Albacore
+Amagi (AL)
+Amazon (AL)
+An Shan
+Aoba (AL)
+Arashio (AL)
+Arbiter: The Empress III
+Ardent
+Arethusa
+Ariake
+Arizona
+Ark Royal (AL)
+Asashio (AL)
+Ash (AL)
+Ashigara (AL)
+Astoria
+Atago (AL)
+Atlanta (AL)
+Aulick
+Aurora (AL)
+Avrora
+Ayanami (AL)
+Aylwin
+Azuma (AL)
+Bache
+Bailey
+Baltimore
+Bataan
+Belchan
+Belfast
+Benson (AL)
+Biloxi
+Birmingham
+Bismarck (AL)
+Black Prince
+Brooklyn (AL)
+Bunker Hill
+Bush
+California
+Carabiniere
+Cassin
+Cavalla
+Centaur
+Chang Chun
+Charles Ausburne
+Chaser
+Chicago
+Chikuma (AL)
+Choukai (AL)
+Clevelad
+Cleveland
+Colorado (AL)
+Columbia
+Comet
+Concord
+Conte di Cavour
+Craven
+Crescent
+Curacoa
+Curlew
+Cygnet
+Denver
+Deutschland
+Dewey (AL)
+Dido
+Dorsetshire
+Downes
+Duke of York
+Dunkerque
+Edinburgh
+Eldridge
+Ember (AL)
+Émile Bertin
+Enterprise
+Erebus
+Essex
+Exeter
+Fiji
+Fletcher (AL)
+Foote
+Forbin
+Formidable
+Fortune (AL)
+Foxhound
+Friedrich der Grosse
+Fu Shun
+Fubuki (AL)
+Fumizuki (AL)
+Furutaka (AL)
+Fusou (AL)
+Galatea (AL)
+Gascogne
+Georgia
+Giulio Cesare
+Glasgow
+Glorious
+Gloucester
+Glowworm
+Gneisenau
+Graf Zeppelin (AL)
+Grenville
+Gridley
+Halsey Powell
+Hamakaze (AL)
+Hammann
+Hardy
+Haruna (AL)
+Harutsuki
+Hatsuharu (AL)
+Helena
+Hermes (AL)
+Hibiki (AL)
+Hiei (AL)
+Hiei-chan
+Hiryuu (AL)
+Hiyou (AL)
+Hobby
+Honolulu
+Hood
+Hornet (AL)
+Houshou (AL)
+Houston (AL)
+Hunter
+Hyuuga (AL)
+I-13 (AL)
+I-168 (AL)
+I-19 (AL)
+I-25
+I-26 (AL)
+I-56
+I-58 (AL)
+Ibuki (AL)
+Ikazuchi (AL)
+Illustrious
+Inazuma (AL)
+Independence
+Indianapolis
+Ise (AL)
+Isuzu (AL)
+Izumo
+Jamaica
+Javelin
+Jean Bart
+Jeanne d'Arc (AL)
+Jenkins
+Jersey
+Jintsuu (AL)
+Juneau
+Juno (AL)
+Junyou (AL)
+Kaga (AL)
+Kagerou (AL)
+Kako (AL)
+Kalk
+Kamikaze (AL)
+Karlsruhe
+Kasumi (AL)
+Kawakaze (AL)
+Kent (AL)
+Kimberly
+King George V
+Kinu (AL)
+Kirishima (AL)
+Kisaragi (AL)
+Kitakaze
+Köln
+Kongou (AL)
+Königsberg
+Kuroshio (AL)
+L'Opiniâtre
+Laffey
+Langley
+Le Malin
+Le Mars
+Le Téméraire
+Le Triomphant
+Leander
+Leipzig
+Lena (AL)
+Lexington (AL)
+Li'l Sandy
+Littorio (AL)
+London
+Long Island
+Maryland
+Massachusetts
+Matchless
+Matsukaze (AL)
+Maury
+Maya (AL)
+McCall
+Memphis
+Mikasa
+Mikazuki (AL)
+Mikuma
+Minneapolis
+Mogami (AL)
+Monarch
+Montpelier
+Mullany
+Mutsu (AL)
+Mutsuki (AL)
+Myoukou (AL)
+Nachi (AL)
+Nagara
+Nagato (AL)
+Naka (AL)
+Nelson (AL)
+Neptune (AL)
+Nevada
+Newcastle
+Nicholas
+Niizuki
+Ning Hai
+North Carolina
+Northampton
+Noshiro (AL)
+Nowaki (AL)
+Observer Alpha
+Observer Zero
+Oklahoma
+Ooshio (AL)
+Oyashio (AL)
+Pennsylvania
+Pensacola
+Phoenix
+Ping Hai
+Pola (AL)
+Portland
+Prince of Wales
+Prinz Eugen (AL)  
+Purifier
+Queen Elizabeth
+Quincy
+Ranger
+Renown
+Repulse
+Richelieu (AL)
+Richmond
+Rodney
+Roon
+Ryuuhou (AL)
+Ryuujou (AL)
+Saint Louis
+Salt Lake City
+San Diego
+San Juan
+Saratoga (AL)
+Scharnhorst
+Seattle
+Sendai (AL)
+Shangri-La
+Sheffield
+Shigure (AL)
+Shimakaze (AL)
+Shiranui (AL)
+Shiratsuyu (AL)
+Shouhou (AL)
+Shoukaku (AL)
+Shropshire
+Sims
+Sirius (AL)
+Smalley
+Souryuu (AL)
+South Dakota (AL)
+Spence
+St. Louis
+Stanly
+Suffolk
+Surcouf
+Suruga (AL)
+Sussex
+Suzuya (AL)
+Swiftsure
+Tai Yuan
+Taihou (AL)
+Takao (AL)
+Tanikaze (AL)
+Tennessee (AL)
+Terror (AL)
+Tester Beta
+Thatcher (AL)
+Tirpitz
+Tone (AL)
+Trento
+Trial Bulin MKII
+U-101
+U-110
+U-47
+U-522
+U-556
+U-73
+U-81
+Unicorn
+Universal Bulin
+Urakaze (AL)
+Uranami
+Uzuki (AL)
+Vampire
+Vestal
+Victorious
+Vincennes
+Vittorio Veneto
+Wakaba
+Warspite (AL)
+Washington (AL)
+Wasp
+West Virginia
+Wichita
+Yamashiro (AL)
+Yat Sen
+Yoizuki
+York (AL)
+Yorktown
+Yukikaze (AL)
+Yuubari (AL)
+Yuudachi (AL)
+Yuugure
+Z1 (AL)
+Z18
+Z19
+Z2
+Z21
+Z23
+Z25
+Z35
+Z36
+Z46
+Zara (AL)
+Zeppy
+Zuikaku (AL)
+
+Banshiryuu - 0/1
+Icarus (BSR)
+
+Cuphead - 0/9
+Cala Maria
+Ms. Chalice
+
+Darius - 0/3
+King Fossil
+Tiat
+Darius II - 0/3
+Tiat Young
+Yamato (Darius II)
+
+Dariusburst - 0/3
+Iron Fossil
+TI2
+
+DonPachi Series - 0/2
+Hina (DDP)
+Maria (DDP)
+
+Enter the Gungeon - 0/7
+The Convict
+The Hunter (EtG)
+
+eXceed - 0/7
+Celestia Lindwurm
+Giee
+Irias Reginleif
+Lugh Ciel
+Rayne Lindwurm
+Remedy
+Sriabelle Orphanknight
+
+Fantastic Danmaku Festival - 0/2
+Nix (FDF)
+
+Flying Red Barrel: The Diary of a Little Aviator - 0/9
+Fernet
+Islay
+Marc
+Sherry
+
+Furi - 0/6
+The Burst
+The Strap
+
+G-Darius - 0/3
+Lutia Feen
+The Embryon
+
+Graze Counter - 0/4
+Hayate Katori
+Kiriko Kirisame
+Satsuki Furuyama
+
+Jigoku Kisetsukan: Sense of the Seasons - 0/8
+Chronos (JK)
+Eiko Yukimi
+Fumin Nakitama
+Mizuiro Natsudori
+Nibiiro
+Ten*shi*
+Tenshi
+Zelus
+
+Kioh Gyoku - 0/1
+Muse (KOG)
+Len'en Project - 0/8
+Aoji Shitodo
+Hooaka Shitodo
+Kuroji Shitodo
+Shion (LP)
+Tenkai Zuifeng
+Tsubakura Enraku
+Tsurubami Senri
+Yabusame Houlen
+
+Metal Slug - 0/9
+Abigail (MS)
+Dragunov (MS)
+Eri Kasamoto
+Fiolina Germi
+Madoka Aikawa
+Rootmars
+
+Nuclear Throne - 0/5
+Chicken
+Rebel
+
+Princess Remedy in a World of Hurt - 0/2
+Frallan
+Princess Remedy
+
+QP Shooting - 0/5
+Chicken (QP)
+Mei (QP)
+QP
+Yuki (QP)
+Yuuki (QP)
+
+Sora - 0/7
+Alte
+Mira (Sora)
+Nath
+Sham
+Sora (Sora)
+Star Breaker
+Tsih
+
+SUGURI - 0/7
+Hime (SUGURI)
+Iru
+Kae
+Kyoko (SUGURI)
+Nanako (SUGURI)
+Saki (SUGURI)
+Suguri
+
+Super Ledgehop: Double Laser - 0/2
+Chizuru
+Yuuto Ichika
+
+The Binding of Isaac - 0/10
+Delirium
+Eve (TBOI)
+Lilith (TBOI)
+The Forgotten
+The Lost
+
+Touhou Fūmaroku ~ the Story of Eastern Wonderland - 0/1
+Marisa Kirisame (PC-98)
+
+Touhou Gensōkyō ~ Lotus Land Story - 0/6
+Elly (LLS)
+Gengetsu
+Kurumi (LLS)
+Mugetsu
+Orange
+Yuuka (PC-98)
+
+Touhou Kaikidan ~ Mystic Square - 0/9
+Alice (PC-98)
+Luize
+Mai (MS)
+Mika (MS)
+Sara (MS)
+Senkou
+Shinki (MS)
+Yuki (MS)
+Yumeko
+
+Touhou Mahoujou ~ Book of Star Mythology - 0/5
+Fuma Mishandra
+Ichiyou Mochizuki
+Nezu Akitsu
+Sengo Sanada
+Tobiko Takatou
+
+Touhou Project (Windows Canon) - 1/120
+Alice Margatroid
+Aunn Komano
+Aya Shameimaru
+Benben Tsukumo
+Byakuren Hijiri
+Chen
+Cirno
+Clownpiece
+Daiyousei
+Doremy Sweet
+Eika Ebisu
+Eiki Shiki
+Eirin Yagokoro
+Eternity Larva
+Flandre Scarlet
+Fujiwara no Mokou
+Hata no Kokoro
+Hatate Himekaidou
+Hecatia Lapislazuli
+Hina Kagiyama
+Ichirin Kumoi
+Iku Nagae
+Joon Yorigami
+Junko
+Kagerou Imaizumi
+Kaguya Houraisan
+Kanako Yasaka
+Kasen Ibaraki
+Keiki Haniyasushin
+Keine Kamishirasawa
+Kisume
+Koakuma
+Kogasa Tatara
+Koishi Komeiji
+Komachi Onozuka
+Kutaka Niwatari
+Kyouko Kasodani
+Letty Whiterock
+Lily White
+Luna Child
+Lunasa Prismriver
+Lyrica Prismriver
+Mai Teireida
+Mamizou Futatsuiwa
+Marisa Kirisame
+Mayumi Joutouguu
+Medicine Melancholy
+Meiling Hong
+Merlin Prismriver
+Minamitsu Murasa
+Minoriko Aki
+Momiji Inubashiri
+Mononobe no Futo
+Mystia Lorelei
+Narumi Yatadera
+Nazrin
+Nemuno Sakata
+Nitori Kawashiro
+Nue Houjuu
+Okina Matara
+Parsee Mizuhashi
+Patchouli Knowledge
+Raiko Horikawa
+Ran Yakumo
+Reimu Hakurei
+Reisen Udongein Inaba
+Remilia Scarlet
+Rin Kaenbyou
+Rin Satsuki
+Ringo (Touhou)
+Rumia
+Sagume Kishin
+Saigyou Ayakashi
+Saki Kurokoma
+Sakuya Izayoi
+Sanae Kochiya
+Satono Nishida
+Satori Komeiji
+Seiga Kaku
+Seija Kijin
+Seiran
+Sekibanki
+Shinmyoumaru Sukuna
+Shion Yorigami
+Shizuha Aki
+Shou Toramaru
+Soga no Tojiko
+Star Sapphire
+Suika Ibuki
+Sumireko Usami
+Sunny Milk
+Suwako Moriya
+Tenshi Hinanawi
+Tewi Inaba
+Toyosatomimi no Miko
+Urumi Ushizaki
+Utsuho Reiuji
+Wakasagihime
+Wriggle Nightbug
+Yachie Kicchou
+Yamame Kurodani
+Yatsuhashi Tsukumo
+Yoshika Miyako
+Youmu Konpaku
+Yukari Yakumo
+Yuugi Hoshiguma  
+Yuuka Kazami
+Yuyuko Saigyouji
+Touhou Reīden ~ The Highly Responsive to Prayers - 0/6
+Elis
+Kikuri (HRtP)
+Konngara
+Mima
+Reimu Hakurei (PC-98)
+Sariel (HRtP)
+
+Touhou Shinjutou ~ Hollow Song of Birds - 0/8
+Chii Shirobakama
+General Set
+Hikariko Aosagi
+Horou Torisumi
+Mumei Fujitsubo
+Nebet Tefet
+Ranran Higami
+Shiran Tokujakubou
+
+Touhou Yumejikū ~ Phantasmagoria of Dim.Dream - 0/6
+Chiyuri Kitashirakawa
+Kana Anaberal
+Kotohime
+Rikako Asakura
+Ruukoto
+Yumemi Okazaki
+
+Xmas Shooting Scramble!! - 0/5
+Aru
+Kiriko
+Natsumi (XSS)
+Nico (XSS)

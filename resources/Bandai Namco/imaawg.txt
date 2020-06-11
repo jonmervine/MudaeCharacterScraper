@@ -1,0 +1,938 @@
+Bandai Namco   23/692
+(bundle)
+*Namco*
+*Namco Bandai*
+
+.hack - 0/7
+Aura
+BlackRose
+Mia (.h)
+Mistral
+
+.hack//G.U. - 0/17
+Aina (.h)
+Alkaid
+Atoli
+Innis
+Pi
+Saku
+Shino
+
+.hack//Roots - 0/1
+Tabby
+
+.hack//SIGN - 0/4
+Macha
+Ace Combat 5: The Unsung War - 0/4
+Kei Nagase
+
+Ace Combat 7: Skies Unknown - 0/4
+Avril Mead
+Rosa Cossette D'Elise
+
+Ar tonelico: Melody of Elemia - 0/13
+Aurica Nestmile
+Claire Branch
+Krusche Elendia
+Lyra Ross Reitel
+Mir
+Misha Arsellec Lune
+Shurelia
+Spica Neal
+Tastiella De Lu
+
+Armored Core - 0/3
+Zinaida
+
+Baten Kaitos: Eternal Wings and the Lost Ocean - 0/3
+Melodia
+Savyna
+Xelha
+
+Black Clover: Quartet Knights - 0/1
+Karna Freese
+
+BlazBlue - 1/43
+Bullet
+Celica A. Mercury  
+Hades: Izanami
+Kajun Faycott
+Kokonoe
+Linhua
+Litchi Faye Ling
+Mai Natsume
+Makoto Nanaya
+Mu-12
+Nine the Phantom
+Noel Vermillion
+Nu-13
+Platinum the Trinity
+Rachel Alucard
+Raquel Alucard
+Taokaka
+Trinity Glassfille
+Tsubaki Yayoi
+
+Blue Protocol - 0/1
+Ain Rein
+
+Bullet Girls - 0/3
+Aya Hinomoto
+Saki Amamine
+Yurina Kanezono
+
+CODE VEIN - 0/10
+Coco (CV)
+Cruz Silva
+Eva Roux
+Io (CV)
+Karen Amamiya
+Mia Karnstein
+Rin Murasame
+
+Code: Realize - Guardian of Rebirth - 0/19
+Alexandrina Victoria
+Guinevere
+Omnibus
+Shirley Gordon
+
+Da Capo - 0/2
+Kotori Shirakawa
+Nemu Asakura
+
+Dark Souls - 0/21
+Anastacia of Astora
+Ciaran
+Crossbreed Priscilla
+Daughter of Chaos
+Gwynevere
+Sif
+Witch of Izalith
+
+Dark Souls II - 0/21
+Alsanna
+Bearer of the Curse
+Demon of Song
+Emerald Herald
+Lucatiel of Mirrah
+Nashandra
+Ornifex the Weaponsmith
+Sweet Shalquoir
+
+Dark Souls III - 0/25
+Anri of Astora
+Ashen One
+Company Captain Yorshka
+Dancer of the Boreal Valley
+Filianore
+Fire Keeper
+Irina of Carim
+Rosaria
+Sister Friede
+Soul of Cinder
+The Painter
+Yuria of Londor
+
+Digimon Adventure - 0/31
+Gatomon
+Palmon
+
+Digimon Story Cyber Sleuth - 1/24
+Alphamon  
+Ami Aiba
+Erika Mishima
+Fei Wong Tomoe Ignacio
+Kyouko Kuremi
+Lord Knightmon
+Mirei's Mastemon
+Nokia Shiramine
+Yuuko Kamishiro
+
+Digimon Story Sunburst & Moonlight - 0/4
+Lunamon
+Sayo
+
+Digimon Tamers - 0/11
+Renamon
+
+Digimon World Next Order - 0/5
+Himari Oofuchi
+Shiki
+
+Digimon World Re: Digitize - 0/8
+Mirei Mikagura
+Rina Shinomiya
+Rindou Akiho
+
+Divinity: Original Sin 2 - 0/7
+Lohse
+Sebille
+
+Dragon Ball FighterZ - 0/2
+Android 21 (Evil)
+Android 21 (Good)
+
+Dragon Ball Heroes - 0/16
+Nico (DB)
+Note
+Putine
+
+Dragon Ball Online - 0/3
+Towa
+
+Dragon Ball Xenoverse - 0/10
+Supreme Kai Of Time
+Xeno Pan
+
+Enslaved: Odyssey to the West - 0/1
+Trip (Enslaved)
+
+Eternal Sonata - 0/2
+March (ES)
+Polka (ES)
+
+Fragile Dreams: Farewell Ruins of the Moon - 0/5
+Personal Frame
+Ren (FD)
+Sai (FD)
+
+Galaxy Angel - 0/12
+Anise Azeat
+Apricot Sakuraba
+Chitose Karasuma (GA)
+Forte Stollen
+Kahlua Marjoram
+Lily C. Sherbet
+Milfeulle Sakuraba
+Mint Blancmanche
+Natsume Izayoi
+Ranpha Franboise
+Vanilla H
+
+God Eater - 0/25
+Alisa Illinichina Amiella
+Amy Chrysanthemum
+Cappy (GE)
+Ciel Alençon
+Claire Victorious
+Erina der Vogelweid
+Gina Dickinson
+Kanon Daiba
+Livie Collete
+Lulu Baran
+Nana Kouzuki
+Phym
+Rikka Kusunoki
+Sakuya Tachibana
+Shio
+Tsubaki Amamiya
+Yuno Ashihara
+
+IDOLiSH7 - 0/24
+Kaoru Anesagi
+Kinako
+King Pudding
+Tsumugi Takanashi
+
+InuYasha: The Secret of the Cursed Mask - 0/1
+Kaname Kururugi
+
+Iria: Zeiram the Animation - 0/1
+Iria
+
+Katamari Damacy - 0/6
+Foomin
+Ichigo (KD)
+Miso
+
+Klonoa 2: Lunatea's Veil - 0/4
+Leorina
+Lolo (Klonoa)
+Tat
+
+Legend of Valkyrie - 0/1
+Valkyrie
+
+Little Nightmares - 0/2
+Six
+The Lady
+
+Love Live! Nijigasaki Gakuen School Idol Doukoukai - 0/9
+Ai Miyashita
+Ayumu Uehara
+Emma Verde
+Kanata Konoe
+Karin Asaka
+Kasumi Nakasu
+Rina Tennoji
+Setsuna Yuki
+Shizuku Osaka
+
+Love Live! School Idol Project - 0/24
+Alisa Ayase
+Cocoa Yazawa
+Cocoro Yazawa
+Eli Ayase
+Hanayo Koizumi
+Honoka Kousaka
+Honoka's Mother
+Kotori Minami
+Kotori's Mother
+Maki Nishikino
+Maki's Mother
+Nico Yazawa
+Nico's Mother
+Nozomi Toujou
+Rin Hoshizora
+Umi Sonoda
+Yukiho Kousaka
+
+Love Live! Sunshine!! - 1/22
+Chika Takami
+Chika's Mother
+Dia Kurosawa
+Hanamaru Kunikida
+Kanan Matsuura
+Leah Kazuno
+Mari Ohara
+Mito Takami
+Riko Sakurauchi
+Riko's Mother
+Ruby Kurosawa
+Sarah Kazuno
+Shiitake
+Shima Takami
+Wataame
+Yoshiko Tsushima  
+You Watanabe
+
+Macross 30 - 0/2
+Aisha Blanchette
+Mina Forte
+
+Metal Slug - 0/9
+Abigail (MS)
+Dragunov (MS)
+Eri Kasamoto
+Fiolina Germi
+Madoka Aikawa
+Rootmars
+
+Mighty Morphin Power Rangers - 0/8
+Kimberly Ann Hart
+
+Namco x Capcom - 0/3
+Saya (NxC)
+Xiaomu
+
+Oneechanbara - 0/4
+Aya (Oneechanbara)
+Kagura (Oneechanbara)
+Saaya (Oneechanbara)
+Saki (Oneechanbara)
+
+Puella Magi Madoka Magica Portable - 0/3
+Candeloro
+Homulilly
+Ophelia (MMP)
+
+Ray Gigant - 0/3
+Nil Phineus
+
+Ridge Racer - 0/1
+Reiko Nagase
+Satsuriku no Tenshi - 0/8
+Catherine Ward
+Girl (SnT)
+Rachel Gardner
+
+Senki Zesshou Symphogear XD Unlimited - 0/4
+Chris Yukine (ANOTHER)
+Hibiki Tachibana Alternative
+Sharon (SZS)
+Tsubasa Kazanari (ANOTHER)
+
+Senran Kagura - 0/69
+Ageha (SK)
+Aria (SK)
+Ashiya
+Asuka
+Ayame
+Bashou
+Chitose (SK)
+Daidouji
+Fubuki (SK)
+Fuga
+Fuuma
+Gekko
+Ginrei (SK)
+Hanabi
+Haruka
+Hibari
+Hijikata
+Hikage
+Hisui (SK)
+Homura
+Hyoki
+Ikaruga
+Imu
+Jasmine (SK)
+Kaede (SK)
+Kafuru
+Kagura (SK)
+Kanzaki
+Karasu (SK)
+Katsuragi
+Kumi
+Leo (SK)
+Maki
+Matsuri (SK)
+Meimei (SK)
+Miki (SK)
+Minori
+Mirai
+Misato (SK)
+Miyabi
+Motochika
+Murakumo
+Muramasa (SK)
+Murasaki
+Nachi
+Naraku (SK)
+Reki
+Renka
+Ryoki
+Ryoubi
+Ryouna
+Seimei (SK)
+Senko (SK)
+Shiki (SK)
+Soji
+Suzune
+Tachibana
+Ushimaru
+Yagyuu
+Yomi
+Yoshimitsu (SK)
+Yozakura
+Yugiri
+Yumi
+Yuyaki
+
+Short Peace: Ranko Tsukigime's Longest Day - 0/1
+Ranko Tsukigime
+Solatorobo: Red the Hunter - 0/5
+Chocolat Gelato
+Elh Melizée
+Fromage
+Opéra Kranz
+
+Soul Edge - 0/8
+Seong Mi-na
+Sophitia Alexandra
+Taki
+
+Soulcalibur I - 0/4
+Ivy
+Xianghua
+
+Soulcalibur II - 0/4
+Amy Sorel
+Cassandra Alexandra
+Talim
+Soulcalibur III - 0/1
+Tira
+
+Soulcalibur IV - 0/2
+Angol Fear
+Hildegard von Krone
+
+Soulcalibur V - 0/2
+Pyrrha Alexandra
+
+Summon Night 3 - 0/2
+Aty
+Belfraw Martini
+
+Summon Night 5 - 0/1
+Arca
+
+Summon Night: Swordcraft Story - 0/3
+Pratty
+Sugar (SS)
+
+Summon Night: Swordcraft Story 2 - 0/10
+Aera Colthearts
+Arno
+Dinah
+Lynn (SS2)
+Passeau
+Sarin
+
+Super Robot Taisen T - 0/2
+Ramie Amasaki
+Sagiri Sakurai
+
+Super Robot Taisen V - 0/1
+Chitose Kisaragi
+
+Super Robot Taisen X - 0/1
+Amari Aquamarine
+Super Smash Bros. for Nintendo 3DS and Wii U - 0/1
+Mii Gunner
+
+Super Smash Bros. Ultimate - 0/4
+Dharkon
+Galeem
+Incineroar (SSB)
+Piranha Plant
+
+Sword Art Online: Alicization Lycoris - 0/1
+Medina Orthinanos
+
+Sword Art Online: Fatal Bullet - 0/3
+Kureha (SAO)
+Zeliska
+
+Sword Art Online: Hollow Fragment - 0/1
+Philia
+
+Sword Art Online: Hollow Realization - 0/2
+Premiere
+Tia (SAO)
+
+Sword Art Online: Infinity Moment - 0/1
+Strea
+
+Sword Art Online: Integral Factor - 0/1
+Koharu Honda
+
+Sword Art Online: Lost Song - 0/2
+Rain
+Seven (SAO)
+
+Sword Art Online: Memory Defrag - 0/3
+Makoto (SAO)
+Sphica
+Thokk
+
+Tales of Arise - 0/2
+Shionne
+Tales of Berseria - 0/12
+Eleanor Hume
+Magilou
+Seres
+Teresa Linares
+Velvet
+
+Tales of Crestoria - 0/1
+Yuna Azetta
+
+Tales of Destiny - 0/5
+Rutee Katrea
+
+Tales of Destiny 2 - 0/1
+Reala
+
+Tales of Graces f - 0/9
+Cheria Barnes
+Fourier
+Pascal
+Poisson
+Sophie
+
+Tales of Hearts - 0/3
+Beryl Benito
+Ines Lorenzen
+Kohaku Hearts
+
+Tales of Innocence - 0/3
+Illia Animi
+
+Tales of Legendia - 0/4
+Chloe Valens
+Grune
+Norma Beatty
+Shirley Fennes
+
+Tales of Link - 0/2
+Kana (ToL)
+Sara (ToL)
+
+Tales of Phantasia - 0/7
+Arche Klein
+Mint Adenade
+Suzu Fujibayashi
+
+Tales of Symphonia - 0/15
+Chocolat (ToS)
+Colette Brunel
+Martel
+Presea Combatir
+Raine Sage
+Sheena Fujibayashi
+
+Tales of Symphonia: Dawn of the New World - 0/3
+Alice (ToS2)
+Marta Lualdi
+
+Tales of the Abyss - 0/17
+Anise Tatlin
+Arietta
+Legretta
+Natalia Luzu Kimlasca Lanvaldear
+Tear Grants
+
+Tales of the Rays - 0/3
+Mileena Weiss
+
+Tales of the World: Radiant Mythology - 0/1
+Pasca Kanonno
+
+Tales of the World: Radiant Mythology 2 - 0/1
+Kanonno Earhart
+
+Tales of the World: Radiant Mythology 3 - 0/1
+Kanonno Grassvalley
+
+Tales of Vesperia - 0/18
+Droite
+Estelle
+Gauche
+Judith
+Nan (ToV)
+Patty Fleur
+Rita Mordio
+
+Tales of Xillia - 0/9
+Elize Lutus
+Leia Rolando
+Milla Maxwell
+Muzét
+Presa
+
+Tales of Xillia 2 - 0/5
+Elle Mel Martha
+Fractured Milla
+Nova (ToX2)
+
+Tales of Zestiria - 0/12
+Alisha Diphda
+Edna
+Lailah
+Maltran
+Rose (ToZ)
+Symonne
+
+Tamagotchi - 1/10
+Chamametchi  
+Coffretchi
+Himespetchi
+Kiramotchi
+Memetchi
+Pizalinatchi
+
+Tekken 1 - 0/10
+Anna Williams
+Kunimitsu
+Nina Williams
+Tekken 2 - 0/3
+Angel (Tekken)
+Jun Kazama
+
+Tekken 3 - 0/9
+Julia Chang
+Ling Xiaoyu
+
+Tekken 4 - 0/3
+Christie Monteiro
+
+Tekken 5 - 0/6
+Asuka Kazama
+Emilie De Rochefort
+
+Tekken 6 - 0/6
+Alisa Bosconovitch
+Leo Kliesen
+Zafina
+Tekken 7 - 0/10
+Josie Rizal
+Katarina Alves
+Kazumi Mishima
+Lucky Chloe
+Master Raven
+
+Tekken Revolution - 0/1
+Eliza
+
+The iDOLM@STER - 5/16
+Ami Futami
+Azusa Miura
+Chihaya Kisaragi
+Haruka Amami  
+Hibiki Ganaha  
+Iori Minase
+Kotori Otonashi
+Makoto Kikuchi  
+Mami Futami  
+Miki Hoshii
+Ritsuko Akizuki  
+Takane Shijou
+Yayoi Takatsuki
+Yukiho Hagiwara
+
+The iDOLM@STER Cinderella Girls - 5/129
+Ai Togo
+Aiko Takamori
+Airi Totoki
+Akane Hino (iM@S)
+Akari Tsujino
+Aki Yamato
+Akira Sunazuka
+Anastasia  
+Anzu Futaba
+Arisu Tachibana
+Asuka Ninomiya
+Atsumi Munakata
+Ayame Hamaguchi
+Azuki Momoi
+Chiaki Kurokawa
+Chie Sasaki
+Chieri Ogata
+Chihiro Senkawa
+Chika Yokoyama
+Chitose Kurosaki
+Chiyo Shirayuki
+Clarice (iM@S)
+Ema Senzaki
+Emi Namba
+Eve Santaclaus
+Frederica Miyamoto  
+Fumika Sagisawa
+Hajime Fujiwara
+Haru Yuuki
+Haruna Kamijo
+Hasumi Nagatomi
+Hayate Hisakawa
+Helen
+Hijiri Mochizuki
+Hikaru Nanjo
+Hina Araki
+Hinako Kita
+Hiromi Seki
+Honoka Ayase
+Hotaru Shiragiku
+Izumi Ohishi
+Kaede Takagaki
+Kako Takafuji
+Kana Imai
+Kanade Hayami
+Kanako Mimura
+Kaoru Ryuzaki
+Karen Hojo
+Karin Domyoji
+Kirari Moroboshi  
+Kiyomi Saejima
+Koharu Koga
+Kotoka Saionji
+Koume Shirasaka  
+Kozue Yusa
+Kumiko Matsuyama
+Kurumi Ohnuma
+Kyoko Igarashi
+Layla (iM@S)
+Mahiro Kitagawa
+Makino Yagami
+Mayu Sakuma
+Midori Mizuno
+Miho Kohinata
+Mika Jougasaki
+Miku Maekawa
+Minami Nitta
+Mio Honda
+Mirei Hayasaka
+Miria Akagi
+Miyu Mifune
+Mizuki Kawashima
+Momoka Sakurai
+Nagi Hisakawa
+Nana Abe
+Nanami Asari
+Nao Kamiya
+Natalia
+Natsuki Kimura
+Nina Ichihara
+Noa Takamine
+Nono Morikubo
+Noriko Shiina
+Ranko Kanzaki
+Reiko Takahashi
+Riamu Yumemi
+Riina Tada
+Rika Jougasaki  
+Rin Shibuya
+Rina Fujimoto
+Risa Matoba
+Rookie Trainer
+Rumi Wakui
+Ryo Matsunaga
+Sachiko Koshimizu
+Sae Kobayakawa
+Sana Miyoshi
+Sanae Katagiri
+Sarina Matsumoto
+Seira Mizuki
+Shiki Ichinose
+Shin Sato
+Shino Hiiragi
+Shiori Sena
+Shizuku Oikawa
+Suzuho Ueda
+Syoko Hoshi
+Syuko Shiomi
+Takumi Mukai
+Tamami Wakiyama
+Tokiko Zaizen
+Tomo Fujii
+Tomoe Murakami
+Tsukasa Kiryu
+Umi Sugisaka
+Uzuki Shimamura
+Yoshino Yorita
+Yui Ohtsuki
+Yuka Nakano
+Yukari Mizumoto
+Yuki Himekawa
+Yukimi Sajo
+Yukino Aihara
+Yuko Hori
+Yume Narumiya
+Yumi Aiba
+Yuuki Otokura
+Yuzu Kitami
+
+The iDOLM@STER ONE FOR ALL - 0/1
+Leon (iM@S)
+
+The iDOLM@STER Stella Stage - 0/1
+Shika
+
+The iDOLM@STER: Dearly Stars - 0/3
+Ai Hidaka
+Eri Mizutani
+
+The iDOLM@STER: Million Live! - 9/40
+Akane Nonohara
+Anna Mochizuki  
+Arisa Matsuda  
+Ayumu Maihama
+Chizuru Nikaido
+Elena Shimabara
+Emily Stewart
+Fuka Toyokawa
+Hinata Kinoshita
+Iku Nakatani  
+Julia (iM@S)
+Kana Yabuki  
+Kaori Sakuramori
+Karen Shinomiya
+Konomi Baba
+Kotoha Tanaka
+Matsuri Tokugawa
+Megumi Tokoro
+Minako Satake
+Mirai Kasuga
+Misaki Aoba
+Miya Miyao
+Mizuki Makabe
+Momoko Suou
+Nao Yokoyama  
+Noriko Fukuda
+Reika Kitakami
+Rio Momose  
+Roco Handa
+Sayoko Takayama  
+Serika Hakozaki
+Shiho Kitazawa
+Shizuka Mogami
+Subaru Nagayoshi
+Tamaki Ogami
+Tomoka Tenkuubashi
+Tsubasa Ibuki  
+Tsumugi Shiraishi
+Umi Kousaka  
+Yuriko Nanao
+
+The iDOLM@STER: Shiny Colors - 0/20
+Amana Osaki
+Asahi Serizawa
+Chiyoko Sonoda
+Chiyuki Kuwayama
+Fuyuko Mayuzumi
+Hazuki Nanakusa
+Hiori Kazano
+Juri Saijo
+Kaho Komiya
+Kiriko Yukoku
+Kogane Tsukioka
+Mamimi Tanaka
+Mano Sakuragi
+Meguru Hachimiya
+Mei Izumi
+Natsuha Arisugawa
+Rinze Morino
+Sakuya Shirase
+Tenka Osaki
+Yuika Mitsumine
+
+The Witcher - 0/39
+Angoulême
+Anna Henrietta
+Birna Bran
+Black Rayla
+Cerys an Craite
+Ciri
+Iris von Everec
+Keira Metz
+Meve
+Milva
+Orianna (TW)
+Philippa Eilhart
+Priscilla (TW)
+Salma
+Shani
+Sylvia Anna
+Triss Merigold
+Ves
+Vivienne de Tabris
+Yennefer
+
+Tsukiuta. - 0/18
+Ai Kisaragi
+Akane Asagiri
+Mizuki Himekawa
+Reina Ichisaki
+Tsubaki Tendouin
+Wakaba Yuki
+Utawarerumono - 0/9
+Aruruu
+Eruruu
+Kamyu
+Karura
+Touka
+Yuzuha (Utaware)
+
+Wonder Momo - 0/1
+Wonder Momo
+
+Xenosaga - 0/11
+KOS-MOS
+MOMO Mizrahi
+Shion Uzuki
+T-elos
+
+Yumeria - 0/2
+Mone
+Neneko
+Zenonzard - 0/1
+Eilietta Lash

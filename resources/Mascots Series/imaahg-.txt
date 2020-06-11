@@ -1,0 +1,98 @@
+Mascots Series   0/71
+(bundle)
+*Mascots*
+
+Food Mascots - 0/23
+Beach Bear
+Cap'n Crunch
+Chester Cheetah
+Chip the Wolf
+Colonel Sanders
+Cool Spot
+Dook Larue
+Earle Schmerle
+Grimace
+Jack Box
+Kool-Aid Man
+Mac Tonight
+Mr. Peanut
+Mr. Pibb
+Mr. Tayto
+Percy Pig
+Pillsbury Doughboy
+Ronald McDonald
+Tony the Tiger
+Toucan Sam
+Whataguy
+
+Gudetama - 0/1
+Gudetama
+
+Keroppi - 0/1
+Keroppi
+
+Little Twin Stars - 0/2
+Kiki (LTS)
+
+M&M's - 0/5
+Orange (M&M)
+Red (M&M)
+Yellow (M&M)
+
+Media Mascots - 0/4
+BonziBuddy
+Clippy
+TOM 1.0
+Wumpus
+
+Mickey Mouse - 0/6
+Donald Duck
+Goofy
+Mickey Mouse
+Pete
+
+Pepsiman - 0/1
+Pepsiman
+
+Pompompurin - 0/1
+Pompompurin
+
+Public Mascots - 0/17
+Big Tex
+Duo
+GEICO Gecko
+Louie the Fly
+Miraitowa
+Mr. Clean
+Phil Swift
+Protegent
+The Oregon Duck
+Uncle Sam
+Vinicius
+
+Vocaloid - 0/67
+ARSLOID
+Big Al
+DEX
+Fukase
+Gakupo Kamui
+Hime MEIKA
+Kaito
+Kiyoteru Hiyama
+KYO
+Len Kagamine
+Longya Yuezheng
+Mikoto MEIKA
+Moke Zhiyu
+Oliver (V)
+Piko Utatane
+Rabbit Yukine
+Ryuto
+WIL
+YOHIOloid
+Yuecheng
+Yuma
+YUU
+
+ZONE - 0/2
+Lemmy

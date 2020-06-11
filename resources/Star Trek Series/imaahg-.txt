@@ -1,0 +1,25 @@
+Star Trek Series   0/13
+(bundle)
+*Star Trek*
+*ST Series*
+
+Star Trek: Deep Space Nine - 0/3
+Benjamin Sisko
+Garak
+Quark (ST)
+
+Star Trek: Enterprise - 0/1
+Jonathan Archer
+
+Star Trek: The Next Generation - 0/4
+Data
+Jean-Luc Picard
+William T. Riker
+Worf
+
+Star Trek: The Original Series - 0/5
+Christopher Pike
+James T. Kirk
+Khan Noonien Singh
+Leonard McCoy
+Spock

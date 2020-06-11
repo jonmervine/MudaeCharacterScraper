@@ -1,0 +1,26 @@
+.hack Series   0/12
+(bundle)
+*dothack*
+*dot hack*
+
+.hack - 0/7
+Aura
+
+.hack//G.U. - 0/17
+Alkaid
+Atoli
+Innis
+Pi
+Saku
+Shino
+
+.hack//Legend of the Twilight - 0/1
+Ouka
+
+.hack//Roots - 0/1
+Tabby
+
+.hack//SIGN - 0/4
+Macha
+Mimiru
+Subaru (.h)

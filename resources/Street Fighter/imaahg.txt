@@ -1,0 +1,60 @@
+Street Fighter   0/42
+(bundle)
+*SF*
+*Street Fighter Series*
+
+Street Fighter Alpha - 0/11
+Charlie Nash
+Dan Hibiki
+Evil Ryu
+Gouken
+Zeku
+
+Street Fighter EX - 0/3
+Cracker Jack
+Garuda (SFEX)
+Skullomania
+
+Street Fighter I - 0/4
+Birdie
+Ken Masters
+Ryu
+Sagat
+
+Street Fighter II - 0/12
+Akuma
+Balrog
+Blanka
+Dhalsim
+E. Honda
+Fei Long
+Guile
+M. Bison
+Vega
+Zangief
+
+Street Fighter III - 0/17
+Alex
+Dudley
+Gill (SF)
+Necro
+Oro
+Q (SF)
+Remy (SF)
+Sean Matsuda
+Twelve (SF)
+Urien
+Yang (SF)
+Yun (SF)
+
+Street Fighter IV - 0/5
+Ed (SF)
+Rufus (SF)
+Seth (SF)
+
+Street Fighter V - 0/8
+F.A.N.G
+G
+Kage
+Necalli
+Rashid

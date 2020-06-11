@@ -1,0 +1,111 @@
+Voice Synthesizers   4/88
+(bundle)
+*Vocal Synthesis*
+*Voice Synths*
+*Vocal Synths*
+
+Alter/Ego - 0/1
+ALYS
+
+CeVIO - 0/4
+ONE (CeVIO)
+Sasara Satou
+
+Fanloid - 2/16
+Haku Yowane
+Hatsune Inku  
+Meiko Sakine
+Miku Hachune
+Miku Hagane
+Mikudayo
+Mina Hatsune
+Neru Akita
+Rin no Youchuu
+Shiteyan'yo
+Tako Luka  
+Toeto
+Macne Series - 1/5
+Macne Coco Black
+Macne Coco White
+Macne Nana
+Macne Petit
+Whisper☆Angel Sasayaki  
+
+MAIDLOID - 0/1
+Iku Acme
+
+Muta - 0/2
+Yanxi
+
+Synthesizer V - 0/1
+Eleanor Forte
+
+UTAU - 0/26
+Aiko Kikyuune
+Hikari Akarui
+Maiko Hakaine
+Meiji Gahata
+Momo Momone
+Nene Nene
+Nizimine Kakoi
+Renri Yamine
+Ruko Yokune
+Shito Magene
+Tei Sukone
+Teto Kasane
+Uta Utane
+
+Vocaloid - 1/67
+Akari Kizuna
+Avanna
+Azuki Masaoka
+Chika (V)
+Chuchu Zhang
+CUL
+Daina
+Flower
+Galaco
+Gumi
+Hime MEIKA
+IA
+Iroha Nekomura
+Kokone
+Lapis Aoki
+Lily (V)
+Ling Yuezheng
+Luka Megurine
+LUMi (V)
+MAIKA
+Matcha Kobayashi
+MAYU
+Meiko
+Merli
+Mikoto MEIKA
+Miku Hatsune
+Mirai Komachi
+Nemu Yumemi
+Qingxian Mo
+Rana
+Rin Kagamine
+Rion Tone
+Ruby (V)
+SeeU
+SF-A2 miki
+Sonika
+Sora Haruno
+Tianyi Luo
+Una Otomachi
+UNI (V)
+VY1  
+Xin Hua
+Xingchen
+YANHE
+Yukari Yuzuki
+Yuki Kaai
+Zunko Tohoku
+Voiceroid - 0/7
+Akane Kotonoha
+Aoi Kotonoha
+Itako Tohoku
+Kiritan Tohoku
+Maki Tsurumaki

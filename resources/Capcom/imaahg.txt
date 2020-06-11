@@ -1,0 +1,491 @@
+Capcom   0/341
+(bundle)
+​
+Ace Attorney Investigations: Miles Edgeworth - 0/9
+Colias Palaeno
+Jacques Portsman
+Shi-Long Lang
+Tyrell Badd
+
+Ace Attorney Investigations: Prosecutor's Path - 0/12
+Blaise Debeste
+Dane Gustavia
+Horace Knightley
+John Marsh
+Raymond Shields
+Sebastian Debeste
+Simon Keyes
+
+Apollo Justice: Ace Attorney - 0/13
+Apollo Justice
+Daryan Crescend
+Klavier Gavin
+Kristoph Gavin
+Machi Tobaye
+Valant Gramarye
+Wesley Stickler
+Wocky Kitaki
+
+Asura's Wrath - 0/2
+Asura
+Yasha
+
+Bionic Commando - 0/1
+Rad Spencer
+
+Breath of Fire I - 0/3
+Ryu (BoF1)
+
+Breath of Fire IV - 0/2
+Fou-Lu
+Ryu (BoF4)
+
+Breath of Fire V: Dragon Quarter - 0/3
+Ryu (BoF5)
+
+Captain Commando - 0/1
+Captain Commando
+
+Dai Gyakuten Saiban - 0/28
+Barok van Zieks
+Beppo
+Enoch Drebber
+Hart Vortex
+John Garrideb
+Kazuma Asougi
+Klimt van Zieks
+Patrick O'Malley
+Robert Crogley
+Ryuunosuke Naruhodou
+Satoru Hosonaga
+Seishirou Jigoku
+Sherlock Holmes (DGS)
+Soseki Natsume
+Tobias Gregson
+Toby (DGS)
+William Petenshy
+Yuujin Mikotoba
+
+Darkstalkers - 0/12
+Anakaris
+Demitri Maximoff
+Donovan Baine
+Jedah Dohma
+Lord Raptor
+Rikuo
+
+Dead Rising - 0/2
+Frank West
+
+Dead Rising 2 - 0/3
+Carl Schliff
+Chuck Greene
+Dead Rising 3 - 0/1
+Nick Ramos
+
+Devil May Cry - 0/3
+Dante
+Vergil
+
+Devil May Cry 3: Dante's Awakening - 0/3
+Jester
+
+Devil May Cry 4 - 0/2
+Nero
+
+Devil May Cry 5 - 0/4
+Urizen
+V
+
+DmC: Devil May Cry - 0/2
+Dante (DmC)
+Vergil (DmC)
+Dragon's Dogma - 0/5
+Arisen
+Grigori
+
+E.X. Tr∞pers - 0/5
+Bren Turner
+Chris Landbaird
+Luan Forest
+
+Final Fight - 0/7
+Abigail (FF)
+Cody
+Guy
+Hugo Andore
+Mike Haggar
+
+Ghost Trick - 0/9
+Cabanela
+Jowd
+Missile
+Sissel
+
+Ghosts 'n Goblins - 0/2
+Arthur
+Firebrand
+
+God Hand - 0/3
+Azel
+Gene
+
+killer7 - 0/5
+Dan Smith
+Garcian Smith
+MASK de Smith
+Pedro Montana
+
+Lost Planet - 0/2
+Wayne Holden
+Marvel vs. Capcom - 0/3
+Amingo
+
+Mega Man (Classic) - 0/33
+Air Man
+Aqua Man
+Ballade
+Bass
+Blast Man
+Blizzard Man
+Burner Man
+Cut Man
+Dr. Cossack
+Dr. Light
+Dr. Wily
+Drill Man
+Duo (MM)
+Elec Man
+Enker
+Fire Man
+Gemini Man
+Jupiter (MM)
+Mega Man
+Proto Man
+Punk (MM)
+Quick Man
+Rush
+Shadow Man
+Skull Man
+Snake Man
+Solar Man
+Tornado Man
+Tundra Man
+Wood Man
+
+Mega Man Battle Network - 0/29
+AirMan.EXE
+AquaMan.EXE
+Bass.EXE
+BeastMan.EXE
+BlastMan.EXE
+BlizzardMan.EXE
+Dex Oyama
+Eugene Chaud
+FireMan.EXE
+GutsMan.EXE
+HeatMan.EXE
+KnightMan.EXE
+Lan Hikari
+MegaMan.EXE
+Mr. Match
+NumberMan.EXE
+ProtoMan.EXE
+Raika
+SearchMan.EXE
+ShadeMan.EXE
+ShadowMan.EXE
+Zero.EXE
+
+Mega Man Legends - 0/7
+Barrett
+Data (MML)
+MegaMan Volnutt
+
+Mega Man Star Force - 0/13
+A.C. Eos
+Geo Stelar
+Hollow
+Jack (MMSF)
+Omega-Xis
+Patrick Sprigs
+Solo (MMSF)
+Zack Temple
+
+Mega Man X - 0/19
+Axl
+Blaze Heatnix
+Dynamo
+Flame Hyenard
+Gate
+High Max
+Lumine (MMX)
+Magma Dragoon
+Rainy Turtloid
+Sigma (MMX)
+Signas
+Storm Eagle
+Tidal Whale
+Vile
+X
+Zero
+
+Mega Man X: Command Mission - 0/3
+Epsilon
+
+Mega Man Zero - 0/8
+Copy X
+Elpizo
+Fighting Fefnir
+Hidden Phantom
+Omega
+Sage Harpuia
+
+Mega Man ZX - 0/5
+Prometheus (MMZX)
+Vent
+
+Mega Man ZX Advent - 0/6
+Aeolus
+Grey (MMZXA)
+Siarnaq
+Thetis
+
+Monster Hunter - 0/1
+Poogie
+
+Monster Hunter 4 Ultimate - 0/1
+Gogmazios
+
+Monster Hunter: World - 0/8
+Admiral
+Commander
+Field Team Leader
+The Huntsman
+The Seeker
+
+Namco x Capcom - 0/3
+Reiji Arisu
+
+Ōkami - 0/11
+Issun
+Mr. Orange
+Ninetails
+Oki
+Shiranui
+Susano
+Waka
+
+Ōkamiden - 0/6
+Chibiterasu
+Kuni
+Kurow
+Manpuku
+
+Onimusha Series - 0/1
+Samanosuke Akechi
+
+Onimusha: Dawn of Dreams - 0/1
+Hideyasu Yuki
+
+Phoenix Wright: Ace Attorney - 0/26
+Charley
+Damon Gant
+Dick Gumshoe
+Frank Sahwit
+Gregory Edgeworth
+Jake Marshall
+Judge
+Larry Butz
+Manfred von Karma
+Marvin Grossberg
+Mike Meekins
+Miles Edgeworth
+Missile (AA)
+Phoenix Wright
+Redd White
+Will Powers
+Winston Payne
+
+Phoenix Wright: Ace Attorney: Dual Destinies - 0/17
+Bobby Fulbright
+Clay Terran
+Damian Tenma
+Florent L'Belle
+Gaspen Payne
+Herman Crab
+Hugh O'Conner
+Simon Blackquill
+Ted Tonate
+Phoenix Wright: Ace Attorney: Justice For All - 0/11
+Benjamin Woodman
+Matt Engarde
+Max Galactica
+Moe the Clown
+Richard Wellington
+Shelly de Killer
+
+Phoenix Wright: Ace Attorney: Spirit of Justice - 0/14
+Datz Are'bal
+Dhurke Sahdmadhi
+Inga Karkhuul Khura'in
+Jove Justice
+Nahyuta Sahdmadhi
+Paul Atishon
+Sorin Sprocket
+Tahrust Inmee
+Uendo Toneido
+
+Phoenix Wright: Ace Attorney: Trials and Tribulations - 0/9
+Furio Tigre
+Godot
+Jean Armstrong
+Luke Atmey
+Ron DeLite
+
+Power Stone - 0/3
+Edward Fokker
+
+Professor Layton vs. Phoenix Wright: Ace Attorney - 0/6
+Cecil (PL)
+Jean Greyerl
+Zacharias Barnham
+
+Resident Evil 1 - 0/5
+Albert Wesker
+Barry Burton
+Chris Redfield
+
+Resident Evil 2 - 0/7
+HUNK (RE)
+Leon Scott Kennedy
+T-00
+William Birkin
+
+Resident Evil 3: Nemesis - 0/2
+Carlos Oliveira
+Nemesis-T Type
+
+Resident Evil 4 - 0/5
+Jack Krauser
+Luis Sera
+Merchant
+Ramon Salazar
+
+Resident Evil 5 - 0/2
+Ricardo Irving
+
+Resident Evil 6 - 0/3
+Jake Muller
+Piers Nivans
+
+Resident Evil 7: Biohazard - 0/5
+Jack Baker
+Joe Baker
+Lucas Baker
+
+Resident Evil CODE: Veronica - 0/2
+Alfred Ashford
+Steve Burnside
+
+Resident Evil Zero - 0/1
+Billy Coen
+
+Resident Evil: Operation Raccoon City - 0/3
+VECTOR (RE)
+
+Sengoku Basara - 0/21
+Ieyasu Tokugawa (SB)
+Kanbe Kuroda
+Keiji Maeda
+Kenshin Uesugi (SB)
+Kojuurou Katakura
+Masamune Date
+Mitsunari Ishida
+Motochika Chousokabe
+Motonari Mouri
+Nagamasa Azai
+Nobunaga Oda (SB)
+Ranmaru Mori (SB)
+Sasuke Sarutobi
+Shingen Takeda (SB)
+Toshiie Maeda (SB)
+Yukimura Sanada
+
+Shantae - 0/12
+Bolo
+Squid Baron
+
+Street Fighter Alpha - 0/11
+Charlie Nash
+Dan Hibiki
+Evil Ryu
+Gouken
+Zeku
+
+Street Fighter EX - 0/3
+Cracker Jack
+Garuda (SFEX)
+Skullomania
+
+Street Fighter I - 0/4
+Birdie
+Ken Masters
+Ryu
+Sagat
+
+Street Fighter II - 0/12
+Akuma
+Balrog
+Blanka
+Dhalsim
+E. Honda
+Fei Long
+Guile
+M. Bison
+Vega
+Zangief
+
+Street Fighter III - 0/17
+Alex
+Dudley
+Gill (SF)
+Necro
+Oro
+Q (SF)
+Remy (SF)
+Sean Matsuda
+Twelve (SF)
+Urien
+Yang (SF)
+Yun (SF)
+
+Street Fighter IV - 0/5
+Ed (SF)
+Rufus (SF)
+Seth (SF)
+
+Street Fighter V - 0/8
+F.A.N.G
+G
+Kage
+Necalli
+Rashid
+
+Strider - 0/2
+Strider Hien
+Strider Hiryu
+
+The Legend of Zelda: Oracle of Seasons/Ages - 0/4
+Ralph (TLoZ)
+
+The Legend of Zelda: The Minish Cap - 0/2
+Ezlo
+Vaati
+
+Viewtiful Joe - 0/1
+Viewtiful Joe
+
+Zack & Wiki: Quest for Barbaros' Treasure - 0/2
+Wiki (Z&W)
+Zack (Z&W)

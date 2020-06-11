@@ -1,0 +1,23 @@
+.hack Series   0/11
+(bundle)
+*dothack*
+*dot hack*
+
+.hack - 0/7
+Balmung (.h)
+Piros
+
+.hack//G.U. - 0/17
+Azure Kite
+Bo
+Endrance
+Haseo
+Kuhn
+Ovan
+Yata (.h)
+
+.hack//Quantum - 0/1
+Hermit (.h)
+
+.hack//SIGN - 0/4
+Tsukasa

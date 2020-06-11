@@ -1,0 +1,345 @@
+The Walt Disney Company   0/188
+(bundle)
+*Disney*
+*The Walt Disney Co.*
+*TWDC*
+*WDC*
+*Walt Disney Pictures*
+
+101 Dalmatians - 0/4
+Cruella de Vil
+Dolly
+Perdita
+
+A Goofy Movie - 0/3
+Roxanne (AGM)
+
+Aladdin - 0/7
+Carpet
+Jasmine
+
+Alice in Wonderland - 0/3
+Alice
+
+American Dragon: Jake Long - 0/7
+Haley Long
+Kara Oracle
+Rose (AD:JL)
+Sara Oracle
+Trixie Carter
+
+Amphibia - 0/5
+Anne Boonchuy
+Maddie Flour
+Polly Plantar
+
+Atlantis: The Lost Empire - 0/8
+Audrey Ramirez
+Helga Sinclair
+Kida
+Wilhelmina Packard
+
+Bambi - 0/3
+Miss Bunny
+
+Beauty and the Beast - 0/3
+Belle
+
+Big Hero 6 - 0/6
+Go Go Tomago
+Honey Lemon
+
+Brave - 0/1
+Merida
+
+Cinderella - 0/3
+Cinderella
+
+Darkwing Duck - 0/5
+Morgana Macawber
+
+Disney Fairies - 0/6
+Fawn
+Iridessa
+Periwinkle
+Rosetta (DF)
+Silvermist
+Vidia
+DuckTales - 0/17
+Bentina Beakley
+Della Duck
+Lena De Spell
+Magica De Spell
+Penumbra
+Webby Vanderquack
+
+Fillmore! - 0/1
+Ingrid Third
+
+Finding Nemo - 0/6
+Coral
+Dory
+
+Fireball - 0/1
+Drossel von Flügel
+
+Fish Hooks - 0/1
+Clamantha
+Frozen - 0/7
+Anna (Frozen)
+Elsa
+
+Gargoyles - 0/4
+Demona
+
+Goof Troop - 0/1
+Peg Pete
+
+Gravity Falls - 0/15
+Candy Chiu
+Giffany
+Mabel Pines
+Pacifica Northwest
+Wendy Corduroy
+
+Hercules - 0/4
+Megara
+Inside Out - 0/4
+Joy
+Sadness
+
+Kim Possible - 0/8
+Bonnie Rockwaller
+Dr. Vivian Francis Porter
+Kim Possible
+Shego
+
+Lilo & Stitch - 0/7
+Angel (L&S)
+Lilo Pelekai
+Nani Pelekai
+
+Mickey Mouse - 0/6
+Daisy Duck
+Minnie Mouse
+Milo Murphy's Law - 0/3
+Melissa Chase
+
+Miraculous: Tales of Ladybug & Chat Noir - 0/51
+Alix Kubdel
+Alya Césaire
+Audrey Bourgeois
+Aurore Beauréal
+Caline Bustier
+Chloé Bourgeois
+Clara Nightingale
+Emilie Agreste
+Fluff
+Juleka Couffaine
+Kagami Tsurugi
+Lila Rossi
+Marinette Dupain-Cheng
+Mylene Haprele
+Nadja Chamack
+Nathalie Sancoeur
+Nora Césaire
+Ondine
+Pollen
+Rose Lavillant
+Sabine Cheng
+Sabrina Raincomprix
+Tikki
+Trixx
+
+Moana - 0/5
+Moana
+
+Monsters, Inc. - 0/5
+Boo
+Celia Mae
+
+Mulan - 0/4
+Mulan
+
+Noelle - 0/2
+Noelle Kringle
+
+Oliver & Company - 0/3
+Georgette
+
+Peter Pan - 0/6
+Jane Darling
+Tinker Bell
+Wendy Darling
+
+Phineas & Ferb - 0/7
+Isabella Garcia-Shapiro
+Vanessa Doofenshmirtz
+
+Pirates of the Caribbean - 0/3
+Tia Dalma
+
+Pocahontas - 0/16
+Grandmother Willow
+Nakoma
+Pocahontas
+
+Pucca - 0/2
+Pucca
+
+Ralph Breaks the Internet - 0/2
+BabeRaham_Linkin
+Shank
+
+Ratatouille - 0/4
+Colette Tatou
+
+Sleeping Beauty - 0/3
+Aurora
+Maleficent
+
+Snow White and the Seven Dwarfs - 0/2
+Snow White
+
+Spirited Away - 0/5
+Chihiro Ogino
+Lin
+
+Star vs. the Forces of Evil - 0/14
+Eclipsa Butterfly
+Hekapoo
+Jackie Lynn Thomas
+Janna Ordonia
+Kelly
+Meteora Butterfly
+Moon Butterfly
+Pony Head
+Star Butterfly
+
+Star Wars - 0/55
+Captain Phasma
+Chelli Lona Aphra
+Darth Zannah
+Jaina Solo
+Leia Organa
+Mara Jade
+Mon Mothma
+Padmé Amidala
+Rey
+Shaak Ti
+Sy Snootles
+Yaddle
+
+Star Wars Rebels - 0/7
+Hera Syndulla
+Sabine Wren
+
+Star Wars: The Clone Wars - 0/13
+Ahsoka Tano
+Asajj Ventress
+
+Super Robot Monkey Team Hyperforce Go! - 0/8
+Jinmay
+Nova
+Tangled - 0/7
+Cassandra (Tangled)
+Mother Gothel
+Rapunzel
+
+Tarzan - 0/2
+Jane Porter
+
+The Aristocats - 0/5
+Duchess
+Marie (TA)
+
+The Chronicles of Narnia - 0/6
+Lucy Pevensie
+Susan Pevensie
+
+The Emperor's New Groove - 0/4
+Yzma
+
+The Great Mouse Detective - 0/6
+Olivia Flaversham
+
+The Hunchback of Notre Dame - 0/5
+Esmeralda
+
+The Incredibles - 0/6
+Helen Parr
+Violet Parr
+
+The Incredibles 2 - 0/1
+Evelyn Deavor
+
+The Legend of Tarzan - 0/1
+Queen La
+
+The Lion King - 0/15
+Kiara
+Nala
+Sarabi
+Vitani
+Zira
+
+The Little Mermaid - 0/4
+Ariel
+Ursula
+
+The Little Mermaid II: Return to the Sea - 0/1
+Melody
+
+The Muppet Show - 0/7
+Miss Piggy
+
+The Nightmare Before Christmas - 0/4
+Sally
+
+The Owl House - 0/4
+Amity Blight
+Eda the Owl Lady
+Luz Noceda
+The Princess and the Frog - 0/4
+Mama Odie
+Tiana
+
+The Proud Family - 0/3
+Suga Mama
+
+Toy Story - 0/9
+Angel Kitty
+Jessie (TS)
+
+Treasure Planet - 0/6
+Captain Amelia
+Morph
+Sarah Hawkins
+
+Up - 0/3
+Ellie Fredricksen
+
+WALL·E - 0/6
+EVE
+
+Wander over Yonder - 0/5
+Lord Dominator
+Sylvia
+
+Who Framed Roger Rabbit - 0/1
+Jessica Rabbit
+
+Winnie the Pooh - 0/5
+Kanga
+
+Wreck-It Ralph - 0/4
+Sergeant Calhoun
+Vanellope von Schweetz
+
+Yin Yang Yo! - 0/2
+Yin (YYY!)
+
+Zootopia - 0/7
+Dawn Bellwether
+Gazelle
+Judy Hopps

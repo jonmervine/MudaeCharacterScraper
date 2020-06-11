@@ -1,0 +1,558 @@
+Horror Genre   0/346
+(bundle)
+*THIS BUNDLE IS FOR THE HORROR GENRE*
+*Stuff That Gives You The Spooks*
+*Spooky Stuff*
+*Spoopy Stuff*
+*Spooks*
+*Spoops*
+*Horror*
+*Scary*
+
+.flow - 0/4
+Smile
+
+A Plague Tale: Innocence - 0/2
+Hugo de Rune
+
+Alice Mare - 0/9
+Allen Llewellyn
+Cheshire Cat (AM)
+Joshua Bartlett
+Rick (AM)
+Teacher (AM)
+White Rabbit (AM)
+
+American McGee's Alice - 0/9
+Angus Bumby
+Cheshire Cat (AMA)
+Mad Hatter (AMA)
+Tweedledee
+Tweedledum
+Amnesia: The Dark Descent - 0/2
+Alexander
+Daniel
+
+Ao Oni - 0/2
+Hiroshi
+The Oni
+
+Baldi's Basics in Education and Learning - 0/1
+Baldi
+
+Bendy and the Ink Machine - 0/4
+Bendy
+Boris the Wolf
+Sammy Lawrence
+
+Blood - 0/1
+Caleb
+Boyfriend to Death - 0/7
+Ashe (BtD)
+Damien Morningstar
+Lawrence Oleander
+Ren (BtD)
+Rire
+Strade
+Vincent Metzger
+
+Clock Tower 2 - 0/1
+Edward
+
+Close Your Eyes - 0/1
+Marshmallow Monk
+
+Coffin of Ashes - 0/3
+Ian (CoA)
+
+Confess My Love - 0/1
+Willie
+Corpse Party - 0/15
+Kensuke Kurosaki
+Sakutaro Morishige
+Satoshi Mochida
+Yoshikazu Yanagihori
+Yoshiki Kishinuma
+Yuuya Kizami
+
+Corpse Party: Book of Shadows - 0/9
+Kai Shimada (CP)
+Masato Fukuroi
+Tsukasa Mikuni
+
+Creepypasta - 0/30
+...
+Glitchy Red
+Herobrine
+Sonic.EXE
+Cry of Fear - 0/4
+Book Simon
+Doctor Purnell
+Sawrunner
+Simon Henriksson
+
+Dark Seed - 0/1
+Mike Dawson
+
+Dead by Daylight - 0/21
+Ace Visconti
+David King
+Dwight Fairfield
+Evan MacMillan
+F. J. S. J.
+Herman Carter
+Jake Park
+Kazan Yamaoka
+Kenneth Chase
+Max Thompson Jr.
+Philip Ojomo
+
+Dead Island - 0/1
+Sam B
+
+Dead Rising - 0/2
+Frank West
+
+Dead Rising 2 - 0/3
+Carl Schliff
+Chuck Greene
+
+Dead Rising 3 - 0/1
+Nick Ramos
+
+Dead Space - 0/5
+Gabe Weller
+Isaac Clarke
+John Carver
+Marine Colonel
+Nolan Stross
+
+Deadly Premonition - 0/3
+Forrest Kaysen
+Francis York Morgan
+Willie (DP)
+
+Doki Doki Literature Club! - 0/5
+Protagonist (DDLC)
+
+Dying Light - 0/2
+Kyle Crane
+
+Echo - 0/1
+Leo Alvarez
+
+F.E.A.R. - 0/2
+Point Man
+
+Fantasy Maiden's Odd Hideout - 0/3
+Bernd (FMOH)
+D (FMOH)
+
+Fatal Frame - 0/3
+Mafuyu Hinasaki
+
+Fatal Frame III - 0/4
+Kei Amakura
+Yuu Asou
+
+Five Nights at Freddy's - 0/19
+Balloon Boy
+Bonnie
+Crying Child
+Foxy
+Freddy Fazbear
+Funtime Foxy
+Funtime Freddy
+Glitchtrap
+Golden Freddy
+Lolbit
+Mangle
+Nightmare (FNaF)
+Nightmare Fredbear
+Nightmarionne
+Phone Guy
+William Afton
+
+Fran Bow - 0/5
+Itward
+Mr. Midnight
+Palontras
+Remor
+
+Freddy Fazbear's Pizzeria Simulator - 0/4
+Candy Cadet
+Helpy
+Rockstar Freddy
+
+Galerians - 0/1
+Rion Steiner
+
+Gregory Horror Show - 0/8
+Cactus Gunman
+Gregory
+Hell's Chef
+Judgement Boy
+Neko Zombie
+
+Halloween - 0/2
+Michael Myers
+
+Hello Charlotte - 0/20
+Aiden
+Baldwin
+Bennett
+C
+Charles Eyler
+Felix Honikker
+Frei
+Goodwin
+Henry Huxley
+Magcat
+Seth (HC)
+Umbrella Man
+Vincent Fennell
+Vincent Fennell (HG)
+
+Hunt Down The Freeman - 0/1
+Mitchell Shephard
+
+I Have No Mouth, and I Must Scream - 0/1
+AM
+
+Ib - 0/3
+Garry
+
+Identity V - 0/18
+Aesop Carl
+Eli Clark
+Freddy Riley
+Jack the Ripper (IDV)
+Jose Baden
+Joseph (IDV)
+Kevin Ayuso
+Mike Morton
+Naib Subedar
+Norton Campbell
+Robbie White
+William Ellis
+Wu Chang
+
+IMSCARED - 0/1
+White Face
+
+Kara no Shoujo - 0/8
+Reiji Tokisaka
+
+Killing Floor - 0/3
+Mr. Foster
+William Masterson
+
+Kirisame ga Furu Mori - 0/4
+Koutarou Suga
+Mochizuki Yousuke
+
+Left 4 Dead - 0/8
+Bill
+Coach
+Ellis
+Francis
+Louis (L4D)
+Nick
+
+Liar Liar - 0/7
+Akira Tobitaka
+Koshi Tanaka
+Satoru Wakabayashi
+Tohru Kunikuda
+Yukabayashi
+Lobotomy Corporation - 0/41
+Abel (LC)
+Abram
+Adam (LC)
+Apocalypse Bird
+Army in Black
+Ayin
+Big and Will be Bad Wolf
+Big Bird (LC)
+Blue Star
+CENSORED
+Chesed
+Der Freischütz
+Hokma
+Judgement Bird
+Mountain of Smiling Bodies
+Netzach
+Nothing There
+One Sin and Hundreds of Good Deeds
+Punishing Bird
+The Firebird
+The Funeral of the Dead Butterflies
+The Silent Orchestra
+Tiphereth B
+WhiteNight
+Yesod
+You're Bald
+
+Lunacy - 0/1
+Fred (Lunacy)
+
+Mad Father - 0/4
+Alfred Drevis
+Dio (MF)
+
+Menherafflesia - 0/6
+Itarou
+
+Metro 2033 - 0/6
+Artyom
+Bourbon (Metro)
+Eugine
+Khan
+Miller (Metro)
+Ulman
+
+Metro Exodus - 0/9
+Alyosha
+Damir
+Duke (ME)
+Idiot
+Krest
+Sam (Metro)
+Stepan
+Tokarev (Metro)
+Yermak
+
+Metro Last Light - 0/2
+Pavel (Metro)
+Misao - 0/5
+Hideki Sohta
+Mr. Onigawara
+
+Mogeko Castle - 0/7
+Defect Mogeko
+King mogeko
+Moffuru
+Mogecuckoo
+Shinya Kurai
+
+OMORI - 0/1
+OMORI
+
+Outlast - 0/1
+Eddie Gluskin
+
+Pocket Mirror - 0/8
+Strange Boy
+Raging Loop - 0/3
+Haruaki Fusaishi
+
+Resident Evil 1 - 0/5
+Albert Wesker
+Barry Burton
+Chris Redfield
+
+Resident Evil 2 - 0/7
+HUNK (RE)
+Leon Scott Kennedy
+T-00
+William Birkin
+
+Resident Evil 3: Nemesis - 0/2
+Carlos Oliveira
+Nemesis-T Type
+
+Resident Evil 4 - 0/5
+Jack Krauser
+Luis Sera
+Merchant
+Ramon Salazar
+
+Resident Evil 5 - 0/2
+Ricardo Irving
+
+Resident Evil 6 - 0/3
+Jake Muller
+Piers Nivans
+
+Resident Evil 7: Biohazard - 0/5
+Jack Baker
+Joe Baker
+Lucas Baker
+
+Resident Evil CODE: Veronica - 0/2
+Alfred Ashford
+Steve Burnside
+Resident Evil Zero - 0/1
+Billy Coen
+
+Resident Evil: Operation Raccoon City - 0/3
+VECTOR (RE)
+
+RPG Call of Cthulhu - 0/5
+Billy Faraday
+Don Javier F. Azaghal
+James K. O'Flannagan
+Stephen H.P. Venkman
+Thomas E. Faraday
+
+Rule of Rose - 0/2
+Brown
+
+S.T.A.L.K.E.R. - 0/7
+Cardan
+Doctor (STALKER)
+Major Degtyarev
+Nimble
+Scar (STALKER)
+Sidorovich
+Strelok
+
+Sally Face - 0/6
+Larry Johnson
+Neil
+Sal Fisher
+Todd Morrison
+Travis Phelps
+
+Satsuriku no Tenshi - 0/8
+Abraham Gray
+Daniel Dickens
+Edward Mason
+Isaac Foster
+
+Saya no Uta - 0/6
+Fuminori Sakisaka
+Koji Tonoh
+
+SCP Foundation - 0/38
+SCP-035
+SCP-049
+SCP-066
+SCP-079
+SCP-096
+SCP-1048
+SCP-106
+SCP-173
+SCP-682
+
+Shadows of the Damned - 0/1
+Johnson
+
+Silent Hill 1 - 0/5
+Harry Mason
+Silent Hill 2 - 0/5
+James Sunderland
+Pyramid Head
+
+Siren - 0/4
+Kei Makino
+Kyoya Suda
+Shiro Miyata
+
+SOMA - 0/1
+Simon Jarett
+
+Spirit Hunter: NG - 0/3
+Akira Kijima
+Seiji Amanome
+
+Sweet Pool - 0/5
+Kitani Kouhei
+Makoto Mita
+Tetsuo Shironuma
+Youji Sakiyama
+Zenya Okinaga
+
+Tattletail - 0/1
+Baby Talking Tattletail
+
+The Asylum: Closed Ward - 0/1
+Uzur Honazar
+
+The Boogie Man - 0/7
+Boogie Man
+Brendon Dumont
+Dick Anderson
+Keith Baring
+Lance Kanal
+Tod Baring
+
+The Crooked Man - 0/8
+Crooked Man
+D (TCM)
+David Hoover
+Fluffy
+Paul Martin
+
+The Dark Pictures Anthology - 0/1
+The Curator
+
+The Evil Within - 0/5
+Joseph Oda
+Ruben Victoriano
+Sebastian Castellanos
+Stefano Valentini
+
+The Hanged Man - 0/5
+Edward Hayes
+Pop (THM)
+Robert Hayes
+William Morton
+
+The Letter - 0/5
+Ashton Frey
+Luke Wright
+
+The Texas Chainsaw Massacre - 0/1
+Leatherface
+
+The Walking Dead - 0/7
+Paul Monroe
+
+The Walking Dead: A Telltale Game Series - 0/14
+Alvin Jr.
+Arvo
+Ben Paul
+Duck
+James (TWD)
+Kenny
+Lee Everett
+Louis (TWD)
+Mitch
+Nick (TWD)
+Tennessee
+
+Until Dawn - 0/9
+Chris Hartley
+Dr. Hill
+Joshua Washington
+Matt Taylor
+Mike Munroe
+
+Vampire: The Masquerade - Bloodlines - 0/3
+Beckett
+Sebastian LaCroix
+
+Vampyr - 0/2
+Edgar Swansea
+Jonathan Reid
+
+We Happy Few - 0/3
+Arthur Hastings
+Bobby
+White Day: A Labyrinth Named School (R) - 0/4
+Kim Ji-wo
+
+Witch's Heart - 0/14
+Ashe Bradley
+Forest Fairy Pippi
+Noel Levine
+Sirius Gibson
+Wilardo Adler
+
+Yanderella - 0/3
+Yatarou
+
+Year Walk - 0/2
+The Brook Horse
+The Church Grim

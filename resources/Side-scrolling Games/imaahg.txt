@@ -1,0 +1,474 @@
+Side-scrolling Games   0/340
+(bundle)
+​
+1bitHeart - 0/51
+Akashi Oihara
+Akitaka Kujoh
+Akuta Kamome
+Asuto Aizen
+Enri Kumashiro
+Haruya Nasuki
+Hitohito Kogure
+Izuchi Nasuga
+Jin Chigaya
+Kirai Nasuga
+Kiri Kuruga
+Kotora Yatano
+Kuroku Yakumo
+Mikado Aisaka
+Moroku Hasuya
+Natsukage Suoh
+Nio Amaha
+Nomiya Yosaka
+Ryuuri Kujoh
+Sora Kamui
+Takamiya Kyouri
+Yoh
+Yoshi Nanase
+Yukinaga Asagi
+Yuuto Oui
+
+Azure Striker Gunvolt - 0/28
+Asimov
+Asroc
+Copen
+Crimm
+Ghauri
+Gunvolt
+Merak
+Milas
+Nova Tsukuyomi
+Rebellio
+Stratos
+Tenjian
+Teseo
+Viper (ASG)
+Zeno (ASG)
+
+Battleblock Theater - 0/1
+Hatty Hattington
+
+Castle Crashers - 0/9
+Blacksmith
+Blue Knight
+Gray Knight
+Green Knight
+Necromancer
+Orange Knight
+Pink Knight
+Red Knight
+The King (CC)
+
+Castlevania I - 0/3
+Death (CV)
+Dracula
+Simon Belmont
+
+Castlevania III: Dracula's Curse - 0/2
+Trevor Belmont
+
+Castlevania: Aria of Sorrow - 0/6
+Genya Arikado
+Hammer
+Julius Belmont
+Soma Cruz
+
+Castlevania: Bloodlines - 0/2
+Eric Lecarde
+John Morris
+
+Castlevania: Circle of the Moon - 0/1
+Nathan Graves
+
+Castlevania: Harmony of Dissonance - 0/2
+Juste Belmont
+The Merchant (CV)
+
+Castlevania: Order of Ecclesia - 0/2
+Albus
+
+Castlevania: Portrait of Ruin - 0/4
+Jonathan Morris
+
+Castlevania: Rondo of Blood - 0/2
+Richter Belmont
+
+Castlevania: Symphony of the Night - 0/2
+Alucard (CV)
+
+Cave Story - 0/7
+Balrog (CS)
+Kazuma Sakamoto
+King (CS)
+Quote
+Celeste - 0/5
+Mr. Oshiro
+Theo
+
+Cuphead - 0/9
+Cagney Carnation
+Cuphead
+Grim Matchstick
+King Dice
+Mugman
+The Devil (CH)
+Werner Werman
+
+Dead Cells - 0/1
+The Beheaded
+
+Donkey Kong Country - 0/4
+Diddy Kong
+Donkey Kong
+Funky Kong
+King K. Rool
+
+Donkey Kong Country 3: Dixie Kong's Double Trouble! - 0/1
+Kiddy Kong
+
+Double Dragon - 0/3
+Billy Lee
+Jimmy Lee
+
+Dust: An Elysian Tail - 0/3
+Dust
+
+Elsword - 0/43
+Add
+Ainchase Ishmael
+Angkor
+Chung
+Ciel
+Dekal
+Denif
+Drabaki
+Ebalon
+Elsword
+Eltrion
+Gaia (Elsword)
+Haivan
+Hennon
+Herbaon
+Perkisas
+Ran (Elsword)
+Raven Cronwell
+Rosso
+Solace
+Stirbargen
+Ventus (Elsword)
+Winster
+Yuno (Elsword)
+
+Flappy Bird - 0/1
+Flappy Bird
+
+Ghosts 'n Goblins - 0/2
+Arthur
+Firebrand
+
+Hollow Knight - 0/26
+Broken Vessel
+Brumm
+Cornifer
+Dung Defender
+False Knight
+Grimm
+Grimmchild
+Lemm
+Nosk
+Pale King
+Quirrel
+Soul Master
+The Hollow Knight
+The Knight
+Tiso
+Traitor Lord
+Zote
+
+Iji - 0/3
+Asha
+Tor
+
+Katana ZERO - 0/6
+Fifteen
+The Psychiatrist
+V (KZ)
+Zero (KZ)
+
+Kid Icarus - 0/12
+Arlon
+Cragalanche the Mighty
+Dark Pit
+Hades (KI)
+Magnus (KI)
+Pit
+Pyrrhon
+
+Kirby - 0/38
+0²
+Bandana Dee
+Chef Kawasaki
+Dark Matter
+Daroach
+Escargoon
+Galacta Knight
+Green Kirby
+Hyness
+King Dedede
+Kirby
+Kracko
+Magolor
+Marx
+Meta Knight
+Morpho Knight
+Nago
+Nightmare Wizard
+NME Salesguy
+President Haltmann
+Prince Fluff
+Red Kirby
+Rick (Kirby)
+Taranza
+Void Termina
+Whispy Woods
+Yellow Kirby
+
+Limbo - 0/1
+Nameless Boy
+
+LISA: The First - 0/2
+Marty Armstrong
+
+LISA: The Painful - 0/8
+Big Lincoln
+Brad Armstrong
+Buzzo
+Fly Minetti
+Garth (LISA)
+Rando
+Terry Hintz
+
+MapleStory - 0/31
+Alpha (MS)
+Arkarium
+Damien
+Demon
+Evan
+Jay
+Kinesis
+Lotus
+Luminous
+Magnus
+Phantom
+Shade (MS)
+Von Leon
+Will
+
+Mega Man (Classic) - 0/33
+Air Man
+Aqua Man
+Ballade
+Bass
+Blast Man
+Blizzard Man
+Burner Man
+Cut Man
+Dr. Cossack
+Dr. Light
+Dr. Wily
+Drill Man
+Duo (MM)
+Elec Man
+Enker
+Fire Man
+Gemini Man
+Jupiter (MM)
+Mega Man
+Proto Man
+Punk (MM)
+Quick Man
+Rush
+Shadow Man
+Skull Man
+Snake Man
+Solar Man
+Tornado Man
+Tundra Man
+Wood Man
+
+Mega Man Legends - 0/7
+Barrett
+Data (MML)
+MegaMan Volnutt
+Mega Man X - 0/19
+Axl
+Blaze Heatnix
+Dynamo
+Flame Hyenard
+Gate
+High Max
+Lumine (MMX)
+Magma Dragoon
+Rainy Turtloid
+Sigma (MMX)
+Signas
+Storm Eagle
+Tidal Whale
+Vile
+X
+Zero
+
+Mega Man Zero - 0/8
+Copy X
+Elpizo
+Fighting Fefnir
+Hidden Phantom
+Omega
+Sage Harpuia
+
+Mega Man ZX - 0/5
+Prometheus (MMZX)
+Vent
+
+Mega Man ZX Advent - 0/6
+Aeolus
+Grey (MMZXA)
+Siarnaq
+Thetis
+
+Metal Slug - 0/9
+Donald Morden
+Marco Rossi
+Rootmars
+Tarma Roving
+
+Metroid - 0/13
+Baby Metroid
+Diggernaut
+Ghor
+Kraid
+Nightmare (MR)
+Ridley
+Rundas
+SA-X
+U-Mos
+
+Mighty No.9 - 0/3
+Beck (MN9)
+
+New Super Mario Bros. - 0/1
+Dry Bowser
+Ori and the Blind Forest - 0/4
+Gumo
+Ori
+
+Prinny: Can I Really Be the Hero? - 0/1
+Hero Prinny
+
+Rayman - 0/7
+Globox
+Grand Minimus
+Murfy
+Rayman
+
+Shantae - 0/12
+Bolo
+Squid Baron
+
+Shovel Knight - 0/12
+Black Knight (SK)
+King Knight
+Mole Knight
+Mr. Hat
+Plague Knight
+Propeller Knight
+Reize
+Shovel Knight
+Specter Knight
+
+Sonic Advance 2 - 0/3
+Cheese (Sonic)
+
+Sonic Advance 3 - 0/1
+Gemerl
+
+Sonic the Hedgehog - 0/2
+Dr. Robotnik
+Sonic the Hedgehog
+
+Sonic the Hedgehog 2 - 0/1
+Tails
+Sonic the Hedgehog 3 - 0/1
+Knuckles the Echidna
+
+Spelunky - 0/1
+Spelunky Guy
+
+SteamWorld Dig - 0/2
+Rusty
+
+SteamWorld Dig 2 - 0/1
+Fen
+
+Streets of Rage - 0/3
+Adam Hunter
+Axel Stone
+
+Streets of Rage 2 - 0/2
+Eddie Hunter
+Max Hatchett
+Super Mario Bros. - 0/4
+Bowser
+Luigi
+Mario
+
+Super Mario Bros. 2 - 0/3
+Toad
+Wart
+
+Super Mario Bros. 3 - 0/7
+Iggy Koopa
+Larry Koopa
+Lemmy Koopa
+Ludwig von Koopa
+Morton Koopa Jr.
+Roy Koopa
+
+Super Mario Maker - 0/1
+Undodog
+Super Mario World - 0/1
+Yoshi
+
+Super Mario World 2: Yoshi's Island - 0/2
+Kamek
+Poochy
+
+Super Meat Boy - 0/4
+Dr. Fetus
+Meat Boy
+
+Super Paper Mario - 0/13
+Count Bleck
+Dimentio
+Flint Cragley
+Francis (SPM)
+Merlon
+Mr. L
+O'Chunks
+Old Man Watchitt
+Super Dimentio
+
+Terraria - 0/13
+Eater of Worlds
+Eye of Cthulhu
+King Slime
+Moon Lord
+Retinazer
+Skeletron
+Skeletron Prime
+Spazmatism
+The Guide
+Wall of Flesh
+
+Zelda II: The Adventure of Link - 0/1
+Dark Link

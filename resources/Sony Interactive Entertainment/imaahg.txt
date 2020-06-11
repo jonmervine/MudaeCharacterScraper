@@ -1,0 +1,283 @@
+Sony Interactive Entertainment   0/181
+(bundle)
+*Sony*
+*Sony Computer Entertainment*
+*SIE*
+*SCE*
+
+24: The Game - 0/1
+Jack Bauer
+
+Ape Escape - 0/1
+Specter
+
+Ape Escape 2 - 0/1
+Pipotchi
+
+Ape Escape 3 - 0/2
+Kei (AE)
+
+Armored Core - 0/3
+Evangel
+Jack-O
+
+Beyond: Two Souls - 0/4
+Cole Freeman
+Nathan Dawkins
+Ryan Clayton
+Bloodborne - 0/16
+Cleric Beast
+Father Gascoigne
+Gehrman
+Laurence, the First Vicar
+Ludwig, the Holy Blade
+Martyr Logarius
+Micolash
+Moon Presence
+Orphan of Kos
+The Hunter
+
+Castle Crashers - 0/9
+Blacksmith
+Blue Knight
+Gray Knight
+Green Knight
+Necromancer
+Orange Knight
+Pink Knight
+Red Knight
+The King (CC)
+
+Crash Bandicoot - 0/19
+Aku Aku
+Crash Bandicoot
+Crunch Bandicoot
+Dingodile
+Doctor N. Gin
+Doctor Neo Cortex
+Ebenezer Von Clutch
+Fake Crash
+Koala Kong
+Ripper Roo
+Tiny Tiger
+
+Dark Cloud - 0/1
+Toan
+Dark Cloud 2 - 0/2
+Maximilian
+
+Death Stranding - 0/9
+BB-28
+Cliff
+Heartman
+Higgs
+Sam Porter Bridges
+The Wandering MC
+
+Demon's Souls - 0/3
+Patches
+
+Detroit: Become Human - 0/16
+Connor
+Daniel (DBH)
+Gavin Reed
+Hank Anderson
+Jerry (DBH)
+Josh
+Luther
+Markus
+Ralph
+RK900
+Simon (DBH)
+Sumo
+
+Doko Demo Issyo - 0/2
+Kuro (DDI)
+Toro Inoue
+
+God of War - 0/11
+Ares
+Atlas (GoW)
+Atreus
+Baldur
+Brok
+Kratos
+Mimir
+Sindri
+World Serpent
+Zeus
+
+Gravity Rush - 0/5
+Dusty
+Syd
+
+Gravity Rush 2 - 0/5
+Fi Sun
+Lumino
+
+Heavy Rain - 0/4
+Ethan Mars
+Norman Jayden
+Scott Shelby
+
+Horizon Zero Dawn - 0/5
+Erend
+Rost
+Varl
+
+Ico - 0/2
+Ico
+
+inFAMOUS - 0/4
+Cole MacGrath
+Kessler
+Zeke Dunbar
+
+inFAMOUS: Second Son - 0/2
+Delsin Rowe
+
+Jak and Daxter - 0/4
+Daxter
+Jak
+
+Journey - 0/1
+The Traveler
+Killzone - 0/1
+Mael Radec
+
+Knack - 0/1
+Knack
+
+LittleBigPlanet - 0/1
+Sackboy
+
+MediEvil - 0/1
+Sir Daniel Fortesque
+
+Nioh - 0/3
+William
+
+Okage: Shadow King - 0/10
+Ari
+Beiloune
+Big Bull
+Epros
+Gutten Kisling
+James (O:SK)
+Stan
+
+PaRappa the Rapper - 0/7
+General Potter
+Hairdresser Octopus
+Parappa
+PJ Berri
+
+PAYDAY - 0/6
+Chains
+Dallas
+Houston
+Hoxton
+Jiro (PD)
+Wolf (PD)
+
+Ratchet & Clank - 0/4
+Captain Qwark
+Clank
+Dr. Nefarious
+Ratchet
+
+Ratchet & Clank: Going Commando - 0/1
+Abacrombie Fizzwidget
+
+Resistance - 0/3
+Daedalus
+Fyodor Malikov
+Nathan Hale
+
+Rule of Rose - 0/2
+Brown
+
+Shadow of the Colossus - 0/8
+Dormin
+Gaius (SotC)
+Lord Emon
+Quadratus
+Valus
+Wander
+
+Siren - 0/4
+Kei Makino
+Kyoya Suda
+Shiro Miyata
+
+Sly 2: Band of Thieves - 0/5
+Arpeggio
+Dimitri Lousteau
+Jean Bison
+Rajan
+
+Sly 3: Honor Among Thieves - 0/6
+Captain LeFwee
+Don Octavio
+Dr. M
+General Tsao
+The Guru
+Sly Cooper and the Thievius Raccoonus - 0/8
+Bentley
+Clockwerk
+Muggshot
+Murray
+Panda King
+Sly Cooper
+Tennessee Kid Cooper
+
+Spyro the Dragon - 0/10
+Bubba
+Gavin (Spyro)
+Hunter The Cheetah
+Magnus (Spyro)
+Moneybags
+Nestor
+Spyro
+
+The Last Guardian - 0/2
+The Boy
+Trico
+
+The Last of Us - 0/9
+David (TLoU)
+Henry (TLoU)
+Joel
+Sam (TLoU)
+Tommy
+
+The Legend of Dragoon - 0/9
+Albert (TLoD)
+Dart Feld
+Haschel
+Kongol
+Lavitz
+
+Tomba! - 0/1
+Tomba
+Twisted Metal - 0/5
+Axel (TM)
+Mr. Grimm
+No-Face (TM)
+Sweet Tooth
+
+Uncharted - 0/8
+Harry Flynn
+Nathan Drake
+Rafe Adler
+Samuel Drake
+Victor Sullivan
+
+Until Dawn - 0/9
+Chris Hartley
+Dr. Hill
+Joshua Washington
+Matt Taylor
+Mike Munroe
+Wild ARMs - 0/3
+Jet Enduro

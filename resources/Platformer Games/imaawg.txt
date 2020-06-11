@@ -1,0 +1,537 @@
+Platformer Games   0/329
+(bundle)
+*Platformers*
+*Platform Games*
+*Platforming Games*
+
+A Hat In Time - 0/11
+Bow Kid
+Cooking Cat
+Hat Kid
+Mustache Girl
+Rumbi
+The Empress
+
+Adventures of Girl Alchemist Annette - 0/1
+Ryona
+
+Athena - 0/1
+Athena
+
+Azure Striker Gunvolt - 0/28
+Blade (ASG)
+Desna
+Elise (ASG)
+Gibril
+Isola
+Joule
+Kohaku (ASG)
+Lola (ASG)
+Lumen
+Maria (ASG)
+Mytyl
+Stella (ASG)
+Zonda
+
+Banjo-Kazooie - 0/10
+Gruntilda
+Kazooie
+The Mighty Jinjonator
+Tooty
+
+Banjo-Tooie - 0/5
+Humba Wumba
+
+Blaster Master Zero - 0/4
+Eve (BMZ)
+Kanna (BMZ)
+Tae (BMZ)
+
+Brawlhalla - 0/18
+Ada
+Artemis (BH)
+Brynn
+Cassidy (BH)
+Ember (BH)
+Hattori
+Kaya (BH)
+Nix (BH)
+Scarlet (BH)
+Sidra
+Yumiko
+
+Bunny Must Die! Chelsea and the 7 Devils - 0/1
+Bunny (BMD)
+
+Cally's Caves - 0/1
+Cally
+
+Castlevania III: Dracula's Curse - 0/2
+Sypha Belnades
+
+Castlevania: Aria of Sorrow - 0/6
+Mina Hakuba
+Yoko Belnades
+
+Castlevania: Order of Ecclesia - 0/2
+Shanoa
+
+Castlevania: Portrait of Ruin - 0/4
+Charlotte Aulin
+Loretta (CV)
+Stella (CV)
+
+Castlevania: Rondo of Blood - 0/2
+Maria Renard
+Castlevania: Symphony of the Night - 0/2
+Lisa Tepes
+
+Cave Story - 0/7
+Curly Brace
+Misery (CS)
+Sue Sakamoto
+
+Celeste - 0/5
+Badeline
+Madeline
+Old Woman
+
+Child of Light - 0/3
+Aurora (CoL)
+Genovefa
+Rubella
+
+Cloudbuilt - 0/1
+Demi
+Conker's Bad Fur Day - 0/4
+Berri
+Sunflower
+
+Cookie Run - 0/71
+Beet Cookie
+Birthday Cake Cookie
+Blackberry Cookie
+Blueberry Pie Cookie
+Carrot Cookie
+Cinnamon Cookie
+Cocoa Cookie
+Cotton Candy Cookie
+Creme Puff Cookie
+Cyborg Cookie
+Dark Enchantress Cookie
+DJ Cookie
+Dr. Wasabi Cookie
+Grapefruit Cookie
+Ion Cookie Robot
+Lilac Cookie
+Lime Cookie
+Macaron Cookie
+Mala Sauce Cookie
+Marshmallow Cookie
+Matcha Cookie
+Moon Rabbit Cookie
+Moonlight Cookie
+Mustard Cookie
+Orange Cookie
+Peach Cookie
+Peppermint Cookie
+Pink Choco Cookie
+Pitaya Dragon Cookie
+Pomegranate Cookie
+Popcorn Cookie
+Princess Cookie
+Pudding Cookie
+Roguefort Cookie
+Sea Fairy Cookie
+Special Force Cookie
+Strawberry Cookie
+Walnut Cookie
+
+Copy Kitty - 0/3
+Boki Lamira
+Lymia
+
+Crash Bandicoot - 0/19
+Ami (Crash)
+Coco Bandicoot
+Isabella (Crash)
+Liz (Crash)
+Megumi (Crash)
+Nina Cortex
+Tawna
+Yaya Panda
+
+Cuphead - 0/9
+Cala Maria
+Ms. Chalice
+
+Dandara - 0/1
+Dandara
+
+Donkey Kong - 0/2
+Pauline
+
+Donkey Kong Country 2: Diddy's Kong Quest - 0/1
+Dixie Kong
+
+Drawn to Life - 0/3
+Mari
+
+Dust: An Elysian Tail - 0/3
+Fidget
+Haley
+
+Freedom Planet - 0/3
+Carol Tea
+Milla Basset
+Sash Lilac
+
+Germination - 0/1
+Astronaut
+
+GRIS - 0/1
+GRIS
+
+Haydee - 0/1
+Haydee
+
+Hollow Knight - 0/26
+Bretta
+Broken Vessel
+Cloth
+God Tamer
+Grimmchild
+Hornet
+Myla
+Nosk
+Seer
+The Hollow Knight
+The Knight
+The Radiance
+White Lady
+Willoh
+
+Ice Climber - 0/2
+Nana
+
+Iconoclasts - 0/6
+Agent Black
+Mina (Iconoclasts)
+Robin (Iconoclasts)
+
+Jak and Daxter - 0/4
+Ashelin Praxis
+Keira
+Jazz Jackrabbit - 0/4
+Lori Jackrabbit
+
+Jet Set Radio - 0/7
+Cube (JSR)
+Gum
+Mew (JSR)
+
+Khimera: Destroy All Monster Girls - 0/1
+Chelshia
+
+Kid Icarus - 0/12
+Medusa (KI)
+Palutena
+Pandora (KI)
+Phosphora
+Viridi
+
+Kirby - 0/38
+0²
+Adeleine
+Chuchu (Kirby)
+Dark Matter
+Dyna Blade
+Flamberge
+Francisca
+Green Kirby
+Kirby
+Queen Sectonia
+Red Kirby
+Susie Haltmann
+Yellow Kirby
+Zan Partizanne
+
+La-Mulana - 0/1
+Mulbruk
+
+Mega Man (Classic) - 0/33
+Plum (MM)
+Roll
+Splash Woman
+
+Mega Man Battle Network - 0/29
+Iris.EXE
+Mayl Sakurai
+Meddy.EXE
+Roll.EXE
+Sal (MMBN)
+Yai Ayanokoji
+
+Mega Man Legends - 0/7
+Denise Marmalade
+Roll Caskett
+Tron Bonne
+Yuna (MML)
+
+Mega Man Star Force - 0/13
+Dr. Vega
+Luna Platz
+Lyra (MMSF)
+Queen Tia
+Sonia Strumm
+
+Mega Man X - 0/19
+Alia
+Iris (MMX)
+RiCO (MMX)
+
+Mega Man X: Command Mission - 0/3
+Cinnamon (MMX)
+Marino
+
+Mega Man Zero - 0/8
+Ciel (MMZ)
+Fairy Leviathan
+
+Mega Man ZX - 0/5
+Aile
+Pandora (MMZX)
+Prairie
+
+Metroid - 0/13
+Baby Metroid
+Dark Samus
+Diggernaut
+Gandrayda
+Mother Brain
+Nightmare (MR)
+SA-X
+Samus Aran
+
+Mighty No.9 - 0/3
+Call
+Dynatron
+
+Mighty Switch Force - 0/1
+Patricia Wagon
+
+Mirror's Edge - 0/1
+Faith Connors
+
+Mischief Makers - 0/1
+Marina Liteyears
+
+Momodora: Reverie Under the Moonlight - 0/3
+Kaho Reinol
+Lubella Dim
+Pardoner Fennel
+
+Ninja Gaiden - 0/4
+Irene Lew
+Momiji
+Rachel (NG)
+
+Ori and the Blind Forest - 0/4
+Kuro (Ori)
+Naru
+Ori
+Portal - 0/13
+Caroline (Portal)
+Chell
+GLaDOS
+Oracle Turret
+P-Body
+
+Prinny: Can I Really Be the Hero? - 0/1
+Hero Prinny
+
+Psycho Soldier - 0/2
+Athena Asamiya
+
+Psychonauts - 0/16
+G-Men
+Lilli Zanotto
+Linda (Psychonauts)
+Milla Vodello
+Sheegor
+Rabi-Ribi - 0/22
+Aruraune
+Ashuri
+Chocolate (RR)
+Cicini
+Cocoa
+Erina
+Irisu
+Keke Bunny
+Kotri
+Lilith (RR)
+Miriam (RR)
+Miru
+Nieve
+Nixie
+Noah (RR)
+Ribbon
+Rita (RR)
+Rumi
+Saya (RR)
+Seana
+Syaro
+Vanilla (RR)
+
+Rayman - 0/7
+Barbara (Rayman)
+Betilla
+Ly
+
+Rosenkreuzstilette - 0/2
+Grolla Seyfarth
+Spiritia Rosenberg
+
+Rosenkreuzstilette ~Freudenstachel~ - 0/3
+Eifer Skute
+Pamela Arwig
+Schirach Fühler
+
+Shantae - 0/12
+Giga Mermaid
+Holly Lingerbean
+Nega-Shantae
+Risky Boots
+Rottytops
+Shantae
+Sky
+Tuki
+Twitch (Shantae)
+Vinegar
+
+Short Peace: Ranko Tsukigime's Longest Day - 0/1
+Ranko Tsukigime
+
+Shovel Knight - 0/12
+King Knight's Mother
+Mona (SK)
+Shield Knight
+
+Sly 2: Band of Thieves - 0/5
+The Contessa
+Sly 3: Honor Among Thieves - 0/6
+Penelope
+
+Sly Cooper and the Thievius Raccoonus - 0/8
+Carmelita Fox
+
+Sonic Advance 2 - 0/3
+Cream the Rabbit
+Vanilla the Rabbit
+
+Sonic Advance 3 - 0/1
+Gemerl
+
+Sonic Adventure - 0/5
+Tikal
+
+Sonic Adventure 2 - 0/5
+Maria Robotnik
+Rouge the Bat
+The Biolizard
+
+Sonic Boom - 0/1
+Sticks the Badger
+
+Sonic CD - 0/2
+Amy Rose
+
+Sonic Forces - 0/2
+Avatar
+
+Sonic Lost World - 0/2
+Zeena
+
+Sonic Rush - 0/1
+Blaze the Cat
+
+Sonic the Hedgehog (2006) - 0/3
+Princess Elise the Third
+Sonic Unleashed - 0/3
+Dark Gaia
+
+Spyro the Dragon - 0/10
+Bianca (Spyro)
+Elora
+Sheila (Spyro)
+
+SteamWorld Dig - 0/2
+Dorothy McCrank
+
+SteamWorld Dig 2 - 0/1
+Fen
+
+Super Mario 3D Land - 0/1
+Pom Pom
+
+Super Mario Bros. - 0/4
+Peach
+Super Mario Bros. 2 - 0/3
+Birdo
+
+Super Mario Bros. 3 - 0/7
+Wendy O. Koopa
+
+Super Mario Galaxy - 0/7
+Baby Luma
+Bill Board
+Rosalina
+
+Super Mario Land - 0/1
+Daisy
+
+Super Mario Odyssey - 0/3
+Tiara (SMO)
+
+Super Mario Sunshine - 0/5
+F.L.U.D.D.
+Super Meat Boy - 0/4
+Bandage Girl
+Nugget (SMB)
+
+Super Paper Mario - 0/13
+Luvbi
+Mimi (SPM)
+Nastasia
+Tippi
+
+The Fairyland Story - 0/1
+Ptolemy
+
+Tobari and the Night of the Curious Moon - 0/2
+Hina Narukaze
+Tobari Amahane
+
+Tomb Raider - 0/2
+Lara Croft
+Samantha Nishimura
+Transformice - 0/1
+Elisah
+
+Umihara Kawase - 0/1
+Umihara Kawase
+
+Uncharted - 0/8
+Chloe Frazer
+Elena Fisher
+Nadine Ross
+
+Wandersong - 0/3
+Ash (Wandersong)
+Miriam (Ws)
+The Bard
+
+Wario Land 4 - 0/1
+Princess Shokora
+Wario Land: Super Mario Land 3 - 0/1
+Captain Syrup

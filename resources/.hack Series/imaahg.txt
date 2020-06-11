@@ -1,0 +1,21 @@
+.hack Series   0/13
+(bundle)
+*dothack*
+*dot hack*
+
+.hack - 0/7
+Balmung (.h)
+Kite
+Piros
+
+.hack//G.U. - 0/17
+Antares
+Azure Kite
+Bo
+Endrance
+Haseo
+Kuhn
+Ovan
+Skeith
+Yata (.h)
+Zelkova

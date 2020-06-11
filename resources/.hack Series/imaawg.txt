@@ -1,0 +1,25 @@
+.hack Series   0/13
+(bundle)
+*dothack*
+*dot hack*
+
+.hack - 0/7
+Aura
+BlackRose
+Mia (.h)
+Mistral
+
+.hack//G.U. - 0/17
+Aina (.h)
+Alkaid
+Atoli
+Innis
+Pi
+Saku
+Shino
+
+.hack//Roots - 0/1
+Tabby
+
+.hack//SIGN - 0/4
+Macha

@@ -1,0 +1,31 @@
+Arc System Works   0/24
+(bundle)
+*ArcSys*
+
+BlazBlue - 0/43
+Arakune
+Ghost Terumi
+Hakumen
+Hazama
+Hibiki Kohaku
+Iron Tager
+Jin Kisaragi
+Jubei
+Kagura Mutsuki
+Naoto Kurogane
+Platinum the Trinity
+Ragna the Bloodedge
+Susanoo
+Yuuki Terumi
+
+Phi Brain - 0/14
+Ana Gram
+Cubik Galois
+Freecell
+Herbert Müller
+Johan Sigmund Enigma
+Kaito Daimon
+Pinochle
+Rook Banjou Crossfield
+Sakanoue Gammon
+Souji Jikukawa
